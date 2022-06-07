@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bank xmlns="https://checkit.clontz.org" version="0.2">
+    <title>Cal State LA - MA1090</title>
+    <slug>ma-1090</slug>
+    <url>#</url>
+    <outcomes>
+        <outcome>
+            <title>Statistical Studies</title>
+            <slug>S1</slug>
+            <path>outcomes/S/S1</path>
+            <description>I can analyze information about statistical studies</description>
+        </outcome>
+        <outcome>
+            <title>Statistical Graphs</title>
+            <slug>S4-A</slug>
+            <path>outcomes/S/S4-A</path>
+            <description>I can interpret statistical graphs.</description>
+        </outcome>
+    </outcomes>
+</bank>

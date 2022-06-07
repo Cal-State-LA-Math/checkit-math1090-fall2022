@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+<!--     {{#statement_version}} -->
+<!--         {{#A}} -->
+    <intro>
+      <p>
+          A critical component to our understanding of statistics is being able to read and understand graphs. It is also critical that we be able to look at graphs and identify any flaws they might have. Be sure to answer ALL the questions.
+      </p>
+        <p>
+            <image source="assets/S4-A/1101.png" description="Bar graph showing Ivy League applications and admissions for the Class of 2020, broken down by Ivy League school."/>
+        </p>
+        <p>
+            Ivy League Admissions, Class of 2020
+        </p>
+      <p>
+          Use the graph above to answer the questions.
+      </p>
+    </intro>
+    <knowl>
+          <content><p>What type of graph is this?</p></content>
+          <outtro><p>bar graph</p></outtro>
+    </knowl>
+    <knowl>
+          <content><p>What percent of all applicants to {{var_name1}} are accepted? What information in the graph tells you this answer?</p></content>
+      <outtro><p>{{percentage_value1}}%</p></outtro>
+    </knowl>
+    <knowl>
+          <content><p>What do the {{color}} bars on the graph mean in the context of the real world?</p></content>
+      <outtro><p>{{color_meaning}}</p></outtro>
+    </knowl>
+    <knowl>
+          <content><p>According to the graph, how many applicants {{action}} {{var_name2}} for the class of 2020?</p></content>
+      <outtro><p>{{var_big2}}</p></outtro>
+      </knowl>
+<!--       {{/A}} -->
+<!--       {{#B}} -->
+   <content>
+    
+    <p>
+       A critical component to our understanding of statistics is being able to read and understand graphs. It is also critical that we be able to look at graphs and identify any flaws they might have. Be sure to answer ALL the questions.
+    </p>
+    <figure>
+            <image TEMP-assets-url="https://cal-state-la-math.github.io/checkit-ma1090/assets/" TEMP-assets-file="S4-A/{{scenario}}.png"/>
+            <caption> Chart of gender composition of essential workers, broken by industry </caption>
+            <description> A chart showing the breakdown of essential workers by gender in certain industries. </description>
+        </figure>
+ 
+       Use the graph above to answer the questions.
+       <list>
+        <item><p>What type of graph is this?</p></item>
+        <item><p>What percent of {{var_name1}} are women? What information in the graph tells you this answer?</p></item>
+        <item><p>What do the purple bars mean in the context of the real world?</p></item>
+        <item><p>According to the graph, approximately how many women work as {{var_name2}}?</p></item>
+        <item><p>Some people have argued that women are impacted more than men by requiring essential workers to continue working during the pandemic. Do you agree or disagree with this statement? Why? Use information provided by the graph to support your argument.</p></item>
+        </list>
+    </content>
+    <outtro>
+        <title>Partial Solution:</title>
+    <ol label="1">
+        <li>bar graph</li>
+        <li>{{var_small1}}%</li>
+        <li>The percentage of workers in that field that are women</li>
+        <li>{{percentage_value2}} women</li>
+        <li>Answers will vary</li>
+      </ol>
+    </outtro>
+<!--         {{/B}} -->
+<!--         {{#C}} -->
+    <content>
+       <p>
+       A critical component to our understanding of statistics is being able to read and understand graphs. It is also critical that we be able to look at graphs and identify any flaws they might have. Be sure to answer ALL the questions.
+    </p>
+    <figure>
+            <image TEMP-assets-url="https://cal-state-la-math.github.io/checkit-ma1090/assets/" TEMP-assets-file="S4-A/{{scenario}}.png"/>
+            <caption> Mask wearing by Country </caption>
+            <description> A chart showing the percentage of the population in certain countries wearing masks over some months in 2020. </description>
+        </figure>
+      <p>
+          <ol label="1">
+              <li>What type of graph is this?</li>
+              <li>Could you use a {{action}} graph to display this data? Why or why not?</li>
+              <li>What data is being represented on the x- and y- axes?</li>
+              <li>What data does the {{var_name1}} line represent? Be sure to give the real world context for your answer.</li>
+              <li>Compare Singapore and Japan in April. What is happening?</li>
+              <li>Explain why the Japan line is so short compared to the other lines.</li>
+              <li>What is the overall trend in the {{var_small2}} from May to July? Be sure to include real world context.</li>
+          </ol>
+      </p>
+       
+    </content>
+    <outtro>
+        <title>Partial Solution:</title>
+    <ol label="1">
+        <li>{{hist_shape}}</li>
+        <li>No, {{color_meaning}}</li>
+        <li>x-axes is {{hist_var}} and the y-axes is {{hist_var2}}.</li>
+        <li>The {{hist_low}} {{hist_data}} {{var_small1}}</li>
+        <li> The lines cross, Singapore catches up and surpasses the % of mask wears in Japan, Japan and Singapore have about hte same % of people wearing masks (any of these are good)</li>
+        <li>Japan shared less of their data or did not collecet data on mask wearing as long as the other countries.</li>
+        <li>The % is going up (other details can be given)</li>
+    </ol>
+    </outtro>
+<!--         {{/C}} -->
+<!--         {{#D}} -->
+   <content>
+    
+    <p>
+       A critical component to our understanding of statistics is being able to read and understand graphs. It is also critical that we be able to look at graphs and identify any flaws they might have. Be sure to answer ALL the questions.
+    </p>
+    <figure>
+            <image TEMP-assets-url="https://cal-state-la-math.github.io/checkit-ma1090/assets/" TEMP-assets-file="S4-A/{{scenario}}.png"/>
+            <caption>Short description</caption>
+            <description>A full description for accessibility.</description>
+        </figure>
+ 
+       Use the graph above to answer the questions.
+       <ol label="1">
+        <li>What type of graph is this?</li>
+        <li>Could you use a {{action}} graph to display this data? Why or why not?</li>
+        <li>What percent of people whose household income is {{var_name1}} smoke "every day" or "some days"? What information in the graph tells you this answer? </li>
+        <li>What does the number in the bar in the {{var_name2}} line mean in the context of the information presented by the graph?</li>
+        <li>What is the trend in the percent of people who smoke "every day" or "some days" as household income {{color}}? Justify your answer with evidence from the graph.</li>
+        </ol>
+    </content>
+    <outtro>
+        <title>Partial Solution:</title>
+    <ol label="1">
+        <li>bar graph</li>
+        <li>No, {{color_meaning}}</li>
+        <li>{{var_small1}}%, the number in the bar</li>
+        <li>Out of the households that make {{var_name2}}, {{var_small2}}% of them smoke every day or some days </li>
+        <li>{{hist_name}}</li>
+      </ol>
+    </outtro>
+<!--         {{/D}} -->
+<!--         {{#E}} -->
+   <content>
+    
+    <p>
+       A critical component to our understanding of statistics is being able to read and understand graphs. It is also critical that we be able to look at graphs and identify any flaws they might have. Be sure to answer ALL the questions.
+    </p>
+    <figure>
+            <image TEMP-assets-url="https://cal-state-la-math.github.io/checkit-ma1090/assets/" TEMP-assets-file="S4-A/{{scenario}}.png"/>
+            <caption>Graph showing the share of people vaccinated against COVID-19 as of November 23, 2021</caption>
+            <description></description>
+        </figure>
+ 
+       Use the graph above to answer the questions.
+       <ol label="1">
+        <li>What type of graph is this?</li>
+        <li>Could you use a {{action}} graph to display this data? Why or why not?</li>
+        <li>What proportion of counties have at least {{percentage_value1}} of their population fully or partly vaccinated against COVID-19? What information in the graph tells you this information?</li>
+        <li>What does the number in the dark green bar in the {{var_name2}} line mean in the context of the information presented by the graph?</li>
+        <li>Given that the population of {{color}} is {{hist_var}}, according to this graph how many people in {{color}} have been fully vaccinated against COVID-19 as of November 23, 2021? Show or explain your work.</li>
+        </ol>
+    </content>
+    <outtro>
+        <title>Partial Solution:</title>
+    <ol label="1">
+        <li>bar graph or stacked bar graph or a horizontal bar graph or a horizontal stacked bar graph</li>
+        <li>No, {{color_meaning}}</li>
+        <li>{{percentage_value2}}</li>
+        <li>In {{var_name2}}, {{var_small2}}% of their population was fully vaccinated by November 23, 2021 </li>
+        <li>{{hist_name}}</li>
+      </ol>
+    </outtro>
+<!--         {{/E}} -->
+<!--         {{#F}} -->
+   <content>
+    
+    <p>
+       A critical component to our understanding of statistics is being able to read and understand graphs. It is also critical that we be able to look at graphs and identify any flaws they might have. Be sure to answer ALL the questions.
+    </p>
+    <figure>
+            <image TEMP-assets-url="https://cal-state-la-math.github.io/checkit-ma1090/assets/" TEMP-assets-file="S4-A/{{scenario}}.png"/>
+            <caption>Graph showing the percent of ransomware attacks by industry, July 2020 through June 2021.</caption>
+            <description></description>
+        </figure>
+ 
+       Use the graph above to answer the questions.
+       <ol label="1">
+        <li>What type of graph is this?</li>
+        <li>Could you use a {{action}} graph to display this data? Why or why not?</li>
+        <li>What industry has been the subject of {{percentage_value1}}% of all the ransomware attacks that happened between July 2020 and June 2021? What information in the graph tells you this information?</li>
+        <li>What does the number at the end of the bar in the {{var_name2}} line mean in the context of the information presented by the graph?</li>
+        <li>If we assume that the total number of ransomware attacks that occured between July 2020 and June 2021 was {{color}} how many attacks were there against companies in the {{hist_var}} sector? Show or explain your work.</li>
+        </ol>
+    </content>
+    <outtro>
+        <title>Partial Solution:</title>
+    <ol label="1">
+        <li>bar graph </li>
+        <li>{{color_meaning}}</li>
+        <li>{{percentage_value2}}</li>
+        <li>{{var_name2}} had {{var_small2}}% of the total percentage of all ransomware attacks on industries from July 2020 to June 2021 </li>
+        <li>{{hist_name}} attacks</li>
+      </ol>
+    </outtro>
+<!--         {{/F}} -->
+<!--    {{/statement_version}} -->
+</knowl>
