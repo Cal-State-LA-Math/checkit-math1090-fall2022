@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <intro>
+    <p><em>Scenario:</em></p>
+    <p>
+         A recent poll by Quinnipiac University asked American adults about what they thought was the most urgent issue facing the country today. The pollsters spoke to <m>{{sample}}</m> American adults from June 3rd - 6th, 2022. Of the poll participants, <m>{{result}}</m>% {{outcome}}</p>
+    </intro>
+    <knowl>
+        <content><p>What is the population that this study is trying to get information about?</p></content>
+        <outtro><p>US adults</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What is the sample?</p></content>
+        <outtro><p>The <m>{{sample}}</m> US adults polled.</p></outtro></knowl>
+    <knowl>
+        <content><p>What is the variable used for this study?</p></content>
+        <outtro><p>What US adults think the most urgent issue facing the country today is.</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What type of variable is the variable in question 3?</p></content>
+        <outtro><p>Categorical</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What is the sample statistic for this study?</p></content>
+        <outtro><p>The sample statistic is of those polled <m>{{result}}</m>% {{outcome}}</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What is the parameter of interest for this study? (the population parameter they are trying to gather information about)</p></content>
+        <outtro><p>The parameter of interest is what percentage {{outcome}}</p></outtro></knowl>
+</knowl>

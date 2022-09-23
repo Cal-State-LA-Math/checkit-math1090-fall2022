@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <intro>
+    <p><em>Scenario:</em></p>
+    <p>
+        The music booster club of the local high school offers a scholarship each year to all music students who score in the top 5% on either the SAT or the ACT. A student has to submit an SAT score or an ACT score to be considered for the scholarship. Both the SAT and the ACT are normally distributed with the following information:
+        </p>
+    <p><list>
+            <item><p>SAT: Mean of 1039 and standard deviation of 240</p></item>
+            <item><p>ACT: Mean of 18.9 and standard deviation of 1.2</p></item>
+        </list></p>
+    <p>
+        The following students have applied for the scholarship:</p>
+    <p>
+        \begin{array}[|c|c|c|]
+        \hline
+        &amp;\text{ {{var_1}} } &amp;\text{ {{var_2}} } &amp;\text{ {{var_3}} }\\
+        \hline
+        &amp;\text{ {{name_a}} } &amp;\text{ {{test_z}} } &amp;\text{ {{score_z}} }\\
+        &amp;\text{ {{name_b}} } &amp;\text{ {{test_y}} } &amp;\text{ {{score_y}} }\\
+        &amp;\text{ {{name_c}} } &amp;\text{ {{test_x}} } &amp;\text{ {{score_x}} }\\
+        &amp;\text{ {{name_d}} } &amp;\text{ {{test_w}} } &amp;\text{ {{score_w}} }\\
+        &amp;\text{ {{name_e}} } &amp;\text{ {{test_v}} } &amp;\text{ {{score_v}} }\\
+        &amp;\text{ {{name_f}} } &amp;\text{ {{test_u}} } &amp;\text{ {{score_u}} }\\
+        &amp;\text{ {{name_g}} } &amp;\text{ {{test_t}} } &amp;\text{ {{score_t}} }\\
+        &amp;\text{ {{name_h}} } &amp;\text{ {{test_s}} } &amp;\text{ {{score_s}} }\\
+        \end{array}
+      </p>
+    </intro>
+    <knowl>
+        <content><p>Which students should be awarded the scholarship? Justify your answer. Show all calculations that you use to determine how to compare their scores, including anything you typed into your calculator. If you use an app, include screenshots.</p></content>
+        <outtro><p>
+        \begin{array}[|c|c|]
+        \hline
+        &amp;\text{ {{var_1}} } &amp;\text{ {{var_4}} }\\
+        \hline
+        &amp;\text{ {{name_a}} } &amp;\text{ {{ship_a}} }\\
+        &amp;\text{ {{name_b}} } &amp;\text{ {{ship_b}} }\\
+        &amp;\text{ {{name_c}} } &amp;\text{ {{ship_c}} }\\
+        &amp;\text{ {{name_d}} } &amp;\text{ {{ship_d}} }\\
+        &amp;\text{ {{name_e}} } &amp;\text{ {{ship_e}} }\\
+        &amp;\text{ {{name_f}} } &amp;\text{ {{ship_f}} }\\
+        &amp;\text{ {{name_g}} } &amp;\text{ {{ship_g}} }\\
+        &amp;\text{ {{name_h}} } &amp;\text{ {{ship_h}} }\\
+        \end{array}
+            </p></outtro>
+    </knowl>
+</knowl>

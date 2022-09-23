@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <intro>
+    <p><em>Scenario:</em></p>
+    <p>
+        The Federal Reserve wants to get an idea of how Americans feel about the Economy. In order to get the information, the Fed partnered with Quinnipiac University to send a survey to 950 randomly selected U.S. Adults. Survey respondents completed the survey online using a code provided in the invitation. The survey was available in English and {{language}}.</p>
+    <p>
+        Survey respondents were asked to decide to what degree they agreed with the following statements. The possible answer were "Strongly Agree", "Agree", "Neither Agree or Disagree", "Disagree", "Strongly Disagree".</p>
+    
+        <list>
+            <item><p>The US economy was absolutely trashed by the closures during the pandemic.</p></item>
+            <item><p>The people responsible for taking care of the US economy have done a fantastic job setting it up to recover quickly.</p></item>
+        </list>
+    <p>
+        <m>{{sample}}</m> residents responded to the survey. <m>{{result_1}}</m>% of respondents said that they {{agree_1}} that the US economy was absolutely trashed by the closures during the pandemic and <m>{{result_2}}</m>% said that they {{agree_2}} that the people responsible for taking care of the US economy have done a fantastic job setting it up to recover quickly.</p>
+        
+    </intro>
+    <knowl>
+        <content><p>Does the above use a sampling frame? If so, what is the sampling frame?</p></content>
+        <outtro><p>No sampling frame was used</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What is the sampling method used in the above scenario?</p></content>
+        <outtro><p>The sampling method was a simple random sample or SRS</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>Looking at the sampling frame and the sampling method, would the sample be a valid sample or is it likely to be a bias sample? Explain why.</p></content>
+        <outtro><p>The sample method is valid</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>Identify potential sources of bias other then the sampling method from the information given and explain why they lead to bias (Only use the information given, do not speculate about information not provided).</p></content>
+        <outtro><p>Only in two languages; the wording of the statements; the low response rate.</p></outtro></knowl>
+    <knowl>
+        <content><p>If Federal Reserve did the survey again, would you expect that exaclty <m>{{result_1}}</m>% of respondents would {{agree_1}} that the US economy was absolutely trashed by the closures during the pandemic? Why or why not?</p></content>
+        <outtro><p>No, the exact same result would not be expected due to natural variability</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>Based on the results of this survey, can the Federal Reserve be sure they have a good idea of how Americans feel about the econmy? Why or why not?</p></content>
+        <outtro><p>No, too much bias</p></outtro></knowl>
+</knowl>

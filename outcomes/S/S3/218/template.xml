@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <intro>
+        <p><em>Scenario:</em></p>
+        <p>
+        A new study presented at the Society for Maternal-Fetal Medicine looked at the effect of chewing sugar-free gum daily on preterm births in Malawi. Researchers enrolled {{n}} {{age}} living in the greater Lilongwe area of Malawi before they were pregnant or in early pregnancy. The women were randomly assigned to one of two groups. Both groups received information on pregnancy, preventing preterm birth and improving oral health. One of the groups also received Xylitol gum and instructions on chewing it. Both groups were tracked to determine what the rate of preterm birth was. Researchers {{blinding}} tracked whether or not the women had preterm births and whether they developed periodontal disease. The group of gum chewers had a lower rate of preterm births and also had lower rates of periodontal disease as compared to the group who did not chew gum. {{results}}. </p>
+    </intro>
+    <knowl>
+        <content><p>Descibe the control group.</p></content>
+        <outtro><p>The subjects that were not giving the sugar-free gum</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What is the explantory variable?</p></content>
+        <outtro><p>Chewing sugar-free gum</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What were the response variables?</p></content>
+        <outtro><p>Preterm births and periodontal disease</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>Did the researches use any blinding? If so, what was blinded</p></content>
+        <outtro><p>{{answer_4}}</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>Are the results generalizable to all adults with depression?</p></content>
+        <outtro><p>No, answers will vary.</p></outtro>
+    </knowl>
+</knowl>

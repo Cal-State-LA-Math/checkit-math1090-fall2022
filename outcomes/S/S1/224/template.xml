@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <intro>
+    <p><em>Scenario:</em></p>
+    <p>
+         In April 2022, Harvard University released their latest Youth Poll where they asked American young adults about their political opinions, voting trends, and views on public service. The Spring 2022 Harvard Youth Poll surveyed <m>{{sample}}</m>, 18 to 29 year old US residents from March 15th - 30th, 2022. Of the poll participants, <m>{{result}}</m>% {{outcome}}</p>
+    </intro>
+    <knowl>
+        <content><p>What is the population that this study is trying to get information about?</p></content>
+        <outtro><p>young US adults</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What is the sample?</p></content>
+        <outtro><p>The <m>{{sample}}</m> US adults aged 18 to 29 that were polled.</p></outtro></knowl>
+    <knowl>
+        <content><p>What is the variable used for this study?</p></content>
+        <outtro><p>Does the young adult {{outcome}}</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What type of variable is the variable in question 3?</p></content>
+        <outtro><p>Categorical</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What is the sample statistic for this study?</p></content>
+        <outtro><p>The sample statistic is <m>{{result}}</m>% of those polled {{outcome}}</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What is the parameter of interest for this study? (the population parameter they are trying to gether information about)</p></content>
+        <outtro><p>The parameter of interest is what percentage of US adult support {{outcome}}</p></outtro></knowl>
+</knowl>
