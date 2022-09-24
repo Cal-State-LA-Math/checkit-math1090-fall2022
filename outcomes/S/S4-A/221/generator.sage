@@ -1,6 +1,6 @@
 class Generator(BaseGenerator):
     def data(self):
-        graph_var=[["health care and social assistance", 77800],["professional and business services", 74000], ["leisure and hospitality", 67000], ["transportation and warehousing", 35500], ["manufacturing",29000], ["information", 25000], ["wholesale trade", 16400], ["retail trade", 15400], ["construction", 13000], ["mining and logging", 6000], ["utilities", 1100], ["finacial activities", 1000], ["government", -9000]]
+        graph_var=[["health care and social assistance", 77800],["professional and business services", 74000], ["leisure and hospitality", 67000], ["transportation and warehousing", 35500], ["manufacturing",29000], ["information", 25000], ["wholesale trade", 16400], ["retail trade", 15400], ["construction", 13000], ["mining and logging", 6000], ["utilities", 1100], ["financial activities", 1000], ["government", -9000]]
         OC_3=randint(0,12)
         OC_4=randint(0,11)
         while OC_3==OC_4:
