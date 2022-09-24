@@ -4,7 +4,7 @@
     <slug>ma-1090</slug>
     <url>#</url>
     <outcomes>
-     <!--  <outcome>
+       <outcome>
            <title>Statistical Studies</title>
             <slug>S1-211P</slug>
             <path>outcomes/S/S1/211P</path>
@@ -171,7 +171,7 @@
             <slug>S3-224</slug>
             <path>outcomes/S/S3/224</path>
             <description>I can identify and analyze key elements of experiments.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-211</slug>
@@ -225,7 +225,7 @@
             <slug>S4-A-224</slug>
             <path>outcomes/S/S4-A/224</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> 
+        </outcome>
          <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-211P</slug>
@@ -280,7 +280,7 @@
             <path>outcomes/S/S4-B/224</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-211P</slug>
             <path>outcomes/S/S5/211P</path>
@@ -382,7 +382,7 @@
             <path>outcomes/S/S6/224</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Probability</title>
             <slug>S7-211</slug>
             <path>outcomes/S/S7/211</path>
