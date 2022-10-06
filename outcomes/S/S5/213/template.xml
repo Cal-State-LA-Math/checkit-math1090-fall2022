@@ -38,7 +38,7 @@
         <content><p>Create boxpots for each of the numerical summaries given above. You may use the applet above or you may draw the boxplots by hand. Insert screenshots of pictures of both boxplots in your answer. Be sure to fully label your boxplots.</p></content>
     </knowl>
     <knowl>
-        <content><p>Describe the shape of the distibution of scores in {{year_5}}. Use evidence from your boxplots from #4 to justify your answer.</p></content>
+        <content><p>Describe the shape of the distribution of scores in {{year_5}}. Use evidence from your boxplots from #4 to justify your answer.</p></content>
         <outtro><p>{{answer_5}}</p></outtro>
     </knowl>
     <knowl>

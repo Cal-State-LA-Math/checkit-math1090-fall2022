@@ -4,7 +4,7 @@
     <slug>ma-1090</slug>
     <url>#</url>
     <outcomes>
-       <outcome>
+     <!--  <outcome>
            <title>Statistical Studies</title>
             <slug>S1-211P</slug>
             <path>outcomes/S/S1/211P</path>
@@ -327,7 +327,7 @@
             <slug>S5-224</slug>
             <path>outcomes/S/S5/224</path>
             <description>I can interpret summaries of quantitative data.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-211P</slug>
@@ -382,7 +382,7 @@
             <path>outcomes/S/S6/224</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-      <!--  <outcome>
+       <!-- <outcome>
             <title>Probability</title>
             <slug>S7-211</slug>
             <path>outcomes/S/S7/211</path>

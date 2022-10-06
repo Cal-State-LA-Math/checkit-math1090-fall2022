@@ -27,26 +27,26 @@
         <outtro><p><m>{{answer_1}}</m></p></outtro>
     </knowl>
     <knowl>
-        <content><p>What is the {{min_max}} a tip could be on a meal in restaurant #{{OC_2}} and still be {{dir_2}} than {{percent_2}} of all the tips left at that restuarant that week?</p></content>
+        <content><p>What is the {{min_max}} a tip could be on a meal in restaurant #{{OC_2}} and still be {{dir_2}} than {{percent_2}} of all the tips left at that restaurant that week?</p></content>
         <outtro><p>${{answer_2}}</p></outtro></knowl>
     <knowl>
         <content><p>The dataset for restaurant #1 has a quartile {{quar_3}} of ${{money_3}}. Explain what this means in terms of the tips on the {{n_1}} meals in the data set.</p></content>
         <outtro><p>Of the {{n_1}} tips in the dataset, {{answer_3}} were ${{money_3}} or less.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What would happen to the mean of the dataset for restaurant #2 if an additional tip, that was greater than the maximun, was added to the dataset? Explain or justify your answer.</p></content>
+        <content><p>What would happen to the mean of the dataset for restaurant #2 if an additional tip, that was greater than the maximum, was added to the dataset? Explain or justify your answer.</p></content>
         <outtro><p>The mean would go up.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What would happen to the standard deviation of the dataset for restaurant #1 if an additional tip, that was less than the minimun, was added to the dataset? Explain or justify your answer.</p></content>
+        <content><p>What would happen to the standard deviation of the dataset for restaurant #1 if an additional tip, that was less than the minimum, was added to the dataset? Explain or justify your answer.</p></content>
         <outtro><p>The standard deviation would go up.</p></outtro>
     </knowl>
     <knowl>
         <content><p>Create boxplots for each of the numerical summaries given above. You may use the applet  from above or you may draw the boxplots by hand. Insert screenshots of pictures of both boxplots in your answer. Be sure to fully label your boxplots.</p></content>
     </knowl>
     <knowl>
-        <content><p>Describe the shape of the distibution of tips in Restaurant #1. Use evidence from your boxplots above to justify your answer. </p></content>
-        <outtro><p>The distibution is skewed right. </p></outtro></knowl>
+        <content><p>Describe the shape of the distribution of tips in Restaurant #1. Use evidence from your boxplots above to justify your answer. </p></content>
+        <outtro><p>The distribution is skewed right. </p></outtro></knowl>
     <knowl>
         <content><p>Which of these datasets appears to be more skewed? Use evidence from your boxplots above to justify your answer.</p></content>
         <outtro><p>Restaurant #1 is more skewed</p></outtro>

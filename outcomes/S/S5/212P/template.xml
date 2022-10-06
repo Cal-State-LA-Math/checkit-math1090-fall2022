@@ -38,14 +38,14 @@
         <outtro><p>The mean would go down.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What would happen to the standard deviation of the dataset for restaurant #1 if an additional tip, that was less than the minimun, was added to the dataset? Explain or justify your answer.</p></content>
+        <content><p>What would happen to the standard deviation of the dataset for restaurant #1 if an additional tip, that was less than the minimum, was added to the dataset? Explain or justify your answer.</p></content>
         <outtro><p>The standard deviation would go up.</p></outtro>
     </knowl>
     <knowl>
         <content><p>Create boxplots for each of the numerical summaries given above. You may use the applet  from above or you may draw the boxplots by hand. Insert screenshots of pictures of both boxplots in your answer. Be sure to fully label your boxplots.</p></content>
     </knowl>
     <knowl>
-        <content><p>Describe the shape of the distibution of cost of a tank of gas at station #2</p></content>
+        <content><p>Describe the shape of the distribution of cost of a tank of gas at station #2</p></content>
         <outtro><p>The distribution of station #2 is roughly symmetrical.</p></outtro>
     </knowl>
     <knowl>

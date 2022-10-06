@@ -10,7 +10,7 @@
         <list>
             <item><p>Equation and R^2 value for the manufacturers' suggested retail price (MSRP) vs horsepower (HP).</p></item>
             <item><p>MSRP = -3162.10 + 168.64 * HP</p></item>
-            <item><p>The R^2 value fro this regression model is 0.582</p></item>
+            <item><p>The R^2 value for this regression model is 0.582</p></item>
         </list>
         <p>
         <image source="assets/S6/211P_B.png" description="Scatter plot and regression line showing MSRP vs Engine size"/></p>
