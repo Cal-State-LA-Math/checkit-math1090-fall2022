@@ -8,7 +8,7 @@
         Make sure to show your computations and to give reasons ( in words) about how you came up with your answers. Failure to show all computations may result in a score of "not mastered".</p>
     <p>
         <me>
-        \begin{array}[|c|c|c|c|c|c|]
+        \begin{array}{|c|c|c|c|c|c|}
           \hline
           &amp;\text{ {{var}} } &amp;\text{ {{choice1}} } &amp;\text{ {{choice2}} } &amp;\text{ {{choice3}} } &amp;\text{ {{choice4}} } &amp; \text{ {{choice5}} }\\
           \hline
