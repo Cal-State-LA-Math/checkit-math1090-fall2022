@@ -69,14 +69,14 @@
             <slug>S2-213</slug>
             <path>outcomes/S/S2/213</path>
             <description>I can identify and analyze key elements of samples including bias and variability</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Samples, Bias, and Variability</title>
             <slug>S2-214</slug>
             <path>outcomes/S/S2/214</path>
             <description>I can identify and analyze key elements of samples including bias and variability</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>Samples, Bias, and Variability</title>
             <slug>S2-215</slug>
             <path>outcomes/S/S2/215</path>
@@ -117,14 +117,14 @@
             <slug>S3-212</slug>
             <path>outcomes/S/S3/212</path>
             <description>I can identify and analyze key elements of experiments.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Experimental Studies</title>
             <slug>S3-213P</slug>
             <path>outcomes/S/S3/213P</path>
             <description>I can identify and analyze key elements of experiments.</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>Experimental Studies</title>
             <slug>S3-214</slug>
             <path>outcomes/S/S3/214</path>
@@ -189,26 +189,26 @@
             <slug>S4-A-213P</slug>
             <path>outcomes/S/S4-A/213P</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-214P</slug>
             <path>outcomes/S/S4-A/214P</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-215</slug>
             <path>outcomes/S/S4-A/215</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-221</slug>
             <path>outcomes/S/S4-A/221</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-222</slug>
             <path>outcomes/S/S4-A/222</path>
@@ -225,14 +225,14 @@
             <slug>S4-A-224</slug>
             <path>outcomes/S/S4-A/224</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
          <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-211P</slug>
             <path>outcomes/S/S4-B/211P</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-212</slug>
             <path>outcomes/S/S4-B/212</path>
@@ -255,14 +255,14 @@
             <slug>S4-B-215</slug>
             <path>outcomes/S/S4-B/215</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-221</slug>
             <path>outcomes/S/S4-B/221</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-       <!-- <outcome>
+       <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-222</slug>
             <path>outcomes/S/S4-B/222</path>
@@ -339,14 +339,14 @@
             <slug>S6-212</slug>
             <path>outcomes/S/S6/212</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-213</slug>
             <path>outcomes/S/S6/213</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-214</slug>
             <path>outcomes/S/S6/214</path>

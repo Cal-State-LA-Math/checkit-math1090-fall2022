@@ -5,7 +5,7 @@
     <p>
         A study was conducted to investigate a relationship between the colors of helmets worn by motorcycle drivers and whether they are injured or killed in a crash. Results are given in the table below. Use this table to answer the questions, assuming that one of the motorcycle drivers has been randomly selected.</p>
     <p>
-        Make sure to show your computations and to give reasons ( in words) about how you came up with your answers. Failure to show all computations may result in a score of "not mastered".</p>
+        Make sure to show your computations and to give reasons ( in words) about how you came up with your answers. Round your answer to four decimal places. Failure to show all computations or incorrect rounding may result in a score of "not mastered".</p>
     <p>
         <me>
         \begin{array}{|c|c|c|c|c|c|}
@@ -28,11 +28,11 @@
         <outtro><p>A = {{answer_a}} | B = {{answer_b}} | C = {{answer_c}}</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What is the probability that a randomly selected motocycle driver was {{outcome_2}}</p></content>
+        <content><p>What is the probability that a randomly selected motorcycle driver was {{outcome_2}}</p></content>
         <outtro><p>{{answer2_n}} / {{answer_c}} = {{answer2}}</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What is the probability that a randomly selected motocycle driver was wearing a {{color1}} or a {{color2}} helmet at the time of the crash?</p></content>
+        <content><p>What is the probability that a randomly selected motorcycle driver was wearing a {{color1}} or a {{color2}} helmet at the time of the crash?</p></content>
         <outtro><p>( {{answer3_1n}} + {{answer3_2n}} )/ {{answer_c}} = {{answer3}}</p></outtro>
     </knowl>
     <knowl>
@@ -40,7 +40,7 @@
         <outtro><p>{{answer4_n}} / {{answer4_d}} = {{answer4}}</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Of the drivers who were wearing a {{color4}} helmet, what is the probability that a randonly selected motorcycle driver was {{hurt2}} in the crash?</p></content>
+        <content><p>Of the drivers who were wearing a {{color4}} helmet, what is the probability that a randomly selected motorcycle driver was {{hurt2}} in the crash?</p></content>
         <outtro><p>{{answer5_n}} / {{answer5_d}} = {{answer5}}</p></outtro>
     </knowl>
 </knowl>
