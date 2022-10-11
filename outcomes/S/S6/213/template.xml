@@ -14,7 +14,7 @@
         <p><image source="assets/S6/213_B.png" description="Scatter plot and regression line showing body mass vs head size"/></p>
          <p>Below is the information about the regression model for the scatter plot above.</p>
         <list>
-            <item><p>Equation and R^2 value for body mass (kg) vs chest size (cm).</p></item>
+            <item><p>Equation and R^2 value for body mass (kg) vs head size (cm).</p></item>
             <item><p>Mass = -51.06 + 2.153 * (head size)</p></item>
             <item><p>The R^2 value for this regression is .061</p></item>
         </list>
