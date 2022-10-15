@@ -171,7 +171,7 @@
             <slug>S3-224</slug>
             <path>outcomes/S/S3/224</path>
             <description>I can identify and analyze key elements of experiments.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-211</slug>
@@ -184,7 +184,7 @@
             <path>outcomes/S/S4-A/212</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-213P</slug>
             <path>outcomes/S/S4-A/213P</path>
@@ -279,7 +279,7 @@
             <slug>S4-B-224</slug>
             <path>outcomes/S/S4-B/224</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-211P</slug>
@@ -339,20 +339,20 @@
             <slug>S6-212</slug>
             <path>outcomes/S/S6/212</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-213</slug>
             <path>outcomes/S/S6/213</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-214</slug>
             <path>outcomes/S/S6/214</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-215P</slug>
             <path>outcomes/S/S6/215P</path>
@@ -430,7 +430,7 @@
             <path>outcomes/S/S1/224</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>The Normal Distribution</title>
             <slug>S8-211</slug>
             <path>outcomes/S/S8/211</path>
