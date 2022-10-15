@@ -4,7 +4,7 @@
     <slug>ma-1090</slug>
     <url>#</url>
     <outcomes>
-     <!--  <outcome>
+       <!-- <outcome>
            <title>Statistical Studies</title>
             <slug>S1-211P</slug>
             <path>outcomes/S/S1/211P</path>
@@ -279,7 +279,7 @@
             <slug>S4-B-224</slug>
             <path>outcomes/S/S4-B/224</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-211P</slug>
@@ -346,7 +346,7 @@
             <path>outcomes/S/S6/213</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-214</slug>
             <path>outcomes/S/S6/214</path>
@@ -430,7 +430,7 @@
             <path>outcomes/S/S1/224</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>The Normal Distribution</title>
             <slug>S8-211</slug>
             <path>outcomes/S/S8/211</path>
