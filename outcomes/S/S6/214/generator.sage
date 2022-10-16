@@ -18,7 +18,7 @@ class Generator(BaseGenerator):
             "answer_2":"{:.2f}".format(answer_2),
             "pop_3":pop_3,
             "ind_var4":ind_var4,
-            "point_x":point_x,
+            "point_x":"{:.2f}".format(point_x),
             "point_y":point_y,
             
             }

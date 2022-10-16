@@ -2,19 +2,21 @@ class Generator(BaseGenerator):
     def data(self):
         AA=randint(1,3)
         BB=randint(1,4)
-        OC2_a=randint(1,4)
         OC2_b=randint(1,3)
-        OC3_b=randint(1,4)
         OC3_a=randint(1,4)
-        OC4_b=randint(1,3)
         OC4_a=randint(1,4)
-        OC5=randint(1,3)
-        while(OC3_a==OC3_b):
-            OC3_b=randint(1,4)
-        while(OC4_b==OC5):
-            OC5=randint(1,3)
+        OC5_a=randint(1,4)
+        OC5_b=randint(1,2)
+        OC5_c=randint(1,3)
+        OC5_d=randint(1,4)
+        while(OC4_a==OC3_a):
+            OC4_a=randint(1,4)
+        while(OC5_a==OC5_d):
+            OC5_d=randint(1,4)
+        while(OC5_b==OC5_c):
+            OC5_c=randint(1,3)
         title_row=[["School"], ["California"], ["Pennsylvania"], ["New York"], ["Texas"], ["Total"]]
-        title_col=[["In Person"], ["Hybrid"], ["Remote"], ["Dress"]]
+        title_col=[["In Person"], ["In Person"], ["Hybrid"], ["Remote"]]
         var=title_row[0][0]
         choice1=title_row[1][0]
         choice2=title_row[2][0]
@@ -70,31 +72,33 @@ class Generator(BaseGenerator):
         answer_a=total_col[AA][0]
         answer_b=total_row[BB][0]
         answer_c=total_row[5][0]
-        wear1=title_col[OC2_b][0]
-        color1=title_row[OC2_a][0]
-        answer2_n=dep_row1[OC2_a][0]
-        if OC2_b==2:
-            answer2_n=dep_row2[OC2_a][0]
-        if OC2_b==3:
-            answer2_n=dep_row3[OC2_a][0]
+        class1=title_col[OC2_b][0]
+        answer2_n=total_col[OC2_b][0]
         answer2=round((answer2_n/answer_c),4)
-        color2=title_row[OC3_a][0]
-        color3=title_row[OC3_b][0]
+        state1=title_row[OC3_a][0]
         answer3_1n=total_row[OC3_a][0]
-        answer3_2n=total_row[OC3_b][0]
-        answer3=round(((answer3_1n + answer3_2n)/answer_c),4)
-        color4=title_row[OC4_a][0]
-        wear2=title_col[OC4_b][0]
-        answer4_n=dep_row1[OC4_a][0]
-        if OC4_b==2:
-            answer4_n=dep_row2[OC4_a][0]
-        if OC4_b==3:
-            answer4_n=dep_row3[OC4_a][0]
-        answer4_d=total_row[OC4_a][0]
-        answer4=round((answer4_n/answer4_d),4)
-        color5=title_row[OC5][0]
-        answer5_n=total_row[OC5][0]
-        answer5=round((1-(answer5_n/answer_c)),4)
+        answer3=round((answer3_1n /answer_c),4)
+        state2=title_row[OC4_a][0]
+        answer4_n=total_row[OC4_a][0]
+        answer4=round((1-(answer4_n /answer_c)),4)
+        state3=title_row[OC5_a][0]
+        class2=title_col[OC5_b][0]
+        class3=title_col[OC5_c][0]
+        state4=title_row[OC5_d][0]
+        answer5_1n=dep_row1[OC5_a][0]
+        if OC5_b==2:
+            answer5_1n=dep_row2[OC5_a][0]
+        if OC5_b==3:
+            answer5_1n=dep_row3[OC5_a][0]
+        answer5_1d=total_row[OC5_a][0]
+        answer5_1=round((answer5_1n/answer5_1d),4)
+        answer5_2n=dep_row1[OC5_d][0]
+        if OC5_c==2:
+            answer5_2n=dep_row2[OC5_d][0]
+        if OC5_c==3:
+            answer5_2n=dep_row3[OC5_d][0]
+        answer5_2d=total_col[OC5_c][0]
+        answer5_2=round((answer5_2n/answer5_2d),4)
         
         return {
             "var":var,
@@ -129,22 +133,25 @@ class Generator(BaseGenerator):
             "answer_a":answer_a,
             "answer_b":answer_b,
             "answer_c":answer_c,
-            "wear1":wear1,
-            "color1":color1,
+            "class1":class1,
             "answer2_n":answer2_n,
             "answer2":answer2,
-            "color2":color2,
-            "color3":color3,
+            "state1":state1,
             "answer3":answer3,
             "answer3_1n":answer3_1n,
-            "answer3_2n":answer3_2n,
-            "color4":color4,
-            "wear2":wear2,
+            "state2":state2,
             "answer4_n":answer4_n,
-            "answer4_d":answer4_d,
             "answer4":answer4,
-            "color5":color5,
-            "answer5_n":answer5_n,
-            "answer5":answer5
+            "state3":state3,
+            "class2":class2,
+            "class3":class3,
+            "state4":state4,
+            "answer5_1n":answer5_1n,
+            "answer5_1d":answer5_1d,
+            "answer5_1":answer5_1,
+            "answer5_2n":answer5_2n,
+            "answer5_2d":answer5_2d,
+            "answer5_2":answer5_2,
+            
         }
 
