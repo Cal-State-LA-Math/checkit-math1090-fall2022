@@ -261,14 +261,14 @@
             <slug>S4-B-221</slug>
             <path>outcomes/S/S4-B/221</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-222</slug>
             <path>outcomes/S/S4-B/222</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-223</slug>
             <path>outcomes/S/S4-B/223</path>
@@ -345,14 +345,14 @@
             <slug>S6-213</slug>
             <path>outcomes/S/S6/213</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-214</slug>
             <path>outcomes/S/S6/214</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-215P</slug>
             <path>outcomes/S/S6/215P</path>
@@ -393,26 +393,26 @@
             <slug>S7-212P</slug>
             <path>outcomes/S/S7/212P</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Probability</title>
             <slug>S7-213</slug>
             <path>outcomes/S/S7/213</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Probability</title>
             <slug>S7-214</slug>
             <path>outcomes/S/S7/214</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Probability</title>
             <slug>S7-221</slug>
             <path>outcomes/S/S7/221</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Probability</title>
             <slug>S7-222</slug>
             <path>outcomes/S/S7/222</path>

@@ -14,7 +14,7 @@
         <outtro><p>Out of the 110 movies in the data set, {{number_2}} of them had running length between {{answer_2}}.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What percentage of movies in the sample had a running lenght between <m>{{minutes_3a}}</m> and <m>{{minutes_3b}}</m> minutes? Show all your work.</p></content>
+        <content><p>What percentage of movies in the sample had a running length between <m>{{minutes_3a}}</m> and <m>{{minutes_3b}}</m> minutes? Show all your work.</p></content>
         <outtro><p>(<m>{{answer_3a}}</m> + <m>{{answer_3b}}</m> + <m>{{answer_3c}}</m>) / 110 = <m>{{answer_3}}</m>%</p></outtro>
     </knowl>
 </knowl>
