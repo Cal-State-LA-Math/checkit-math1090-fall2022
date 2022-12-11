@@ -4,7 +4,7 @@
     <slug>ma-1090</slug>
     <url>#</url>
     <outcomes>
-      <!--  <outcome>
+       <!-- <outcome>
            <title>Statistical Studies</title>
             <slug>S1-211P</slug>
             <path>outcomes/S/S1/211P</path>
@@ -51,7 +51,7 @@
             <slug>S1-225</slug>
             <path>outcomes/S/S1/225</path>
             <description>I can analyze information about statistical studies</description>
-        </outcome> 
+        </outcome>
         <outcome>
             <title>Samples, Bias, and Variability</title>
             <slug>S2-211P</slug>
@@ -231,14 +231,14 @@
             <slug>S4-B-211P</slug>
             <path>outcomes/S/S4-B/211P</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-212</slug>
             <path>outcomes/S/S4-B/212</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-213P</slug>
             <path>outcomes/S/S4-B/213P</path>
@@ -357,14 +357,14 @@
             <slug>S6-215P</slug>
             <path>outcomes/S/S6/215P</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-221</slug>
             <path>outcomes/S/S6/221</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-222</slug>
             <path>outcomes/S/S6/222</path>
@@ -417,29 +417,29 @@
             <slug>S7-222</slug>
             <path>outcomes/S/S7/222</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Probability</title>
             <slug>S7-223</slug>
             <path>outcomes/S/S7/223</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Probability</title>
             <slug>S7-224</slug>
             <path>outcomes/S/S1/224</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
-        <outcome>
+       <outcome>
             <title>The Normal Distribution</title>
-            <slug>S8-211</slug>
-            <path>outcomes/S/S8/211</path>
+            <slug>S8-211P</slug>
+            <path>outcomes/S/S8/211P</path>
             <description>I can describe and analyze normal distributions of data.</description>
         </outcome>
-        <outcome>
+      <outcome>
             <title>The Normal Distribution</title>
-            <slug>S8-212</slug>
-            <path>outcomes/S/S8/212</path>
+            <slug>S8-212P</slug>
+            <path>outcomes/S/S8/212P</path>
             <description>I can describe and analyze normal distributions of data.</description>
         </outcome>
         <outcome>
@@ -471,14 +471,14 @@
             <slug>S8-221</slug>
             <path>outcomes/S/S8/221</path>
             <description>I can describe and analyze normal distributions of data.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>The Normal Distribution</title>
             <slug>S8-222</slug>
             <path>outcomes/S/S8/222</path>
             <description>I can describe and analyze normal distributions of data.</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>The Normal Distribution</title>
             <slug>S8-223</slug>
             <path>outcomes/S/S8/223</path>
@@ -513,7 +513,7 @@
             <slug>S9-221</slug>
             <path>outcomes/S/S9/221</path>
             <description>I can compute confidence intervals and interpret the interval in the context of the problem.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Confidence Intervals</title>
             <slug>S9-222</slug>
@@ -526,7 +526,7 @@
             <path>outcomes/S/S9/223</path>
             <description>I can compute confidence intervals and interpret the interval in the context of the problem.</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>Confidence Intervals</title>
             <slug>S9-224</slug>
             <path>outcomes/S/S9/224</path>
@@ -540,8 +540,8 @@
         </outcome>
         <outcome>
             <title>Hypothesis Testing</title>
-            <slug>S10-212</slug>
-            <path>outcomes/S/S10/212</path>
+            <slug>S10-212P</slug>
+            <path>outcomes/S/S10/212P</path>
             <description>I can perform hypothesis tests for proportions or means and interpret the final result in the context of the problem.</description>
         </outcome>
         <outcome>
@@ -549,17 +549,17 @@
             <slug>S10-213</slug>
             <path>outcomes/S/S10/213</path>
             <description>I can perform hypothesis tests for proportions or means and interpret the final result in the context of the problem.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Hypothesis Testing</title>
             <slug>S10-214</slug>
             <path>outcomes/S/S10/214</path>
             <description>I can perform hypothesis tests for proportions or means and interpret the final result in the context of the problem.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Hypothesis Testing</title>
-            <slug>S10-215</slug>
-            <path>outcomes/S/S10/215</path>
+            <slug>S10-215P</slug>
+            <path>outcomes/S/S10/215P</path>
             <description>I can perform hypothesis tests for proportions or means and interpret the final result in the context of the problem.</description>
         </outcome>
         <outcome>
@@ -596,36 +596,6 @@
             <title>Confidence Intervals and Hypothesis Tests</title>
             <slug>S9-S10-Combo-211</slug>
             <path>outcomes/S/S9-S10-Combo/211</path>
-            <description>I can compute confidence intervals and hypothesis tests, interpret their results in the context of the problem, and compare the results of the two tests.</description>
-        </outcome>
-        <outcome>
-            <title>Confidence Intervals and Hypothesis Tests</title>
-            <slug>S9-S10-Combo-212</slug>
-            <path>outcomes/S/S9-S10-Combo/212</path>
-            <description>I can compute confidence intervals and hypothesis tests, interpret their results in the context of the problem, and compare the results of the two tests.</description>
-        </outcome>
-        <outcome>
-            <title>Confidence Intervals and Hypothesis Tests</title>
-            <slug>S9-S10-Combo-213</slug>
-            <path>outcomes/S/S9-S10-Combo/213</path>
-            <description>I can compute confidence intervals and hypothesis tests, interpret their results in the context of the problem, and compare the results of the two tests.</description>
-        </outcome>
-        <outcome>
-            <title>Confidence Intervals and Hypothesis Tests</title>
-            <slug>S9-S10-Combo-214</slug>
-            <path>outcomes/S/S9-S10-Combo/214</path>
-            <description>I can compute confidence intervals and hypothesis tests, interpret their results in the context of the problem, and compare the results of the two tests.</description>
-        </outcome>
-        <outcome>
-            <title>Confidence Intervals and Hypothesis Tests</title>
-            <slug>S9-S10-Combo-215</slug>
-            <path>outcomes/S/S9-S10-Combo/215</path>
-            <description>I can compute confidence intervals and hypothesis tests, interpret their results in the context of the problem, and compare the results of the two tests.</description>
-        </outcome>
-        <outcome>
-            <title>Confidence Intervals and Hypothesis Tests</title>
-            <slug>S9-S10-Combo-216</slug>
-            <path>outcomes/S/S9-S10-Combo/216</path>
             <description>I can compute confidence intervals and hypothesis tests, interpret their results in the context of the problem, and compare the results of the two tests.</description>
         </outcome>
         <outcome>
@@ -711,14 +681,14 @@
             <slug>MP1-224</slug>
             <path>outcomes/MP/MP1/224</path>
             <description>I can apply basic mathematical skills to interpret real world quantitative information in context.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Communicate a Viable Argument</title>
             <slug>MP2-211</slug>
             <path>outcomes/MP/MP2/211</path>
             <description>I can make a viable argument and justify it using statistical analysis in words and communicate that justification.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Communicate a Viable Argument</title>
             <slug>MP2-212</slug>
             <path>outcomes/MP/MP2/212</path>
@@ -730,7 +700,7 @@
             <path>outcomes/MP/MP2/221</path>
             <description>I can make a viable argument and justify it using statistical analysis in words and communicate that justification.</description>
         </outcome>
-        <outcome>
+       <outcome>
             <title>Communicate a Viable Argument</title>
             <slug>MP2-222</slug>
             <path>outcomes/MP/MP2/222</path>

@@ -16,7 +16,7 @@ class Generator(BaseGenerator):
             high_1=round((zscore_1*SD_2+mean_2),1)
         answer_1=round(((high_1-mean_1)/SD_1),2)
         if sex_1=="woman":
-            answer_1=round(((high_1-mean_2)/SD_2),1)
+            answer_1=round(((high_1-mean_2)/SD_2),2)
         sex_2=choice(["male", "female"])
         high_2=round((zscore_2*SD_1+mean_1),1)
         if sex_2=="female":

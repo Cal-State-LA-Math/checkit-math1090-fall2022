@@ -1,6 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
     <intro>
-        <p><em>Scenario:</em></p>
-        <p>help</p></intro>
+        <p><em>The Scenario</em></p>
+          <p>{{set_up}} {{CL}}% confidence, what percentage {{set_up2}}</p>
+          <p> They survey <m>{{n}}</m> {{pop_var}}, <m>{{s}}</m> of which responded to the survey. Of the respondents, <m> {{x}}</m> {{success}}</p>
+    </intro>
+    <knowl>
+        <intro><p><em>Part A</em></p>
+        <p> Compute the confidence interval for the sample at a {{CL}}% confidence level and provide all your computations. You may use an app to do the computations. Provide a screenshot of any app you use and all computation you do. Use your confidence interval to answer the follow:</p>
+        </intro>
+      <knowl>
+          <content><p>What is p-hat? Please give your answer exact to three decimal places.</p></content>
+          <outtro><p><m>\hat{p} = {{phat}}</m></p></outtro>
+      </knowl>
+      <knowl>
+        <content><p>What is the standard error for this interval? Please give your answer exact to four decimal places.</p></content>
+        <outtro><p>standard error={{SE1}}</p></outtro>
+      </knowl>
+      <knowl>
+        <content><p>What is the confidence interval? Please give your answer in proper interval format exact to four decimal places.</p></content>
+        <outtro><p><m>[{{LB}}, {{UB}}]</m></p></outtro>
+      </knowl>
+    <knowl>
+        <content><p>Put your interval into context of the scenario.</p></content>
+        <outtro><p>We can say with {{CL}}% confidence, that the proportion of {{pop_var}} that {{claim1}} is between <m>{{LB_p}}</m>% and <m>{{UB_p}}</m>%.</p></outtro>
+    </knowl>
+    </knowl>
+<knowl>
+    <intro>
+         <p><em>Part B</em></p>
+           <p> {{set_up_B}} {{p0dec}}% {{pop_var}} {{success}} {{proseB}} {{direction}} {{p0dec}}%</p>
+           <p>Conduct a hypothesis test at a {{CL}}% confidence level (<m>\alpha = {{alpha}}</m>) to test the claim made by {{person}}. You may use an app to do the test, if you wish. Include all work and screenshots of any app used. Use the results of your hypothesis test to answer the following questions.
+          </p>
+    </intro>
+      <knowl>
+            <content><p>What are your null and alternative hypotheses? Be sure to use appropriate notation and justify your choice of the alternative hypothesis from the context of the problem.</p></content>
+            <outtro><p><m>H_0: p= 0.{{p0dec}}</m>     <m>H_A: p\{{ineqsymb}} 0.{{p0dec}}</m></p></outtro></knowl>
+      <knowl>
+            <content><p>What is the p-value of your test?</p></content>
+            <outtro><p>p-value = {{pvalue}}</p></outtro>
+      </knowl>
+      <knowl>
+            <content><p>What is the conclusion of your hypothesis test? Include statistical justification for your conclusion.</p></content>
+            <outtro><p>{{conclusion}} the <m>H_0</m></p></outtro>
+      </knowl>
+      <knowl>
+            <content><p>Does the hypothesis test support the claim of {{person}}? Why or why not?</p></content>
+            <outtro><p>{{context}}</p></outtro>
+      </knowl>
+</knowl>
+<knowl>
+    <intro><p><em>Part C</em></p></intro>
+    <knowl> 
+        <content><p>Compare the results from the confidence interval and the hypothesis test</p>
+            <p>Are your results from your confidence interval and hypothesis test consistent? In other words, do both types of inference tests support the same conclusion? Explain why or why not.</p></content>
+        <outtro><p>Yes, they are consistent</p></outtro>
+    </knowl>
+</knowl>
 </knowl>

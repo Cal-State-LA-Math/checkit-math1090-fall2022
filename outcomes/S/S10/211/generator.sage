@@ -60,7 +60,7 @@ class Generator(BaseGenerator):
         "n":n,
         "s":s,
         "x":x,
-        "pvalue":pvalue,
+        "pvalue":round((pvalue),4),
         "p0dec":p0dec,
         "p0":p0,
         "phat1":phat1,

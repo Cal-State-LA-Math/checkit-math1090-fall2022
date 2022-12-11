@@ -1,9 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
-    <content>
-        <p>Simplify <m>{{sum}}</m>.</p>
-    </content>
-    <outtro>
-        <p><m>{{result}}</m></p>
-    </outtro>
+    <intro>
+    <p>Directions:</p>
+    <p>Show all your calculations, including anything you plug into a calculator. If you use an app, please include a screenshot and explain how the screenshot answers the question. Answers should be given in the context of the situation.</p>
+    <p><em>Scenario:</em></p>
+    <p>
+        As we have learned, although there are some datasets that are naturally normally distributed, sampling distributions with sufficiently large sample sizes also tend towards being normally distributed. Therefore, we can use the properties of the normal distribution to evaluate sample statistics.
+
+       </p>
+    <p>
+        One method of quality control within manufacturing is to take random samples of manufactured goods and evaluate them to see if they meet the required quality criteria. One such manufactured product is stainless steel.
+        </p>
+     <p>
+        A stainless steel mill produces two types of  stainless steel wire. Heavy wire has a target diameter of 5.5 mm. Medium wire has a target diameter of 5.2 mm. The mill routinely samples their wire with samples of size 30 and has discovered that their sampling distribution of all their samples for Heavy wire has a mean diameter of 5.5 mm and a standard error of 0.046 mm while their sampling distribution of all their samples for Medium has a mean diameter of 5.2 mm and a standard error of 0.083 mm. Please use this information to answer the questions below.
+        </p>
+     </intro>
+    <knowl>
+        <content><p>What is the z-score for a set of 30 wire samples of {{ind_1}}s whose mean diameter is <m>{{dep_1}}</m> mm? </p></content>
+        <outtro><p><m>{{answer_1}}</m> </p></outtro></knowl>
+    <knowl>
+        <content><p>If you randomly choose a sample of 30 {{ind_2}}s and calculate its mean diameter, what is the probability that the mean diameter of the sample is <m>{{dep_2}}</m> mm or less? </p></content>
+        <outtro><p><m>{{answer_2}}</m></p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>If you randomly choose sample of 30 {{ind_3}}s, what is the {{min_max}} mean diameter the sample can have and still have a {{dir_1}} mean diameter than <m>{{percent_1}}</m>% of the other samples of 30 {{ind_3}}?</p></content>
+        <outtro><p><m>{{answer_3}}</m></p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>What percent of samples of 30 {{ind_4}}s would have a mean diameter between <m>{{dep_3}}</m> mm and <m>{{dep_4}}</m> mm?</p></content>
+        <outtro><p><m>{{answer_4}}</m></p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>Which of the wire types has a higher mean sample diameter that marks the <m>{{percent_2}}</m>th percentile? Explain how you came to your answer.</p></content>
+        <outtro><p>The <m>{{percent_2}}</m>th percentile for the Heavy wire = <m>{{answer_5a}}</m> mm | The <m>{{percent_2}}</m>th percentile for the Medium wire = <m>{{answer_5b}}</m> mm</p></outtro>
+    </knowl>
 </knowl>
+

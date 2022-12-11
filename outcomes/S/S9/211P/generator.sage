@@ -1,13 +1,13 @@
 class Generator(BaseGenerator):
     def data(self):
-        set_up="The California Taxpayers' Association wanted to know how Californians felt about several new taxes. To learn how Californians felt about these new taxes, they gave a survey asking about the new taxes. One of the questions was: Do you believe the new gas taxes will drive the average price of gas to over $5.00 per gallon this summer?"
+        set_up="The California Taxpayers' Association wanted to know how Californians felt about several new taxes. To learn how Californians felt about these new taxes, they gave a survey asking about the new taxes. One of the questions was: Do you believe the new gas taxes will drive the average price of gas to over $7.00 per gallon this summer?"
         pop_var="California adults"
         success="answered yes, they think the new taxes will drive gas prices to over $7.00 per gallon"
         CL=choice([90, 95, 99])
         prose="California adults who believe the new gas taxes will drive the price of gas to over $7.00 per gallon"
         claim1="A reporter claimed in an article that"
         direction=choice(["at least", "no more than"])
-        claim2="of Californians believe that gas price will go over $5.00 per gallon due to the new gas taxes. Does your confidence interval provide evidence that the reporter is correct? Provide an argument based on your calculations that it does or does not provide such evidence"
+        claim2="of Californians believe that gas price will go over $7.00 per gallon due to the new gas taxes. Does your confidence interval provide evidence that the reporter is correct? Provide an argument based on your calculations that it does or does not provide such evidence"
         n=randint(1000,1200)
         c=randint(45,55)
         r=uniform(0.65,0.75)

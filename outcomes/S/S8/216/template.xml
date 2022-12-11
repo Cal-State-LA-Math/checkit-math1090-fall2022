@@ -23,7 +23,7 @@
     </knowl>
     <knowl>
         <content><p>If you randomly choose a day and looked at the {{ind_3}} market, what is the {{min_max}} daily price change the day can have and still have a {{dir_1}} daily change than <m>{{percent_1}}</m>% of the other days in the {{ind_3}} market?</p></content>
-        <outtro><p><m>{{answer_3}}</m>%</p></outtro>
+        <outtro><p><m>{{answer_3}}</m></p></outtro>
     </knowl>
     <knowl>
         <content><p>What proportion of days have a daily price change between <m>{{dep_3}}</m>% and <m>{{dep_4}}</m>% in the {{ind_4}} market?</p></content>

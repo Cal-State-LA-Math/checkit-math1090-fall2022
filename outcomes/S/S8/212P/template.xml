@@ -19,7 +19,7 @@
         <outtro><p><m>{{answer_3}}</m> inches.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What proportion of adult {{sex_4}} in the Unitied States are between <m>{{high_3}}</m> and <m>{{high_4}}</m> inches tall?</p></content>
+        <content><p>What proportion of adult {{sex_4}} in the United States are between <m>{{high_3}}</m> and <m>{{high_4}}</m> inches tall?</p></content>
         <outtro><p><m>{{answer_4}}</m></p></outtro>
     </knowl>
     <knowl>

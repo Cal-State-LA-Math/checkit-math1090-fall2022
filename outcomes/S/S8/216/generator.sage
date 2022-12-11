@@ -30,7 +30,7 @@ class Generator(BaseGenerator):
         dir_1=choice(["higher", "lower"])
         min_max="minimum"
         if dir_1=="lower":
-            min_max="higher"
+            min_max="maximum "
         percent_1=randint(33, 71)
         percent_1a=percent_1
         if dir_1=="lower":
