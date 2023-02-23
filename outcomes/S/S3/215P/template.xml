@@ -14,7 +14,7 @@
         <outtro><p>The intravenous medication Remdesivir</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What were the response variables?</p></content>
+        <content><p>What is/are the response variable(s)?</p></content>
         <outtro><p>The patient's recovery time</p></outtro>
     </knowl>
     <knowl>
@@ -27,5 +27,5 @@
     </knowl>
     <knowl>
     <content><p>Are the results generalizable to all adults?</p></content>
-    <outtro><p>No, answer will vary</p></outtro></knowl>
+    <outtro><p>No, answers will vary</p></outtro></knowl>
 </knowl>

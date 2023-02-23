@@ -5,32 +5,43 @@
     <p>
         The music booster club of the local high school offers a scholarship each year to all music students who score in the top 5% on either the SAT or the ACT. A student has to submit an SAT score or an ACT score to be considered for the scholarship. Both the SAT and the ACT are normally distributed with the following information:
         </p>
-    <p><list>
-            <item><p>SAT: Mean of 1039 and standard deviation of 240</p></item>
-            <item><p>ACT: Mean of 18.9 and standard deviation of 1.2</p></item>
-        </list></p>
+        <list>
+            <item><p>SAT: Mean of 1060 and standard deviation of 195</p></item>
+            <item><p>ACT: Mean of 21 and standard deviation of 5.2</p></item>
+        </list>
     <p>
         The following students have applied for the scholarship:</p>
     <p>
-        \begin{array}[|c|c|c|]
+       <me>
+        \begin{array}{|c|c|c|}
         \hline
-        &amp;\text{ {{var_1}} } &amp;\text{ {{var_2}} } &amp;\text{ {{var_3}} }\\
+        \text{ {{var_1}} } &amp;\text{ {{var_2}} } &amp;\text{ {{var_3}} }\\
         \hline
-        &amp;\text{ {{name_a}} } &amp;\text{ {{test_z}} } &amp;\text{ {{score_z}} }\\
-        &amp;\text{ {{name_b}} } &amp;\text{ {{test_y}} } &amp;\text{ {{score_y}} }\\
-        &amp;\text{ {{name_c}} } &amp;\text{ {{test_x}} } &amp;\text{ {{score_x}} }\\
-        &amp;\text{ {{name_d}} } &amp;\text{ {{test_w}} } &amp;\text{ {{score_w}} }\\
-        &amp;\text{ {{name_e}} } &amp;\text{ {{test_v}} } &amp;\text{ {{score_v}} }\\
-        &amp;\text{ {{name_f}} } &amp;\text{ {{test_u}} } &amp;\text{ {{score_u}} }\\
-        &amp;\text{ {{name_g}} } &amp;\text{ {{test_t}} } &amp;\text{ {{score_t}} }\\
-        &amp;\text{ {{name_h}} } &amp;\text{ {{test_s}} } &amp;\text{ {{score_s}} }\\
+        \text{ {{name_a}} } &amp;\text{ {{test_z}} } &amp;\text{ {{score_z}} }\\
+         \hline
+        \text{ {{name_b}} } &amp;\text{ {{test_y}} } &amp;\text{ {{score_y}} }\\
+         \hline
+        \text{ {{name_c}} } &amp;\text{ {{test_x}} } &amp;\text{ {{score_x}} }\\
+         \hline
+        \text{ {{name_d}} } &amp;\text{ {{test_w}} } &amp;\text{ {{score_w}} }\\
+         \hline
+        \text{ {{name_e}} } &amp;\text{ {{test_v}} } &amp;\text{ {{score_v}} }\\
+         \hline
+        \text{ {{name_f}} } &amp;\text{ {{test_u}} } &amp;\text{ {{score_u}} }\\
+         \hline
+        \text{ {{name_g}} } &amp;\text{ {{test_t}} } &amp;\text{ {{score_t}} }\\
+         \hline
+        \text{ {{name_h}} } &amp;\text{ {{test_s}} } &amp;\text{ {{score_s}} }\\
+         \hline
         \end{array}
+           </me>
       </p>
     </intro>
     <knowl>
         <content><p>Which students should be awarded the scholarship? Justify your answer. Show all calculations that you use to determine how to compare their scores, including anything you typed into your calculator. If you use an app, include screenshots.</p></content>
         <outtro><p>
-        \begin{array}[|c|c|]
+            <me>
+        \begin{array}{|c|c|}
         \hline
         &amp;\text{ {{var_1}} } &amp;\text{ {{var_4}} }\\
         \hline
@@ -43,6 +54,7 @@
         &amp;\text{ {{name_g}} } &amp;\text{ {{ship_g}} }\\
         &amp;\text{ {{name_h}} } &amp;\text{ {{ship_h}} }\\
         \end{array}
+           </me>
             </p></outtro>
     </knowl>
 </knowl>

@@ -20,7 +20,7 @@
     </knowl>
     <knowl>
         <content><p>Put the resulting interval into context to answer the following question: What percentage of registered Democrats are willing to seriously consider this governor if they ran for the White House?</p></content>
-        <outtro><p>With {{CL}}% confidence level, the proportion of registed Democrats that would seriously consider this governor if they ran for the White House is between <m>{{LB_p}}</m>% and <m>{{UB_p}}</m>%.</p></outtro>
+        <outtro><p>With {{CL}}% confidence level, the proportion of registered Democrats that would seriously consider this governor if they ran for the White House is between <m>{{LB_p}}</m>% and <m>{{UB_p}}</m>%.</p></outtro>
     </knowl>
     <knowl>
         <content><p>{{claim1}} {{direction}} <m>{{c}}</m>% {{claim2}} Does the confidence interval support this claim? Why or why not? Justify your answer with information from the confidence interval.</p></content>

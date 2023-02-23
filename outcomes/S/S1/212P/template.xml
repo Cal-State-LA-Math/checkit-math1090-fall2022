@@ -3,18 +3,18 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-        A professor wanted to learn more about the students at her university with regards to whether they prefer in-person or online classes.  She randomly sent out surveys to students at the university, and {{sample}} students responded.  Among these <m>{{sample}}</m> students, <m>{{result}}</m>% of them reported that they prefer taking online classes.</p>
+        A professor wanted to learn more about the students at her university with regards to whether they prefer in-person or online classes.  She received surveys from <m>{{sample}}</m> students in response to contacting <m>{{population}}</m> students at the university to ask them to complete the survey.  Among these <m>{{sample}}</m> students, <m>{{result}}</m>% of them reported that they prefer taking online classes.</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>
-        <outtro><p>Students at the school where the professor works at</p></outtro>
+        <outtro><p>Students at the school where the professor works</p></outtro>
     </knowl>
     <knowl>
         <content><p>What is the sample?</p></content>
         <outtro><p>The <m>{{sample}}</m> students that responded to the survey.</p></outtro></knowl>
     <knowl>
         <content><p>What is the variable used for this study?</p></content>
-        <outtro><p>Do the student prefer in-person or on-line classes.</p></outtro>
+        <outtro><p>The preference of a student for in-person or online classes.</p></outtro>
     </knowl>
     <knowl>
         <content><p>What type of variable is the variable in question 3?</p></content>
@@ -22,9 +22,9 @@
     </knowl>
     <knowl>
         <content><p>What is the sample statistic for this study?</p></content>
-        <outtro><p>The sample statistic is <m>{{result}}</m>% of those polled, that prefer on-line classes.</p></outtro>
+        <outtro><p>The sample statistic is that <m>{{result}}</m>% of those polled prefer online classes.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What is the parameter of interest for this study? (the population parameter they are trying to gether information about)</p></content>
-        <outtro><p>The parameter of interest is what percentage of students prefer on-line classes.</p></outtro></knowl>
+        <content><p>What is the parameter of interest for this study? (the population parameter that the professor is trying to gather information about)</p></content>
+        <outtro><p>The parameter of interest is the percentage of students at her university that prefer online classes.</p></outtro></knowl>
 </knowl>

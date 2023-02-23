@@ -1,7 +1,7 @@
 class Generator(BaseGenerator):
     def data(self):
         name=[["Chris"], ["Sharona"], ["Carlos"], ["Silvia"], ["Lily"], ["Wagner"], ["Ciro"], ["Fendi"]]
-        test=[["SAT", 1363], ["SAT", 1428], ["SAT", 1508], ["SAT", 1392], ["ACT", 28], ["ACT", 32], ["ACT", 30], ["ACT", 29]]
+        test=[["SAT", 1363], ["SAT", 1428], ["SAT", 1508], ["SAT", 1372], ["ACT", 28], ["ACT", 32], ["ACT", 27], ["ACT", 29]]
         a=randint(0,7)
         b=randint(0,7)
         while(a==b):
@@ -73,7 +73,7 @@ class Generator(BaseGenerator):
         var_1="Student"
         var_2="Test"
         var_3="Score"
-        var_4="Schlarship"
+        var_4="Scholarship"
         ship_a="Yes"
         if test_z=="SAT" and score_z < 1380.5 or test_z=="ACT" and score_z < 29.5:
             ship_a="No"

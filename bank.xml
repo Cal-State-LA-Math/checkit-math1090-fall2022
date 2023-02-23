@@ -39,7 +39,7 @@
             <slug>S1-223</slug>
             <path>outcomes/S/S1/223</path>
             <description>I can analyze information about statistical studies</description>
-        </outcome>
+        </outcome> 
         <outcome>
             <title>Statistical Studies</title>
             <slug>S1-224</slug>
@@ -70,7 +70,7 @@
             <path>outcomes/S/S2/213</path>
             <description>I can identify and analyze key elements of samples including bias and variability</description>
         </outcome>
-        <outcome>
+       <outcome>
             <title>Samples, Bias, and Variability</title>
             <slug>S2-214</slug>
             <path>outcomes/S/S2/214</path>
@@ -148,7 +148,7 @@
             <path>outcomes/S/S3/218</path>
             <description>I can identify and analyze key elements of experiments.</description>
         </outcome>
-        <outcome>
+       <outcome>
             <title>Experimental Studies</title>
             <slug>S3-221</slug>
             <path>outcomes/S/S3/221</path>
@@ -177,7 +177,7 @@
             <slug>S4-A-211</slug>
             <path>outcomes/S/S4-A/211</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-212</slug>
@@ -196,12 +196,12 @@
             <path>outcomes/S/S4-A/214P</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+     <!--   <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-215</slug>
             <path>outcomes/S/S4-A/215</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-221</slug>
@@ -220,7 +220,7 @@
             <path>outcomes/S/S4-A/223</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-224</slug>
             <path>outcomes/S/S4-A/224</path>
@@ -280,7 +280,7 @@
             <path>outcomes/S/S4-B/224</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+         <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-211P</slug>
             <path>outcomes/S/S5/211P</path>
@@ -352,19 +352,19 @@
             <path>outcomes/S/S6/214</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-        <outcome>
+       <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-215P</slug>
             <path>outcomes/S/S6/215P</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-221</slug>
             <path>outcomes/S/S6/221</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-222</slug>
             <path>outcomes/S/S6/222</path>
@@ -382,7 +382,7 @@
             <path>outcomes/S/S6/224</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-       <outcome>
+        <outcome>
             <title>Probability</title>
             <slug>S7-211P</slug>
             <path>outcomes/S/S7/211P</path>
@@ -417,14 +417,14 @@
             <slug>S7-222</slug>
             <path>outcomes/S/S7/222</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Probability</title>
             <slug>S7-223</slug>
             <path>outcomes/S/S7/223</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Probability</title>
             <slug>S7-224</slug>
             <path>outcomes/S/S1/224</path>
@@ -471,14 +471,14 @@
             <slug>S8-221</slug>
             <path>outcomes/S/S8/221</path>
             <description>I can describe and analyze normal distributions of data.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>The Normal Distribution</title>
             <slug>S8-222</slug>
             <path>outcomes/S/S8/222</path>
             <description>I can describe and analyze normal distributions of data.</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>The Normal Distribution</title>
             <slug>S8-223</slug>
             <path>outcomes/S/S8/223</path>
@@ -513,7 +513,7 @@
             <slug>S9-221</slug>
             <path>outcomes/S/S9/221</path>
             <description>I can compute confidence intervals and interpret the interval in the context of the problem.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Confidence Intervals</title>
             <slug>S9-222</slug>
@@ -526,7 +526,7 @@
             <path>outcomes/S/S9/223</path>
             <description>I can compute confidence intervals and interpret the interval in the context of the problem.</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>Confidence Intervals</title>
             <slug>S9-224</slug>
             <path>outcomes/S/S9/224</path>
@@ -549,14 +549,14 @@
             <slug>S10-213</slug>
             <path>outcomes/S/S10/213</path>
             <description>I can perform hypothesis tests for proportions or means and interpret the final result in the context of the problem.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Hypothesis Testing</title>
             <slug>S10-214</slug>
             <path>outcomes/S/S10/214</path>
             <description>I can perform hypothesis tests for proportions or means and interpret the final result in the context of the problem.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Hypothesis Testing</title>
             <slug>S10-215P</slug>
             <path>outcomes/S/S10/215P</path>
@@ -681,14 +681,14 @@
             <slug>MP1-224</slug>
             <path>outcomes/MP/MP1/224</path>
             <description>I can apply basic mathematical skills to interpret real world quantitative information in context.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Communicate a Viable Argument</title>
             <slug>MP2-211</slug>
             <path>outcomes/MP/MP2/211</path>
             <description>I can make a viable argument and justify it using statistical analysis in words and communicate that justification.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Communicate a Viable Argument</title>
             <slug>MP2-212</slug>
             <path>outcomes/MP/MP2/212</path>

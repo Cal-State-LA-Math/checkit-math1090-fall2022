@@ -17,24 +17,24 @@
     </intro>
     <knowl>
         <content><p>Does the above use a sampling frame? If so, what is the sampling frame?</p></content>
-        <outtro><p>Yes, homeowners</p></outtro>
+        <outtro><p>Yes, homeowners, details needed</p></outtro>
     </knowl>
     <knowl>
         <content><p>What is the sampling method used in the above scenario?</p></content>
         <outtro><p>The sampling method was a simple random sample or SRS</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Looking at the sampling frame and the sampling method, would the sample be a valid sample or is it likely to be a bias sample? Explain why.</p></content>
-        <outtro><p>The sample frame would likely produce a bias sample</p></outtro>
+        <content><p>Looking at the sampling frame and the sampling method, would the sample be a valid sample or is it likely to be a biased sample? Explain why.</p></content>
+        <outtro><p>The sample frame would likely produce a biased sample, explanation needed.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Identify potential sources of bias other then the sampling method from the information given and explain why they lead to bias (Only use the information given, do not speculate about information not provided).</p></content>
-        <outtro><p>Only in two languages; the wording of the statements; the low response rate.</p></outtro></knowl>
+        <content><p>Identify potential sources of bias other then the sampling method and sampling frame from the information given and explain why they lead to bias (Only use the information given, do not speculate about information not provided).</p></content>
+        <outtro><p>Only in two languages; the wording of the statements; the low response rate. Explanation needed.</p></outtro></knowl>
     <knowl>
-        <content><p>If the New York City government did the survey again, would you expect that exaclty <m>{{result_2}}</m>% of respondents would {{agree_2}} that the crimes against homeowners by roving bands of arrogant teens are way out of control and should be suppressed with all the force available to the valiant NYPD? Why or why not?</p></content>
-        <outtro><p>No, the exact same result would not be expected due to natural variability</p></outtro>
+        <content><p>If the New York City government did the survey again, would you expect that exactly <m>{{result_2}}</m>% of respondents would {{agree_2}} that the crimes against homeowners by roving bands of arrogant teens are way out of control and should be suppressed with all the force available to the valiant NYPD? Why or why not?</p></content>
+        <outtro><p>No, the exact same result would not be expected due to sampling variability. Explanation needed.</p></outtro>
     </knowl>
     <knowl>
         <content><p>Based on the results of this survey, can the New York City government be sure they have a good idea of how NYC voters think about crime in the city? Why or why not?</p></content>
-        <outtro><p>No, too much bias</p></outtro></knowl>
+        <outtro><p>No, too much bias, explanation needed.</p></outtro></knowl>
 </knowl>
