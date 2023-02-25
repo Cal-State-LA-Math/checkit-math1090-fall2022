@@ -177,7 +177,7 @@
             <slug>S4-A-211</slug>
             <path>outcomes/S/S4-A/211</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-212</slug>
@@ -196,12 +196,12 @@
             <path>outcomes/S/S4-A/214P</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-     <!--   <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-215</slug>
             <path>outcomes/S/S4-A/215</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-221</slug>
@@ -220,36 +220,36 @@
             <path>outcomes/S/S4-A/223</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-224</slug>
             <path>outcomes/S/S4-A/224</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
          <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-211P</slug>
             <path>outcomes/S/S4-B/211P</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-212</slug>
             <path>outcomes/S/S4-B/212</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-213P</slug>
             <path>outcomes/S/S4-B/213P</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-214</slug>
             <path>outcomes/S/S4-B/214</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-215</slug>
@@ -274,7 +274,7 @@
             <path>outcomes/S/S4-B/223</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-224</slug>
             <path>outcomes/S/S4-B/224</path>
