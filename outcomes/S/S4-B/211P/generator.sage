@@ -26,6 +26,6 @@ class Generator(BaseGenerator):
             #"min_max":min_max,
             #"dir_4":dir_4,
             #"percent_4":percent_4,
-            #"answer_4":answer_4,
+            #"answer_4":"{:.2f}".format(answer_4),
             
         }
