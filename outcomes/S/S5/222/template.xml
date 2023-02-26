@@ -36,7 +36,7 @@
         <outtro><p>{{answer_3}}</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Create boxplots for each of the numerical summaries given above. You may use the applet above or you may draw the boxplots by hand. Insert screenshots of pictures of both boxplots in your answer. Be sure to fully label your boxplots.</p></content>
+        <content><p>Create boxplots for each of the numerical summaries given above. You may use the applet above or you may draw the boxplots by hand. Insert screenshots of pictures of both boxplots in your answer. Be sure to fully label your boxplots and choose the settings for your x-axis so that the x-axis is clearly readable.</p></content>
     </knowl>
     <knowl>
         <content><p>Describe the shape of the distribution of the {{year_5}} cancer death rate. Use evidence from your boxplots from #4 to justify your answer.</p></content>

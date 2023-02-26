@@ -24,31 +24,31 @@
     </intro>
     <knowl>
         <content><p>How many tips were recorded from restaurant #{{OC_1}}?</p></content>
-        <outtro><p><m>{{answer_1}}</m></p></outtro>
+        <outtro><p><m>{{answer_1}}</m> To find the number of tips you want to look at the "N" in the table associated with the specific restaurant. </p></outtro>
     </knowl>
     <knowl>
         <content><p>What is the {{min_max}} a tip could be on a meal in restaurant #{{OC_2}} and still be {{dir_2}} than {{percent_2}} of all the tips left at that restaurant that week?</p></content>
-        <outtro><p>${{answer_2}}</p></outtro></knowl>
+        <outtro><p>${{answer_2}} To find the {{min_max}} that is {{dir_2}} than a specific percentage of the data, you first need to look at the quartile that splits the dataset into two sections, where the section that is {{dir_2}} the quartile equals the specific percentage you are looking for. You also need to answer in a complete sentence. A number is not a sufficient answer.</p></outtro></knowl>
     <knowl>
         <content><p>The dataset for restaurant #1 has a quartile {{quar_3}} of ${{money_3}}. Explain what this means in terms of the tips on the {{n_1}} meals in the data set.</p></content>
-        <outtro><p>Of the {{n_1}} tips in the dataset, {{answer_3}} were ${{money_3}} or less.</p></outtro>
+        <outtro><p>Of the {{n_1}} tips in the dataset, {{answer_3}} were $<m>{{money_3}}</m> or less. Quartiles break datasets into two groups, one group of data that is below the quartile, and one that is above the quartile. The data is always either "equal to or less than" the quartile or "equal to or greater than" the quartile. For example, a Q1 of $<m>1.00</m> would mean that <m>25</m>% of the tips on the meals in the dataset were $1.00 or less. </p></outtro>
     </knowl>
     <knowl>
         <content><p>What would happen to the mean of the dataset for restaurant #2 if an additional tip, that was greater than the maximum, was added to the dataset? Explain or justify your answer.</p></content>
-        <outtro><p>The mean would go up.</p></outtro>
+        <outtro><p>The mean would go up. For this type of analysis, you need to think about where the new data point is in relation to the mean. The mean is greatly affected by outliers and will move in the direction of the value of an outlier.</p></outtro>
     </knowl>
     <knowl>
         <content><p>What would happen to the standard deviation of the dataset for restaurant #1 if an additional tip, that was less than the minimum, was added to the dataset? Explain or justify your answer.</p></content>
-        <outtro><p>The standard deviation would go up.</p></outtro>
+        <outtro><p>The standard deviation would go up. For this type of analysis, you need to think about where the new data point is in relation to the standard deviation. The standard deviation measure the variability of the dataset. Data points that are far from the mean will increase the variability, whereas data points that are very close to the mean might decrease the variability.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Create boxplots for each of the numerical summaries given above. You may use the applet  from above or you may draw the boxplots by hand. Insert screenshots of pictures of both boxplots in your answer. Be sure to fully label your boxplots.</p></content>
+        <content><p>Create boxplots for each of the numerical summaries given above. You may use the applet  from above or you may draw the boxplots by hand. Insert screenshots of pictures of both boxplots in your answer. Be sure to fully label your boxplots and choose the settings for your x-axis so that the x-axis is clearly readable. This could mean changes the range of the axis and/or the settings for the tick marks. Note that this tool has a limit to how wide it can handle the x-axis so you will most likely need to make some adjustments.</p></content>
     </knowl>
     <knowl>
         <content><p>Describe the shape of the distribution of tips in Restaurant #1. Use evidence from your boxplots above to justify your answer. </p></content>
-        <outtro><p>The distribution is skewed right. </p></outtro></knowl>
+        <outtro><p>The distribution is skewed right. This can be seen by comparing the box and whisker from the left side of the mean to the box and whisker from the right side of the mean. It is not sufficient to just say that it is skewed, you need to use the numbers from the 5-number summary to demonstrate arithmetically that there is more distance between the data on the right than the data on the left. </p></outtro></knowl>
     <knowl>
         <content><p>Which of these datasets appears to be more skewed? Use evidence from your boxplots above to justify your answer.</p></content>
-        <outtro><p>Restaurant #1 is more skewed</p></outtro>
+        <outtro><p>Restaurant #1 is more skewed. It can be tricky to clearly argue which dataset is more skewed. You need to compare the left and right halves of the boxplot for each restaurant two ways. First, compare the left side to the right side of Restaurant #1 to see how skewed Restaurant #1 is. Then compare the left side to the right side of Restaurant #2 to see how skewed Restaurant #2 is. Then compare the skew from Restaurant #1 to the skew from Restaurant #2. You need to clearly compute and state these comparisons to make a clear and compelling argument.</p></outtro>
     </knowl>
 </knowl>

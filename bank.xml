@@ -237,14 +237,14 @@
             <slug>S4-B-212</slug>
             <path>outcomes/S/S4-B/212</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-213P</slug>
             <path>outcomes/S/S4-B/213P</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-214</slug>
             <path>outcomes/S/S4-B/214</path>
@@ -255,7 +255,7 @@
             <slug>S4-B-215</slug>
             <path>outcomes/S/S4-B/215</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-221</slug>
@@ -268,7 +268,7 @@
             <path>outcomes/S/S4-B/222</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-223</slug>
             <path>outcomes/S/S4-B/223</path>
@@ -279,7 +279,7 @@
             <slug>S4-B-224</slug>
             <path>outcomes/S/S4-B/224</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
          <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-211P</slug>
@@ -298,12 +298,12 @@
             <path>outcomes/S/S5/213</path>
             <description>I can interpret summaries of quantitative data.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-214</slug>
             <path>outcomes/S/S5/214</path>
             <description>I can interpret summaries of quantitative data.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-221</slug>
@@ -322,7 +322,7 @@
             <path>outcomes/S/S5/223</path>
             <description>I can interpret summaries of quantitative data.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-224</slug>
             <path>outcomes/S/S5/224</path>

@@ -12,7 +12,7 @@ class Generator(BaseGenerator):
         answer_3a=graph_var[OC_3][1]
         answer_3b=graph_var[OC_3 + 1][1]
         answer_3c=graph_var[OC_3 + 2][1]
-        answer_3=(answer_3a + answer_3b + answer_3c)/495
+        answer_3=(answer_3a + answer_3b + answer_3c)/4.95
         
         return {
             "number_2":number_2,
@@ -22,7 +22,7 @@ class Generator(BaseGenerator):
             "answer_3a":answer_3a,
             "answer_3b":answer_3b,
             "answer_3c":answer_3c,
-            "answer_3":round((answer_3),4)*100,
+            "answer_3":"{:.2f}".format(answer_3),
             #"min_max":min_max,
             #"dir_4":dir_4,
             #"percent_4":percent_4,
