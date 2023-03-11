@@ -1,6 +1,6 @@
 class Generator(BaseGenerator):
     def data(self):
-        graph_var=[["Asian", "black", "21.9", "in total"], ["Asian", "blue", "26.1", "men"], ["Asian", "teal", "18.8", "women"], ["Black", "black", "19", "in total"], ["Black", "blue", "20.1", "men"], ["Black", "teal", "17.7", "women"], ["Latino", "black", "15.4", "in total"], ["Latino", "blue", "16", "men"], ["Latino", "teal", "14.5", "women"], ["White", "black", "15.6", "in total"], ["White", "blue", "15.6", "men"], ["White", "teal", "14.3", "women"]]
+        graph_var=[["Asian", "black", "21.9", "in total"], ["Asian", "blue", "26.1", "men"], ["Asian", "teal", "18.8", "women"], ["Black", "black", "19", "in total"], ["Black", "blue", "20.1", "men"], ["Black", "teal", "17.7", "women"], ["Latino", "black", "15.4", "in total"], ["Latino", "blue", "16", "men"], ["Latino", "teal", "14.5", "women"], ["White", "black", "15.6", "in total"], ["White", "blue", "16.6", "men"], ["White", "teal", "14.3", "women"]]
         OC_2=randint(0,11)
         OC_3=randint(0,11)
         OC_4=randint(0,11)
@@ -12,7 +12,7 @@ class Generator(BaseGenerator):
         answer_3="No, there is only one numerical variable"
         if graph_3=="histogram":
             answer_3="No, we only have the summary statistic and not the individual data"
-        if graph_3=="time seies":
+        if graph_3=="time series":
             answer_3="No, none of the variables are time"
         if graph_3=="pie chart":
             answer_3="No, the data is numerical"

@@ -38,7 +38,7 @@
         </knowl>
         <knowl>
             <content><p>Compute the correlation coefficient, R, for the mass vs. chest model. Explain the meaning of R in the context of the problem.</p></content>
-            <outtro><p>.78 and as the chest size goes up, on average so does the mass of a person.</p></outtro></knowl>
+            <outtro><p><m>0.78</m> and as the chest size goes up, on average so does the mass of a person.</p></outtro></knowl>
 </knowl>
 
 

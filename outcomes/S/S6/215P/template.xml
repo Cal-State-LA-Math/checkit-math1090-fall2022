@@ -25,8 +25,8 @@
             <outtro><p>Either model can be used but the Worldwide gross revenue vs domestic gross is the better model to make predictions with because it has a higher R^2 value</p></outtro>
         </knowl>
         <knowl>
-            <content><p>What do you predict the worldwide gross revenue of a movie with a domestic gross revenue of {{money_2}} million dollars? Explain why you used the model you did and show all work. Put your final answer into a complete sentence to answer the question.</p></content>
-            <outtro><p><m>{{answer_2}}</m> million dollars </p></outtro>
+            <content><p>What do you predict the worldwide gross revenue of a movie with a domestic gross revenue of $<m>{{money_2}}</m> million? Explain why you used the model you did and show all work. Put your final answer into a complete sentence to answer the question.</p></content>
+            <outtro><p>$<m>{{answer_2}}</m> million </p></outtro>
         </knowl>
         <knowl>
             <content><p>Would you use one of the regression models to predict the worldwide gross revenue of a movie with domestic gross revenue of ${{money_3}} million? Why or why not?</p></content>
@@ -34,7 +34,7 @@
         </knowl>
         <knowl>
             <content><p>There is a dot at ({{point_x}}, {{point_y}}) on the Worldwide gross revenue vs it's {{ind_var4}} graph. Explain what this dot represents in context of the dataset.</p></content>
-            <outtro><p>The dot represents a specific movie in the dataset that made {{point_y}} million dollars in worldwide gross revenue and had {{ind_var4}} of {{point_x}} million dollars.</p></outtro>
+            <outtro><p>The dot represents a specific movie in the dataset that made $<m>{{point_y}}</m> million in worldwide gross revenue and had {{ind_var4}} of $<m>{{point_x}}</m> million.</p></outtro>
         </knowl>
         <knowl>
             <content><p>Compute the correlation coefficient, R, for the worldwide gross revenues vs budget model. Explain the meaning of R in the context of the problem</p></content>

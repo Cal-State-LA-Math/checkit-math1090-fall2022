@@ -26,18 +26,18 @@
         </knowl>
         <knowl>
             <content><p>What do you predict the number of cell phones per 100 people to be in 2019 for a country that had {{number_2}} cell phones per 100 people in 2010? Explain why you used the model you did and show all your computations. Put your final answer into a complete sentence to answer the question.</p></content>
-            <outtro><p><m>{{answer_2}}</m> cell phones per 100 people in that county</p></outtro>
+            <outtro><p><m>{{answer_2}}</m> cell phones per 100 people in that country</p></outtro>
         </knowl>
         <knowl>
-            <content><p>Would you use one of the regression models to predict the number of cell phone per 100 people in 2019 for a county that had {{value_3}} {{unit_3}} in {{var_3}}? Why or why not?</p></content>
+            <content><p>Would you use one of the regression models to predict the number of cell phones per 100 people in 2019 for a country that had {{value_3}} {{unit_3}} in {{var_3}}? Why or why not?</p></content>
             <outtro><p>No, {{answer_3}}</p></outtro>
         </knowl>
         <knowl>
             <content><p>There is a dot at ({{point_x}}, {{point_y}}) on the 2019 vs the {{ind_var4}} graph. Explain what this dot represents in context of the study.</p></content>
-            <outtro><p>The dot represents a specific country in the study that had {{point_y}} cells per 100 people in 2019 and {{point_x}} cell phones per 100 people in {{ind_var4}}.</p></outtro>
+            <outtro><p>The dot represents a specific country in the study that had {{point_y}} cell phones per 100 people in 2019 and {{point_x}} cell phones per 100 people in {{ind_var4}}.</p></outtro>
         </knowl>
         <knowl>
             <content><p>Compute the correlation coefficient, R, for the 2010 verse 2019 model. Explain the meaning of R in the context of the problem.</p></content>
-            <outtro><p>r = 0.7279, on average the greater the number of cells per 100 people a country had in 2010 the great the number of cell phone per 100 people that same country would have</p></outtro></knowl>
+            <outtro><p>r = 0.7279, on average the greater the number of cell phones per 100 people a country had in 2010 the great the number of cell phones per 100 people that same country would have in 2019.</p></outtro></knowl>
 </knowl>
 

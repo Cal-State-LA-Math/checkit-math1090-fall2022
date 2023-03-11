@@ -38,7 +38,7 @@
         </knowl>
         <knowl>
             <content><p>Compute the correlation coefficient, R, for the SAT Verbal scores vs proportion of students taking the SAT model. Explain the meaning of R in the context of the problem.</p></content>
-            <outtro><p>-0.89, as the proportion of tester in a state goes up on average the state's average SAT verbal score goes down.</p></outtro></knowl>
+            <outtro><p><m>-0.89</m>, as the proportion of tester in a state goes up on average the state's average SAT verbal score goes down.</p></outtro></knowl>
 </knowl>
 
 

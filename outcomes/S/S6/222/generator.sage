@@ -6,7 +6,7 @@ class Generator(BaseGenerator):
         value_3=randint(30,139)
         if var_3=="2010":
             value_3=randint(250, 400)
-        unit_3="cell phone per 100 people"
+        unit_3="cell phones per 100 people"
         answer_3="low correlation"
         if var_3=="2010":
             answer_3="outside of the data range or extrapolation"
