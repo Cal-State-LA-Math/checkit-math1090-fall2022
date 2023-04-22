@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-        The music booster club of the local high school offers a scholarship each year to all music students who score in the top 5% on either the SAT or the ACT. A student has to submit an SAT score or an ACT score to be considered for the scholarship. Both the SAT and the ACT are normally distributed with the following information:
+        The music booster club of the local high school offers a scholarship each year to ALL music students who score in the top 5% on either the SAT or the ACT. A student has to submit an SAT score or an ACT score to be considered for the scholarship. Both the SAT and the ACT are normally distributed with the following information:
         </p>
         <list>
             <item><p>SAT: Mean of 1060 and standard deviation of 195</p></item>
@@ -38,7 +38,7 @@
       </p>
     </intro>
     <knowl>
-        <content><p>Which students should be awarded the scholarship? Justify your answer. Show all calculations that you use to determine how to compare their scores, including anything you typed into your calculator. If you use an app, include screenshots.</p></content>
+        <content><p>Which students should be awarded the scholarship? Be sure to give ALL the students that should be awarded the scholarship. Justify your answer using the results of your statistical analysis. Show all calculations that you use to determine how to compare their scores, including anything you typed into your calculator or put into an app. If you use an app, include complete screenshots.</p></content>
         <outtro><p>
             <me>
         \begin{array}{|c|c|}

@@ -11,7 +11,7 @@
         <outtro><p><m>H_0: p= 0.0{{p0dec}}</m>     <m>H_A: p\{{ineqsymb}} 0.0{{p0dec}}</m></p></outtro>
     </knowl>
     <knowl>
-        <content><p>What is the p-hat? Show computations and give p-hat exact to three decimal places.</p></content>
+        <content><p>What is <m>\hat{p}</m>? Show computations and give <m>\hat{p}</m> exact to three decimal places.</p></content>
         <outtro><p><m>\hat{p} = {{phat}}</m></p></outtro>
     </knowl>
     <knowl>

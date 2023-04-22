@@ -8,17 +8,18 @@
         Make sure to show your computations and to give reasons ( in words) about how you came up with your answers.  Round your answer to four decimal places. Failure to show all computations or incorrect rounding may results in a score of "not mastered".</p>
     <p>
         <me>
-        \begin{array}[|c|c|c|c|c|c|]
+        \begin{array}{|c|c|c|c|c|c|}
           \hline
-          &amp;\text{ {{var}} } &amp;\text{ {{choice1}} } &amp;\text{ {{choice2}} } &amp;\text{ {{choice3}} } &amp;\text{ {{choice4}} } &amp; \text{ {{choice5}} }\\
+          \text{ {{var}} } &amp;\text{ {{choice1}} } &amp;\text{ {{choice2}} } &amp;\text{ {{choice3}} } &amp;\text{ {{choice4}} } &amp; \text{ {{choice5}} }\\
           \hline
-          &amp;\text{ {{dep_var1}} } &amp; {{dep_var1_1}} &amp; {{dep_var1_2}} &amp; {{dep_var1_3}} &amp; {{dep_var1_4}} &amp; {{dep_var1_5}}\\
+          \text{ {{dep_var1}} } &amp; {{dep_var1_1}} &amp; {{dep_var1_2}} &amp; {{dep_var1_3}} &amp; {{dep_var1_4}} &amp; {{dep_var1_5}}\\
           \hline
-          &amp;\text{ {{dep_var2}} } &amp; {{dep_var2_1}} &amp; {{dep_var2_2}} &amp; {{dep_var2_3}} &amp; {{dep_var2_4}} &amp;  {{dep_var2_5}} \\
+          \text{ {{dep_var2}} } &amp; {{dep_var2_1}} &amp; {{dep_var2_2}} &amp; {{dep_var2_3}} &amp; {{dep_var2_4}} &amp;  {{dep_var2_5}} \\
           \hline
-          &amp;\text{ {{dep_var3}} } &amp; {{dep_var3_1}} &amp; {{dep_var3_2}} &amp; {{dep_var3_3}} &amp; {{dep_var3_4}} &amp; {{dep_var3_5}}\\
+          \text{ {{dep_var3}} } &amp; {{dep_var3_1}} &amp; {{dep_var3_2}} &amp; {{dep_var3_3}} &amp; {{dep_var3_4}} &amp; {{dep_var3_5}}\\
           \hline
-          &amp;\text{ {{total_title}} } &amp; {{total_1}} &amp; {{total_2}} &amp; {{total_3}} &amp; {{total_4}} &amp;\text { C } \\
+          \text{ {{total_title}} } &amp; {{total_1}} &amp; {{total_2}} &amp; {{total_3}} &amp; {{total_4}} &amp;\text { C } \\
+            \hline
             \end{array}
         </me>
         </p>

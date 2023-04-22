@@ -34,11 +34,11 @@
         <outtro><p>Of the {{n_1}} tanks of gas in the dataset, {{answer_3}} were ${{money_3}} or less.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What would happen to the mean of the dataset for restaurant #2 if an additional tip, that was less than the minimum, was added to the dataset? Explain or justify your answer.</p></content>
+        <content><p>What would happen to the mean of the dataset for station #2 if an additional tank of gas, that was less than the minimum, was added to the dataset? Explain or justify your answer.</p></content>
         <outtro><p>The mean would go down.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What would happen to the standard deviation of the dataset for restaurant #1 if an additional tip, that was less than the minimum, was added to the dataset? Explain or justify your answer.</p></content>
+        <content><p>What would happen to the standard deviation of the dataset for station #1 if an additional tip, that was less than the minimum, was added to the dataset? Explain or justify your answer.</p></content>
         <outtro><p>The standard deviation would go up.</p></outtro>
     </knowl>
     <knowl>

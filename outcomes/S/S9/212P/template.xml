@@ -4,7 +4,7 @@
         <em>The Scenario</em>
           <p>{{set_up}}</p>
           <p>
-              They survey <m>{{n}}</m> {{pop_var}}, <m>{{s}}</m> of which responded to the survey. Of the respondents, <m>{{x}}</m> {{success}}
+              They receive <m>{{s}}</m> responses from a total of <m>{{n}}</m> {{pop_var}} that were sent a survey. Of the respondents, <m>{{x}}</m> {{success}}
           </p>
         <p> Compute a <m>{{CL}}</m>% confidence interval for the proportion of {{prose}}. You may use an app to do the computations. You must show all your computations and/or a screenshot of any app used. Please use your work answer the following.</p>
     </intro>

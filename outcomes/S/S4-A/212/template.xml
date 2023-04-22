@@ -11,7 +11,7 @@
             Essential Workers
         </p>
       <p>
-          Use the graph above to answer the questions.
+          Use the graph above to answer the questions. Be sure to show all your work and give your answers in complete sentences.
       </p>
     </intro>
     <knowl>
@@ -27,7 +27,7 @@
         <outtro><p>That means there were a total of <m>{{total_3}}</m> people working as {{job_3}} workers</p></outtro>
     </knowl>
     <knowl>
-        <content><p>According to the graph, approximately how many women worked as {{job_4}}?</p></content>
+        <content><p>According to the graph, approximately how many women worked as {{job_4}}? Show all your work and give your answers in complete sentences.</p></content>
         <outtro><p><m>.{{answer_4p}}</m> x <m>{{answer_4t}}</m> = <m>{{answer_4}}</m></p></outtro>
     </knowl>
     <knowl>

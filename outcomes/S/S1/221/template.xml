@@ -26,5 +26,5 @@
     </knowl>
     <knowl>
         <content><p>What is the parameter of interest for this study? (the population parameter that the pollsters are trying to gather information about)</p></content>
-        <outtro><p>The parameter of interest is what percentage of American adults support {{outcome}}</p></outtro></knowl>
+        <outtro><p>The parameter of interest is what percentage of American adults {{outcome}}</p></outtro></knowl>
 </knowl>
