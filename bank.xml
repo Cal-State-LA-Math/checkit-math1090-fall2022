@@ -39,14 +39,14 @@
             <slug>S1-223</slug>
             <path>outcomes/S/S1/223</path>
             <description>I can analyze information about statistical studies</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Studies</title>
             <slug>S1-224</slug>
             <path>outcomes/S/S1/224</path>
             <description>I can analyze information about statistical studies</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Statistical Studies</title>
             <slug>S1-225</slug>
             <path>outcomes/S/S1/225</path>
@@ -69,14 +69,14 @@
             <slug>S2-213</slug>
             <path>outcomes/S/S2/213</path>
             <description>I can identify and analyze key elements of samples including bias and variability</description>
-        </outcome> -->
+        </outcome>
        <outcome>
             <title>Samples, Bias, and Variability</title>
             <slug>S2-214</slug>
             <path>outcomes/S/S2/214</path>
             <description>I can identify and analyze key elements of samples including bias and variability</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Samples, Bias, and Variability</title>
             <slug>S2-215</slug>
             <path>outcomes/S/S2/215</path>
@@ -111,14 +111,14 @@
             <slug>S3-211</slug>
             <path>outcomes/S/S3/211</path>
             <description>I can identify and analyze key elements of experiments.</description>
-        </outcome> -->
+        </outcome>
        <outcome>
             <title>Experimental Studies</title>
             <slug>S3-212</slug>
             <path>outcomes/S/S3/212</path>
             <description>I can identify and analyze key elements of experiments.</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>Experimental Studies</title>
             <slug>S3-213P</slug>
             <path>outcomes/S/S3/213P</path>
@@ -177,14 +177,14 @@
             <slug>S4-A-211</slug>
             <path>outcomes/S/S4-A/211</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-212</slug>
             <path>outcomes/S/S4-A/212</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-213P</slug>
             <path>outcomes/S/S4-A/213P</path>
@@ -195,14 +195,14 @@
             <slug>S4-A-214P</slug>
             <path>outcomes/S/S4-A/214P</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-215</slug>
             <path>outcomes/S/S4-A/215</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-221</slug>
             <path>outcomes/S/S4-A/221</path>
@@ -231,14 +231,14 @@
             <slug>S4-B-211P</slug>
             <path>outcomes/S/S4-B/211P</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-212</slug>
             <path>outcomes/S/S4-B/212</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-213P</slug>
             <path>outcomes/S/S4-B/213P</path>
@@ -249,7 +249,7 @@
             <slug>S4-B-214</slug>
             <path>outcomes/S/S4-B/214</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> 
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-215</slug>
@@ -297,14 +297,14 @@
             <slug>S5-213</slug>
             <path>outcomes/S/S5/213</path>
             <description>I can interpret summaries of quantitative data.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-214</slug>
             <path>outcomes/S/S5/214</path>
             <description>I can interpret summaries of quantitative data.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-221</slug>
             <path>outcomes/S/S5/221</path>
