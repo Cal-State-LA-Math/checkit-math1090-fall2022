@@ -15,14 +15,14 @@
             <slug>S1-212P</slug>
             <path>outcomes/S/S1/212P</path>
             <description>I can analyze information about statistical studies</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Statistical Studies</title>
             <slug>S1-213</slug>
             <path>outcomes/S/S1/213</path>
             <description>I can analyze information about statistical studies</description>
         </outcome>
-        <outcome>
+     <!--   <outcome>
             <title>Statistical Studies</title>
             <slug>S1-221</slug>
             <path>outcomes/S/S1/221</path>
@@ -33,8 +33,8 @@
             <slug>S1-222</slug>
             <path>outcomes/S/S1/222</path>
             <description>I can analyze information about statistical studies</description>
-        </outcome>
-        <outcome>
+        </outcome> -->
+       <outcome>
             <title>Statistical Studies</title>
             <slug>S1-223</slug>
             <path>outcomes/S/S1/223</path>
@@ -52,7 +52,7 @@
             <path>outcomes/S/S1/225</path>
             <description>I can analyze information about statistical studies</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>Samples, Bias, and Variability</title>
             <slug>S2-211P</slug>
             <path>outcomes/S/S2/211P</path>
@@ -195,14 +195,14 @@
             <slug>S4-A-214P</slug>
             <path>outcomes/S/S4-A/214P</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-215</slug>
             <path>outcomes/S/S4-A/215</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-221</slug>
             <path>outcomes/S/S4-A/221</path>
@@ -387,7 +387,7 @@
             <slug>S7-211P</slug>
             <path>outcomes/S/S7/211P</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Probability</title>
             <slug>S7-212P</slug>
@@ -418,7 +418,7 @@
             <path>outcomes/S/S7/222</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>Probability</title>
             <slug>S7-223</slug>
             <path>outcomes/S/S7/223</path>
@@ -579,14 +579,14 @@
             <slug>S10-224</slug>
             <path>outcomes/S/S10/224</path>
             <description>I can perform hypothesis tests for proportions or means and interpret the final result in the context of the problem.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Confidence Intervals and Hypothesis Tests</title>
             <slug>S9-S10-Combo-211</slug>
             <path>outcomes/S/S9-S10-Combo/211</path>
             <description>I can compute confidence intervals and hypothesis tests, interpret their results in the context of the problem, and compare the results of the two tests.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Confidence Intervals and Hypothesis Tests</title>
             <slug>S9-S10-Combo-221</slug>
             <path>outcomes/S/S9-S10-Combo/221</path>
