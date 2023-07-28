@@ -4,7 +4,7 @@
     <slug>ma-1090</slug>
     <url>#</url>
     <outcomes>
-       <!-- <outcome>
+        <outcome>
            <title>Statistical Studies</title>
             <slug>S1-211P</slug>
             <path>outcomes/S/S1/211P</path>
@@ -15,14 +15,14 @@
             <slug>S1-212P</slug>
             <path>outcomes/S/S1/212P</path>
             <description>I can analyze information about statistical studies</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Statistical Studies</title>
             <slug>S1-213</slug>
             <path>outcomes/S/S1/213</path>
             <description>I can analyze information about statistical studies</description>
         </outcome>
-     <!--   <outcome>
+        <outcome>
             <title>Statistical Studies</title>
             <slug>S1-221</slug>
             <path>outcomes/S/S1/221</path>
@@ -33,7 +33,7 @@
             <slug>S1-222</slug>
             <path>outcomes/S/S1/222</path>
             <description>I can analyze information about statistical studies</description>
-        </outcome> -->
+        </outcome>
        <outcome>
             <title>Statistical Studies</title>
             <slug>S1-223</slug>
@@ -52,7 +52,13 @@
             <path>outcomes/S/S1/225</path>
             <description>I can analyze information about statistical studies</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
+            <title>Statistical Studies</title>
+            <slug>S1-231</slug>
+            <path>outcomes/S/S1/231</path>
+            <description>I can analyze information about statistical studies</description>
+        </outcome>
+        <outcome>
             <title>Samples, Bias, and Variability</title>
             <slug>S2-211P</slug>
             <path>outcomes/S/S2/211P</path>
@@ -96,14 +102,14 @@
         </outcome>
         <outcome>
             <title>Samples, Bias, and Variability</title>
-            <slug>S2-223</slug>
-            <path>outcomes/S/S2/223</path>
+            <slug>S2-231</slug>
+            <path>outcomes/S/S2/231</path>
             <description>I can identify and analyze key elements of samples including bias and variability</description>
         </outcome>
         <outcome>
             <title>Samples, Bias, and Variability</title>
-            <slug>S2-224</slug>
-            <path>outcomes/S/S2/224</path>
+            <slug>S2-232</slug>
+            <path>outcomes/S/S2/232</path>
             <description>I can identify and analyze key elements of samples including bias and variability</description>
         </outcome>
         <outcome>
@@ -168,8 +174,8 @@
         </outcome>
         <outcome>
             <title>Experimental Studies</title>
-            <slug>S3-224</slug>
-            <path>outcomes/S/S3/224</path>
+            <slug>S3-231</slug>
+            <path>outcomes/S/S3/231</path>
             <description>I can identify and analyze key elements of experiments.</description>
         </outcome>
         <outcome>
@@ -387,7 +393,7 @@
             <slug>S7-211P</slug>
             <path>outcomes/S/S7/211P</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Probability</title>
             <slug>S7-212P</slug>
@@ -418,7 +424,7 @@
             <path>outcomes/S/S7/222</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
-       <!-- <outcome>
+        <outcome>
             <title>Probability</title>
             <slug>S7-223</slug>
             <path>outcomes/S/S7/223</path>
@@ -426,8 +432,8 @@
         </outcome>
         <outcome>
             <title>Probability</title>
-            <slug>S7-224</slug>
-            <path>outcomes/S/S1/224</path>
+            <slug>S7-231</slug>
+            <path>outcomes/S/S7/231</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
        <outcome>
@@ -522,8 +528,8 @@
         </outcome>
         <outcome>
             <title>Confidence Intervals</title>
-            <slug>S9-224</slug>
-            <path>outcomes/S/S9/224</path>
+            <slug>S9-231</slug>
+            <path>outcomes/S/S9/231</path>
             <description>I can compute confidence intervals and interpret the interval in the context of the problem.</description>
         </outcome>
         <outcome>
@@ -570,23 +576,23 @@
         </outcome>
         <outcome>
             <title>Hypothesis Testing</title>
-            <slug>S10-223</slug>
-            <path>outcomes/S/S10/223</path>
+            <slug>S10-231</slug>
+            <path>outcomes/S/S10/231</path>
             <description>I can perform hypothesis tests for proportions or means and interpret the final result in the context of the problem.</description>
         </outcome>
         <outcome>
             <title>Hypothesis Testing</title>
-            <slug>S10-224</slug>
-            <path>outcomes/S/S10/224</path>
+            <slug>S10-232</slug>
+            <path>outcomes/S/S10/232</path>
             <description>I can perform hypothesis tests for proportions or means and interpret the final result in the context of the problem.</description>
-        </outcome> -->
+        </outcome>
         <outcome>
             <title>Confidence Intervals and Hypothesis Tests</title>
             <slug>S9-S10-Combo-211</slug>
             <path>outcomes/S/S9-S10-Combo/211</path>
             <description>I can compute confidence intervals and hypothesis tests, interpret their results in the context of the problem, and compare the results of the two tests.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Confidence Intervals and Hypothesis Tests</title>
             <slug>S9-S10-Combo-221</slug>
             <path>outcomes/S/S9-S10-Combo/221</path>
@@ -705,6 +711,6 @@
             <slug>MP2-224</slug>
             <path>outcomes/MP/MP2/224</path>
             <description>I can make a viable argument and justify it using statistical analysis in words and communicate that justification.</description>
-        </outcome> -->
+        </outcome>
     </outcomes>
 </bank>
