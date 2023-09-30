@@ -3,7 +3,7 @@
     <intro>
         <p><em>Scenario:</em></p>
         <p>
-        A recent study examined whether meditation can be used to counter the impact of math anxiety. {{n}} {{age}} were randomly assigned to one of two groups. Both groups were given information to read about why some people have math anxiety. Then, students in the first group completed a 5-minute meditation. Students in the second group did not do the meditation. Both groups then took a math test. The tests were graded by a math TA (not related to the researchers) {{blinding}}. The results were that students in the meditation group scored {{diff}}% higher that the students in the non-mediation group. {{results}}.</p>
+        A recent study examined whether meditation can be used to counter the impact of math anxiety. {{n}} {{age}} were randomly assigned to one of two groups. Both groups were given information to read about why some people have math anxiety. Then, students in the first group completed a 5-minute meditation. Students in the second group did not do the meditation. Both groups then took a math test. The tests were graded by a math TA (not related to the researchers) {{blinding}}. The results were that students in the meditation group scored {{diff}}<m>\%</m> higher that the students in the non-mediation group. {{results}}.</p>
     </intro>
      <knowl>
         <content><p>Describe the control group.</p></content>
@@ -19,7 +19,7 @@
     </knowl>
     <knowl>
     <content><p>What were the results of the study?</p></content>
-    <outtro><p>The group that meditated before the test did {{diff}}% better. The results are usually at the group level.</p></outtro>
+    <outtro><p>The group that meditated before the test did {{diff}}<m>\%</m> better. The results are usually at the group level.</p></outtro>
     </knowl>
     <knowl>
     <content><p>Did the researchers use any blinding? if so, what was blinded?</p></content>

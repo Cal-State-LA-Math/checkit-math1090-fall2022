@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-        A recent poll by Reuters/Ipsos wanted to find out what U.S. adults think about electric pickup trucks. The pollsters attempted to contact <m>{{population}}</m> U.S. adults from June 3rd to the 4th, 2021, of which <m>{{sample}}</m> responded. Of the poll participants, <m>{{result}}</m>% say they think electric vehicles are the future of the auto industry.</p>
+        A recent poll by Reuters/Ipsos wanted to find out what U.S. adults think about electric pickup trucks. The pollsters attempted to contact <m>{{population}}</m> U.S. adults from June 3rd to the 4th, 2021, of which <m>{{sample}}</m> responded. Of the poll participants, <m>{{result}}</m><m>\%</m> say they think electric vehicles are the future of the auto industry.</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>
@@ -22,7 +22,7 @@
     </knowl>
     <knowl>
         <content><p>What is the sample statistic for this study?</p></content>
-        <outtro><p>The sample statistic is <m>{{result}}</m>% of those polled, think that electric vehicles are the future of the auto industry. A sample statistic is a known numerical value about the group of individuals in the sample. </p></outtro>
+        <outtro><p>The sample statistic is <m>{{result}}</m><m>\%</m> of those polled, think that electric vehicles are the future of the auto industry. A sample statistic is a known numerical value about the group of individuals in the sample. </p></outtro>
     </knowl>
     <knowl>
         <content><p>What is the parameter of interest for this study? (the population parameter that the pollsters are trying to gather information about)</p></content>

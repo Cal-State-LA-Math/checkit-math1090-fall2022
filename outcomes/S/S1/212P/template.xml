@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-        A professor wanted to learn more about the students at her university with regards to whether they prefer in-person or online classes.  She received surveys from <m>{{sample}}</m> students in response to contacting <m>{{population}}</m> students at the university to ask them to complete the survey.  Among these <m>{{sample}}</m> students, <m>{{result}}</m>% of them reported that they prefer taking online classes.</p>
+        A professor wanted to learn more about the students at her university with regards to whether they prefer in-person or online classes.  She received surveys from <m>{{sample}}</m> students in response to contacting <m>{{population}}</m> students at the university to ask them to complete the survey.  Among these <m>{{sample}}</m> students, <m>{{result}}</m><m>\%</m> of them reported that they prefer taking online classes.</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>
@@ -22,7 +22,7 @@
     </knowl>
     <knowl>
         <content><p>What is the sample statistic for this study?</p></content>
-        <outtro><p>The sample statistic is that <m>{{result}}</m>% of those polled prefer online classes.</p></outtro>
+        <outtro><p>The sample statistic is that <m>{{result}}</m><m>\%</m> of those polled prefer online classes.</p></outtro>
     </knowl>
     <knowl>
         <content><p>What is the parameter of interest for this study? (the population parameter that the professor is trying to gather information about)</p></content>

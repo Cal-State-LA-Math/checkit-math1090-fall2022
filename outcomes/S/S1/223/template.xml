@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-         A recent poll by Quinnipiac University asked American adults about what they thought was the most urgent issue facing the country today. The pollsters called <m>{{population}}</m> American adults and spoke to <m>{{sample}}</m> of them from June 3rd - 6th, 2022. Of the poll participants, <m>{{result}}</m>% {{outcome}}</p>
+         A recent poll by Quinnipiac University asked American adults about what they thought was the most urgent issue facing the country today. The pollsters called <m>{{population}}</m> American adults and spoke to <m>{{sample}}</m> of them from June 3rd - 6th, 2022. Of the poll participants, <m>{{result}}</m><m>\%</m> {{outcome}}</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>
@@ -22,7 +22,7 @@
     </knowl>
     <knowl>
         <content><p>What is the sample statistic for this study?</p></content>
-        <outtro><p>The sample statistic is of those polled <m>{{result}}</m>% {{outcome}}</p></outtro>
+        <outtro><p>The sample statistic is of those polled <m>{{result}}</m><m>\%</m> {{outcome}}</p></outtro>
     </knowl>
     <knowl>
         <content><p>What is the parameter of interest for this study? (the population parameter that the pollsters are trying to gather information about)</p></content>

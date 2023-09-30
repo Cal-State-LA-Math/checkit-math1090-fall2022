@@ -9,7 +9,7 @@
             <item><p>The incredibly important process of distributing the life-saving COVID-19 vaccine has been fairly implemented by the various state governments</p></item>
             <item><p>The decision making process for who gets access to the vaccines has been equitable, with all demographic groups getting equal access</p></item>
         </list>
-        <p>{{sample}} state employees responded to the survey. <m>{{result_1}}</m>% of the respondents said that they {{agree_1}} that the process has been fairly implemented and <m>{{result_2}}</m>% said that they {{agree_2}} all demographic groups are getting equal access.</p>
+        <p>{{sample}} state employees responded to the survey. <m>{{result_1}}</m><m>\%</m> of the respondents said that they {{agree_1}} that the process has been fairly implemented and <m>{{result_2}}</m><m>\%</m> said that they {{agree_2}} all demographic groups are getting equal access.</p>
     </intro>
     <knowl>
         <content><p>Does the above use a sampling frame? If so, what is the sampling frame?</p></content>
@@ -27,7 +27,7 @@
         <content><p>Identify potential sources of bias other then the sampling method and sampling frame from the information given and explain why they lead to bias (Only use the information given, do not speculate about information not provided).</p></content>
         <outtro><p>The wording of the statements. Remember that the answers to these practice problems are mostly incomplete, your answers need to include more detail than is provided here. Notice here that the question is asking about bias OTHER than the sampling method and sampling frame, so you should not use those issues to answer this question.</p></outtro></knowl>
     <knowl>
-        <content><p>If the CDC did the survey again, would you expect that exactly <m>{{result_1}}</m>% of respondents would {{agree_1}} that the incredibly important process of distributing the life-saving COVID-19 vaccine has been fairly implemented by the various state governments? Why or why not?</p></content>
+        <content><p>If the CDC did the survey again, would you expect that exactly <m>{{result_1}}</m><m>\%</m> of respondents would {{agree_1}} that the incredibly important process of distributing the life-saving COVID-19 vaccine has been fairly implemented by the various state governments? Why or why not?</p></content>
         <outtro><p>No, the exact same result would not be expected due to sampling variability. Note this answer is insufficient for mastery, more detail would be needed on a checkpoint.</p></outtro>
     </knowl>
     <knowl>

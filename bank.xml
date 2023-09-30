@@ -250,7 +250,7 @@
             <path>outcomes/S/S4-B/213P</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+       <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-214</slug>
             <path>outcomes/S/S4-B/214</path>
@@ -448,7 +448,7 @@
             <path>outcomes/S/S8/212P</path>
             <description>I can describe and analyze normal distributions of data.</description>
         </outcome>
-        <outcome>
+       <outcome>
             <title>The Normal Distribution</title>
             <slug>S8-213</slug>
             <path>outcomes/S/S8/213</path>
@@ -464,6 +464,12 @@
             <title>The Normal Distribution</title>
             <slug>S8-215</slug>
             <path>outcomes/S/S8/215</path>
+            <description>I can describe and analyze normal distributions of data.</description>
+        </outcome>
+         <outcome>
+            <title>The Normal Distribution</title>
+            <slug>S8-216</slug>
+            <path>outcomes/S/S8/216</path>
             <description>I can describe and analyze normal distributions of data.</description>
         </outcome>
         <outcome>

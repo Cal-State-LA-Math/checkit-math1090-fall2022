@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-        A recent poll by Quinnipiac University wanted to know how confident American adults are about whether or not their state elected officials will protect their right to vote. The pollsters spoke to <m>{{sample}}</m> American adults from January 7th - 10th, 2022. Of the poll participants, <m>{{result}}</m>% were {{outcome}}.</p>
+        A recent poll by Quinnipiac University wanted to know how confident American adults are about whether or not their state elected officials will protect their right to vote. The pollsters spoke to <m>{{sample}}</m> American adults from August 7th - 10th, 2023. Of the poll participants, <m>{{result}}</m><m>\%</m> were {{outcome}}.</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>
@@ -23,7 +23,7 @@
     </knowl>
     <knowl>
         <content><p>What is the sample statistic for this study?</p></content>
-        <outtro><p>The sample statistic is <m>{{result}}</m>% of those polled, were {{outcome}}</p></outtro>
+        <outtro><p>The sample statistic is <m>{{result}}</m><m>\%</m> of those polled, were {{outcome}}</p></outtro>
     </knowl>
     <knowl>
         <content><p>What is the parameter of interest for this study? (the population parameter that the pollsters are trying to use the sample statistic to estimate)</p></content>

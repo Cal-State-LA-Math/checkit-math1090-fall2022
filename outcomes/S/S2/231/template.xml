@@ -12,12 +12,12 @@
             <item><p>Since extreme radicals are attempting to coerce our children into believing immoral things, we must be vigilant in observing the curriculum used to teach our students and contacting our schools to have them immediately remove any such offensive material.</p></item>
         </list>
     <p>
-        <m>{{result_1}}</m>% survey respondents said that they {{agree_1}} with the statement "Given that protecting our children from inappropriate influences is of utmost importance, banning books from schools that will tear our children down and make them doubt themselves is an extremely valuable step that should be pursued at all costs." <m>{{result_2}}</m>% said that they {{agree_2}} with the statement "Since extreme radicals are attempting to coerce our children into believing immoral things, we must be vigilant in observing the curriculum used to teach our students and contacting our schools to have them immediately remove any such offensive material.".</p>
+        <m>{{result_1}}</m><m>\%</m> survey respondents said that they {{agree_1}} with the statement "Given that protecting our children from inappropriate influences is of utmost importance, banning books from schools that will tear our children down and make them doubt themselves is an extremely valuable step that should be pursued at all costs." <m>{{result_2}}</m><m>\%</m> said that they {{agree_2}} with the statement "Since extreme radicals are attempting to coerce our children into believing immoral things, we must be vigilant in observing the curriculum used to teach our students and contacting our schools to have them immediately remove any such offensive material.".</p>
         
     </intro>
     <knowl>
         <content><p>Does the above use a sampling frame? If so, what is the sampling frame?</p></content>
-        <outtro><p>No, there is not a sampling frame in this scenario.</p></outtro>
+        <outtro><p>No, there is not a sampling frame in this scenario. Another acceptable answer depending on argument - yes, frame is Newsmax viewers.</p></outtro>
     </knowl>
     <knowl>
         <content><p>What is the sampling method used in the above scenario?</p></content>
@@ -31,7 +31,7 @@
         <content><p>Identify potential sources of bias other than the sampling method and sampling frame from the information given and explain why they lead to bias (Only use the information given, do not speculate about information not provided).</p></content>
         <outtro><p>Only limited language choices; the wording of the statements. Explanations needed.</p></outtro></knowl>
     <knowl>
-        <content><p>If Newsmax did the survey again, would you expect that exactly <m>{{result_2}}</m>% of respondents would {{agree_2}} with the statement "Since extreme radicals are attempting to coerce our children into believing immoral things, we must be vigilant in observing the curriculum used to teach our students and contacting our schools to have them immediately remove any such offensive material"? Why or why not?</p></content>
+        <content><p>If Newsmax did the survey again, would you expect that exactly <m>{{result_2}}</m><m>\%</m> of respondents would {{agree_2}} with the statement "Since extreme radicals are attempting to coerce our children into believing immoral things, we must be vigilant in observing the curriculum used to teach our students and contacting our schools to have them immediately remove any such offensive material"? Why or why not?</p></content>
         <outtro><p>No, the exact same result would not be expected due to sampling variability, explanation needed</p></outtro>
     </knowl>
     <knowl>

@@ -25,7 +25,7 @@
         <outtro><p>{{answer_3}}</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Based on the information given above the graph, what subgroup had the {{placement_4}} median duration of joblessness in 2021? Explain your reasoning. (For example - the subgroup “Asian Men” had the highest median duration of joblessness)</p></content>
+        <content><p>Based on the information given above the graph, what subgroup had the {{placement_4}} median duration of joblessness in 2021? Explain your reasoning and how the graph tells you this. (For example - the subgroup “Asian Men” had the highest median duration of joblessness which can be seen because on the graph.... (fill in your reasoning here).).</p></content>
         <outtro><p>{{answer_4}}</p></outtro>
     </knowl>
 </knowl>

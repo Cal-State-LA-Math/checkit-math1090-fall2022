@@ -14,14 +14,14 @@
     </knowl>
     <knowl>
         <content><p>What was the response variable?</p></content>
-        <outtro><p>If the patients was hospitalized due to COVID-19</p></outtro>
+        <outtro><p>If the patient was hospitalized due to COVID-19</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Did the researchers use any blinding? If so, what was blinded</p></content>
+        <content><p>Did the researchers use any blinding? If so, what was blinded? Explain your answers.</p></content>
         <outtro><p>{{answer_4}}</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Are the results generalizable to all children with ADHD and emotional dysregulation? Explain your answer.</p></content>
+        <content><p>Are the results generalizable to all adults with a recent COVID-19 diagnosis? Explain your answer.</p></content>
         <outtro><p>No, answers will vary.</p></outtro>
     </knowl>
 </knowl>

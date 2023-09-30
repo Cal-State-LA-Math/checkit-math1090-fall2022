@@ -27,6 +27,6 @@
         <outtro><p><m>{{answer_3}}</m>% of ransomware attacks from July 2020 to June 2021, were made against companies in the {{industry_3}} industry.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>If we assume that the total number of ransomware attacks that occured between July 2020 and June 2021 was {{attack_4}}, how many attacks were there against companies in the {{industry_4}} sector?</p></content>
+        <content><p>If we assume that the total number of ransomware attacks that occured between July 2020 and June 2021 was {{attack_4}}, how many attacks were there against companies in the {{industry_4}} sector? Show all your work and explain how you arrived at your answer.</p></content>
         <outtro><p><m>{{answer_4}}</m></p></outtro></knowl>
 </knowl>

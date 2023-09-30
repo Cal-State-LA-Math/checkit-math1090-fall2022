@@ -6,7 +6,7 @@
         <p>New York City taxi trips in miles</p>
     </intro>
     <knowl>
-        <content><p>Describe the shape of the histogram of taxi trips of 25 miles or less.</p></content>
+        <content><p>Describe the shape of the histogram of taxi trips of 25 miles or less. Explain your answer.</p></content>
         <outtro><p>The distribution is skewed right or bimodal .</p></outtro>
     </knowl>
     <knowl>
@@ -15,6 +15,6 @@
     </knowl>
     <knowl>
         <content><p>What percentage of taxi cab rides were between <m>{{assault_3a}}</m> and <m>{{assault_3b}}</m> miles long? Be sure to show all work including anything plugged into a calculator. Round your percentage to 2 decimal places.</p></content>
-        <outtro><p>(<m>{{answer_3a}}</m> + <m>{{answer_3b}}</m> + <m>{{answer_3c}}</m>) / 99460 = <m>{{answer_3}}</m>%</p></outtro>
+        <outtro><p>(<m>{{answer_3a}}</m> + <m>{{answer_3b}}</m> + <m>{{answer_3c}}</m>) / 99460 = <m>{{answer_3}}</m><m>\%</m></p></outtro>
     </knowl>
 </knowl>

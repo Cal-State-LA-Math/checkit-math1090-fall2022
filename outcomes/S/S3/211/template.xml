@@ -3,7 +3,7 @@
     <intro>
         <p><em>Scenario:</em></p>
         <p>
-        A new study suggests that "Pink Drinks can help you run faster and further." Researchers at the Center for Nutraceuticals in the University of Westminster investigated the effect of drink color on exercise performance. In this study, {{n}} active {{age}} were instructed to run for 30 minutes on a treadmill. Half of the participants used a pink drink to rinse their mouths during the run, the other half used a clear drink to rinse their mouths during the run. The drinks were artificially sweetened and identical except for color. The participants were randomized as to which drink they received. The researchers evaluating the performance of the runs {{blinding}}. Researchers noted the participants' choice of running speed, the distance covered during the run, and asked participants to rate their feelings of pleasure from the drink. {{results}}</p>
+        A new study suggests that "Pink Drinks can help you run faster and further." Researchers investigated the effect of drink color on exercise performance. In this study, {{n}} active {{age}} were instructed to run for 30 minutes on a treadmill. Half of the participants used a pink drink to rinse their mouths during the run, the other half used a clear drink to rinse their mouths during the run. The drinks were identical except for color. The participants were randomized as to which drink they received. The researchers evaluating the performance of the participants {{blinding}}. Researchers noted the speed each participant selected for their run and asked participants to rate their feelings of pleasure from the drink. {{results}}</p>
     </intro>
     <knowl>
         <content><p>Describe the control group.</p></content>
@@ -11,17 +11,17 @@
     </knowl>
     <knowl>
     <content><p>What is the explanatory variable?</p></content>
-    <outtro><p>The pink drink</p></outtro>
+    <outtro><p>The pink color of the drink</p></outtro>
     </knowl>
     <knowl>
     <content><p>What were the response variables?</p></content>
-    <outtro><p>The running speed, the distance covered and their feeling of pleasure from the drink</p></outtro>
+    <outtro><p>The distance covered and the feeling of pleasure from the drink</p></outtro>
     </knowl>
     <knowl>
-    <content><p>Did the researchers use any blinding? if so, what was blinded?</p></content>
+    <content><p>Did the researchers use any blinding? If so, what was blinded? Explain your answer.</p></content>
     <outtro><p>{{answer_4}}</p></outtro>
     </knowl>
     <knowl>
-    <content><p>Are the results generalizable to all adults?</p></content>
-    <outtro><p>No, answer will vary</p></outtro></knowl>
+    <content><p>Are the results generalizable to all adults? Explain your answer.</p></content>
+    <outtro><p>No, answers will vary</p></outtro></knowl>
 </knowl>

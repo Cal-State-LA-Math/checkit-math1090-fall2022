@@ -27,7 +27,7 @@
       <outtro><p>{{color_meaning}}</p></outtro>
     </knowl>
     <knowl>
-          <content><p>According to the graph, how many applicants {{action}} {{var_name2}} for the class of 2020?</p></content>
+          <content><p>According to the graph, how many applicants {{action}} {{var_name2}} for the class of 2020? What information in the graph tells you this answer?</p></content>
       <outtro><p>{{var_big2}}</p></outtro>
       </knowl>
 </knowl>

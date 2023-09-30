@@ -12,7 +12,7 @@
             <item><p>The crimes against homeowners by roving bands of arrogant teens are way out of control and should be suppressed with all the force available to the valiant NYPD.</p></item>
         </list>
     <p>
-        <m>{{sample}}</m> residents responded to the survey. <m>{{result_1}}</m>% of respondents said that they {{agree_1}} that the extreme level of violent crime is the most urgent and critical issue facing NYC as city dwellers do not feel safe to leave their homes and <m>{{result_2}}</m>% said that they {{agree_2}} that the crimes against homeowners by roving bands of arrogant teens are way out of control and should be suppressed with all the force available to the valiant NYPD.</p>
+        <m>{{sample}}</m> residents responded to the survey. <m>{{result_1}}</m><m>\%</m> of respondents said that they {{agree_1}} that the extreme level of violent crime is the most urgent and critical issue facing NYC as city dwellers do not feel safe to leave their homes and <m>{{result_2}}</m><m>\%</m> said that they {{agree_2}} that the crimes against homeowners by roving bands of arrogant teens are way out of control and should be suppressed with all the force available to the valiant NYPD.</p>
         
     </intro>
     <knowl>
@@ -31,7 +31,7 @@
         <content><p>Identify potential sources of bias other then the sampling method and sampling frame from the information given and explain why they lead to bias (Only use the information given, do not speculate about information not provided).</p></content>
         <outtro><p>Only in two languages; the wording of the statements; the low response rate. Explanation needed.</p></outtro></knowl>
     <knowl>
-        <content><p>If the New York City government did the survey again, would you expect that exactly <m>{{result_2}}</m>% of respondents would {{agree_2}} that the crimes against homeowners by roving bands of arrogant teens are way out of control and should be suppressed with all the force available to the valiant NYPD? Why or why not?</p></content>
+        <content><p>If the New York City government did the survey again, would you expect that exactly <m>{{result_2}}</m><m>\%</m> of respondents would {{agree_2}} that the crimes against homeowners by roving bands of arrogant teens are way out of control and should be suppressed with all the force available to the valiant NYPD? Why or why not?</p></content>
         <outtro><p>No, the exact same result would not be expected due to sampling variability. Explanation needed.</p></outtro>
     </knowl>
     <knowl>

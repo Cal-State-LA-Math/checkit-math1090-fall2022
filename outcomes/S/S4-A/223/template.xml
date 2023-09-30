@@ -23,9 +23,9 @@
     </knowl>
     <knowl>
         <content><p>What information is represented on the y-axis? Be sure to give a full description of the data including any relevant units.</p></content>
-        <outtro><p>The y-axis is showing the percent change using 1995 as an index of 100%</p></outtro>
+        <outtro><p>The y-axis is showing the percent change using 1995 as an index of 100<m>\%</m></p></outtro>
     </knowl>
     <knowl>
-        <content><p>According to the graph, how much did the cost of {{cost_4}} change from 1995 to 2017?</p></content>
-        <outtro><p>The cost of {{cost_4}} roughly increased {{answer_4}}% from 1995 to 2017</p></outtro></knowl>
+        <content><p>According to the graph, how much did the cost of {{cost_4}} change from 1995 to 2017? Explain your answer and what information in the graph helps you figure this out.</p></content>
+        <outtro><p>The cost of {{cost_4}} roughly increased {{answer_4}}<m>\%</m> from 1995 to 2017</p></outtro></knowl>
 </knowl>

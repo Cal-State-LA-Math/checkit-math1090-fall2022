@@ -12,7 +12,7 @@
             <item><p>Business owners should be left alone to run their business without extreme government interference.</p></item>
         </list>
     <p>
-        <m>{{sample}}</m> residents responded to the survey. <m>{{result_1}}</m>% of respondents said that they {{agree_1}} that it is time for the Supreme Court to stand up for the business of free Americans against the overwhelming regulatory environment created by out of control federal agencies and <m>{{result_2}}</m>% said that they {{agree_2}} that business owners should be left alone to run their business without extreme government interference.</p>
+        <m>{{sample}}</m> residents responded to the survey. <m>{{result_1}}</m><m>\%</m> of respondents said that they {{agree_1}} that it is time for the Supreme Court to stand up for the business of free Americans against the overwhelming regulatory environment created by out of control federal agencies and <m>{{result_2}}</m><m>\%</m> said that they {{agree_2}} that business owners should be left alone to run their business without extreme government interference.</p>
         
     </intro>
     <knowl>
@@ -31,7 +31,7 @@
         <content><p>Identify potential sources of bias other than the sampling method and sampling frame from the information given and explain why they lead to bias (Only use the information given, do not speculate about information not provided).</p></content>
         <outtro><p>Only in two languages; the wording of the statements. Explanation needed, others may be argued.</p></outtro></knowl>
     <knowl>
-        <content><p>If the Republican Party did the survey again, would you expect that exactly <m>{{result_2}}</m>% of respondents would {{agree_2}} that business owners should be left alone to run their business without extreme government interference? Why or why not?</p></content>
+        <content><p>If the Republican Party did the survey again, would you expect that exactly <m>{{result_2}}</m><m>\%</m> of respondents would {{agree_2}} that business owners should be left alone to run their business without extreme government interference? Why or why not?</p></content>
         <outtro><p>No, the exact same result would not be expected due to sampling variability, explanation needed</p></outtro>
     </knowl>
     <knowl>

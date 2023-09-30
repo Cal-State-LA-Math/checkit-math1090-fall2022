@@ -18,10 +18,10 @@
         <outtro><p>The anxiety symptoms or the change in anxiety symptoms.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Did the researches use any blinding? If so, what was blinded</p></content>
+        <content><p>Did the researches use any blinding? If so, what was blinded? Explain your answer.</p></content>
         <outtro><p>{{answer_4}}</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Are the results generalizable to all adults with anxiety syndrome?</p></content>
+        <content><p>Are the results generalizable to all adults with anxiety syndrome? Explain your answer.</p></content>
         <outtro><p>No, answers will vary.</p></outtro></knowl>
 </knowl>
