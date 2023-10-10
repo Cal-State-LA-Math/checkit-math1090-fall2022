@@ -24,7 +24,7 @@
         </p>
     </intro>
     <knowl>
-        <content><p>What is the {{min_max}} that a cancer death rate (per 100,000 people per year) could be in {{year_1}} and still be {{dir_1}} than {{percent_1}} of the rates of the other countries in the dataset?</p></content>
+        <content><p>What is the {{min_max}} that a cancer death rate (per 100,000 people per year) could be in {{year_1}} and still be {{dir_1}} than {{percent_1}} of the rates of the other countries in the dataset? Explain your answer.</p></content>
         <outtro><p>{{answer_1}}</p></outtro>
     </knowl>
     <knowl>
@@ -32,7 +32,7 @@
         <outtro><p>In {{year_2}}, {{percent_2}} of the countries in the dataset had a cancer death rate of {{change_2}} (per 100,000 people per year) or less.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What would happen to the {{stand_mean}} of the dataset for 2011 if an additional point was added at or {{dir_3}}? Why?</p></content>
+        <content><p>What would happen to the {{stand_mean}} of the dataset for 2011 if an additional point was added at or {{dir_3}}? Explain your answer.</p></content>
         <outtro><p>{{answer_3}}</p></outtro>
     </knowl>
     <knowl>
@@ -42,8 +42,8 @@
         <content><p>Describe the shape of the distribution of the {{year_5}} cancer death rates. Use evidence from your boxplots from #4 to justify your answer.</p></content>
         <outtro><p>{{answer_5}}</p></outtro>
     </knowl>
-    <knowl>
+<!--    <knowl>
         <content><p>Which of these datasets appears to be more skewed? Use evidence from your boxplots above to justify your answer.</p></content>
         <outtro><p>The cancer death rate dataset was more skewed in 2011. Evidence will vary.</p></outtro>
-    </knowl>
+    </knowl> -->
 </knowl>

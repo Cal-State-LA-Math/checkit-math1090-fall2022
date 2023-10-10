@@ -27,7 +27,7 @@
         <outtro><p><m>{{answer_1}}</m></p></outtro>
     </knowl>
     <knowl>
-        <content><p>What is the {{min_max}} a cost of a tank of gas could be on at station #{{OC_2}} and still be {{dir_2}} than {{percent_2}} of all the tanks of gas at that station in that month?</p></content>
+        <content><p>What is the {{min_max}} a cost of a tank of gas could be on at station #{{OC_2}} and still be {{dir_2}} than {{percent_2}} of all the tanks of gas at that station in that month? Give your answer in a complete sentence with context.</p></content>
         <outtro><p>${{answer_2}}</p></outtro></knowl>
     <knowl>
         <content><p>The dataset for station #1 has a quartile {{quar_3}} of ${{money_3}}. Explain what this means in terms of the cost of the {{n_1}} tanks of gas in the data set.</p></content>
@@ -45,7 +45,7 @@
         <content><p>Create boxplots for each of the numerical summaries given above. You may use the applet  from above or you may draw the boxplots by hand. Insert screenshots of pictures of both boxplots in your answer. Be sure to fully label your boxplots.</p></content>
     </knowl>
     <knowl>
-        <content><p>Describe the shape of the distribution of cost of a tank of gas at station #2</p></content>
+        <content><p>Describe the shape of the distribution of cost of a tank of gas at station #2.</p></content>
         <outtro><p>The distribution of station #2 is roughly symmetrical.</p></outtro>
     </knowl>
     <knowl>

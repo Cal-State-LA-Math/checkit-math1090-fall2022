@@ -39,13 +39,13 @@ class Generator(BaseGenerator):
         percent_2=answer2[OC_2][1]
         stand_mean=choice(["standard deviation", "mean"])
         dir_3=choice(["less than the minimum value", "greater than the maximum value"])
-        answer_3="The standard deviation would go up"
+        answer_3="The standard deviation would go up. Explanation needed."
         if stand_mean=="mean" and dir_3=="less than the minimum value":
-            answer_3="The mean would go down"
+            answer_3="The mean would go down. Explanation needed."
         if stand_mean=="mean" and dir_3=="greater than the maximum value":
-            answer_3="The mean would go up"
+            answer_3="The mean would go up. Explanation needed."
         year_5=choice(["1996", "2011"])
-        answer_5="Skewed right"
+        answer_5="Skewed right. Explanation needed."
         
         
 

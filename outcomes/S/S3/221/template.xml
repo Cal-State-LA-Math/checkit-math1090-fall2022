@@ -17,11 +17,11 @@
         <outtro><p>The child's behavior</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Did the researchers use any blinding? If so, what was blinded? Explain your answer.</p></content>
+        <content><p>Did the researchers use any blinding? What was or was not blinded? Explain your answer.</p></content>
         <outtro><p>{{answer_4}}</p></outtro>
     </knowl>
     <knowl>
         <content><p>Are the results generalizable to all children with ADHD and emotional dysregulation? Explain your answer.</p></content>
-        <outtro><p>No, answers will vary.</p></outtro>
+        <outtro><p>No, student explanations will vary.</p></outtro>
     </knowl>
 </knowl>
