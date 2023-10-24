@@ -11,7 +11,7 @@ class Generator(BaseGenerator):
         answer_3a=graph_var[OC_3][1]
         answer_3b=graph_var[OC_3 + 1][1]
         answer_3c=graph_var[OC_3 + 2][1]
-        answer_3=round(((answer_3a + answer_3b + answer_3c)/110),4)*100
+        answer_3=round(((answer_3a + answer_3b + answer_3c)/112),4)*100
         
 
         return {
