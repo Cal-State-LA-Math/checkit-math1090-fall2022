@@ -48,9 +48,9 @@ class Generator(BaseGenerator):
         dep_4=round((zscore_4*SD_2+mean_2),2)
         if ind_1=="B":
             dep_4=round((zscore_4*SD_1+mean_1),2)
-        answer_4=round(ND.cum_distribution_function((dep_4 - mean_2)/SD_2),4) - round(ND.cum_distribution_function((dep_3 - mean_2)/SD_2),4)
+        answer_4=round(round(ND.cum_distribution_function((dep_4 - mean_2)/SD_2),4) - round(ND.cum_distribution_function((dep_3 - mean_2)/SD_2),4),4)
         if ind_1=="B":
-            answer_4=round(ND.cum_distribution_function((dep_4 - mean_1)/SD_1),4) - round(ND.cum_distribution_function((dep_3 - mean_1)/SD_1),4)
+            answer_4=round(round(ND.cum_distribution_function((dep_4 - mean_1)/SD_1),4) - round(ND.cum_distribution_function((dep_3 - mean_1)/SD_1),4),4)
         percent_2=randint(5, 10)
         dep_5=ND.cum_distribution_function_inv(percent_2/100)
         answer_5a=round((dep_5*SD_1+mean_1),3)

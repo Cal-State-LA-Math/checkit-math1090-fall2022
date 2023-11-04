@@ -24,7 +24,7 @@
     </intro>
     <knowl>
         <content><p>What is the {{min_max}} a student could score in {{year_1}} and still be {{dir_1}} than {{percent_1}} of all the student scores that year?</p></content>
-        <outtro><p>{{answer_1}}</p></outtro>
+        <outtro><p>{{answer_1}}, context needed</p></outtro>
     </knowl>
     <knowl>
         <content><p>The dataset for year {{year_2}} has a quartile {{quar_2}} of {{test_2}}. Explain what this means in terms of the scores of the students in {{year_2}}.</p></content>
@@ -32,19 +32,19 @@
     </knowl>
     <knowl>
         <content><p>What would happen to the mean of the dataset for 2017 if an additional point was added at or {{dir_3}}? Why?</p></content>
-        <outtro><p>{{answer_3}}</p></outtro>
+        <outtro><p>{{answer_3}}, explanation needed</p></outtro>
     </knowl>
     <knowl>
         <content><p>Create boxpots for each of the numerical summaries given above. You may use the applet above or you may draw the boxplots by hand. Insert screenshots of pictures of both boxplots in your answer. Be sure to fully label your boxplots.</p></content>
     </knowl>
     <knowl>
-        <content><p>Describe the shape of the distribution of scores in {{year_5}}. Use evidence from your boxplots from #4 to justify your answer.</p></content>
-        <outtro><p>{{answer_5}}</p></outtro>
+        <content><p>Describe the shape of the distribution of scores in {{year_5}}. Use evidence from your boxplots from the previous question above to justify your answer.</p></content>
+        <outtro><p>{{answer_5}}, explanation and evidence needed</p></outtro>
     </knowl>
-    <knowl>
+   <!-- <knowl>
         <content><p>Which of these datasets appears to be more skewed? Use evidence from your boxplots above to justify your answer.</p></content>
-        <outtro><p>2017 is more skewed</p></outtro>
-    </knowl>
+        <outtro><p>2017 is more skewed</p></outtro> 
+    </knowl> -->
 </knowl>
 
 
