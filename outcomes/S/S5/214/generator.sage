@@ -18,8 +18,8 @@ class Generator(BaseGenerator):
         stdev_2="2.85"
         OC_1=randint(0,3)
         country_1=choice(["China", "the United States"])
-        score_a=[["minimum", "more", "25%", q1_1], ["minimum", "more", "75%", q3_1], ["maximum", "less", "25%", q3_1], ["maximum", "less", "75%", q1_1]]
-        score_b=[["minimum", "more", "25%", q1_2], ["minimum", "more", "75%", q3_2], ["maximum", "less", "25%", q3_2], ["maximum", "less", "75%", q1_2]]
+        score_a=[["minimum", "more", "25", q1_1], ["minimum", "more", "75", q3_1], ["maximum", "less", "25", q3_1], ["maximum", "less", "75", q1_1]]
+        score_b=[["minimum", "more", "25", q1_2], ["minimum", "more", "75", q3_2], ["maximum", "less", "25", q3_2], ["maximum", "less", "75", q1_2]]
         min_max=score_a[OC_1][0]
         dir_1=score_a[OC_1][1]
         percent_1=score_a[OC_1][2]
@@ -31,14 +31,14 @@ class Generator(BaseGenerator):
             answer_1=score_b[OC_1][3]
         OC_2=randint(0,3)
         annual=[["China", "one", q1_1], ["China", "three", q3_1], ["the United States", "one", q1_2], ["the United States", "three", q3_2]]
-        answer2=[[n_1, "25%"], [n_1, "75%"], [n_2, "25%"], [n_2, "75%"]]
+        answer2=[[n_1, "25"], [n_1, "75"], [n_2, "25"], [n_2, "75"]]
         country_2=annual[OC_2][0]
         quar_2=annual[OC_2][1]
         change_2=annual[OC_2][2]
         number_2=answer2[OC_2][0]
         percent_2=answer2[OC_2][1]
         dir_3=choice(["less than the minimum value", "greater than the maximum value"])
-        answer_3="The mean would go up"
+        answer_3="The standard deviation would go up"
         country_5=choice(["China", "the United States"])
         answer_5="Skewed right or roughly symmetric"
         if country_5=="the United States":

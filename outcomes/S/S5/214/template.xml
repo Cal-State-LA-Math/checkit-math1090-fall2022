@@ -23,16 +23,16 @@
         </p>
     </intro>
     <knowl>
-        <content><p>What is the {{min_max}} that an annual percentage change could be in {{country_1}} and still be {{dir_1}} than {{percent_1}} of all the annual percentage changes in {{country_1}}?</p></content>
+        <content><p>What is the {{min_max}} that an annual percentage change could be in {{country_1}} and still be {{dir_1}} than {{percent_1}}<m>\%</m> of all the annual percentage changes in {{country_1}}?</p></content>
         <outtro><p>{{answer_1}}</p></outtro>
     </knowl>
     <knowl>
         <content><p>The dataset for {{country_2}} has a quartile {{quar_2}} of {{change_2}}. Explain what this means in terms of the years in the dataset and their annual percentage changes in {{country_2}}.</p></content>
-        <outtro><p>From 1967 to 2020 in {{country_2}}, {{percent_2}} of the annual percentage change in energy consumptions was {{change_2}}% or less.</p></outtro>
+        <outtro><p>From 1967 to 2020 in {{country_2}}, {{percent_2}}<m>\%</m> of the annual percentage change in energy consumptions was {{change_2}}<m>\%</m> or less.</p></outtro>
     </knowl>
     <knowl>
         <content><p>What would happen to the standard deviation of the dataset for China if an additional point was added at or {{dir_3}}? Why?</p></content>
-        <outtro><p>{{answer_3}}</p></outtro>
+        <outtro><p>{{answer_3}}, explanation needed</p></outtro>
     </knowl>
     <knowl>
         <content><p>Create boxplots for each of the numerical summaries given above. You may use the applet above or you may draw the boxplots by hand. Insert screenshots of pictures of both boxplots in your answer. Be sure to fully label your boxplots.</p></content>
@@ -41,8 +41,8 @@
         <content><p>Describe the shape of the distribution of annual percentage change in energy consumption in {{country_5}}. Use evidence from your boxplots from #4 to justify your answer.</p></content>
         <outtro><p>{{answer_5}}</p></outtro>
     </knowl>
-    <knowl>
+    <!--<knowl>
         <content><p>Which of these datasets appears to be more skewed? Use evidence from your boxplots above to justify your answer.</p></content>
         <outtro><p>The United States is more skewed</p></outtro>
-    </knowl>
+    </knowl> -->
 </knowl>

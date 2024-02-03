@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-         A recent poll by Quinnipiac University asked U.S. adults about their opinions of President Biden. The pollsters spoke to <m>{{sample}}</m> U.S. adults out of <m>2750</m> that they tried to reach from June 3rd - 6th, 2022. Of the poll participants, <m>{{result}}</m><m>\%</m> {{outcome}}</p>
+         A recent poll by Quinnipiac University asked U.S. adults about their opinions of President Biden. The pollsters spoke to <m>{{sample}}</m> U.S. adults out of <m>2750</m> that they tried to reach from November 3rd - 6th, 2023. Of the poll participants, <m>{{result}}</m><m>\%</m> {{outcome}}</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>

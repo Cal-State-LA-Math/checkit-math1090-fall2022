@@ -2,12 +2,12 @@
 <knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
     <intro>
         <p><em>The Scenario</em></p>
-          <p>{{set_up}} {{CL}}% confidence, what percentage {{set_up2}}</p>
+          <p>{{set_up}} {{CL}}<m>\%</m> confidence, what percentage {{set_up2}}</p>
           <p> They survey <m>{{n}}</m> {{pop_var}}, <m>{{s}}</m> of which responded to the survey. Of the respondents, <m> {{x}}</m> {{success}}</p>
     </intro>
     <knowl>
         <intro><p><em>Part A</em></p>
-        <p> Compute the confidence interval for the sample at a {{CL}}% confidence level and provide all your computations. You may use an app to do the computations. Provide a screenshot of any app you use and all computation you do. Use your confidence interval to answer the follow:</p>
+        <p> Compute the confidence interval for the sample at a <m>{{CL}}</m><m>\%</m> confidence level and provide all your computations. You may use an app to do the computations. Provide a screenshot of any app you use and all computation you do. Use your confidence interval to answer the follow:</p>
         </intro>
       <knowl>
           <content><p>What is p-hat? Please give your answer exact to three decimal places.</p></content>
@@ -23,14 +23,14 @@
       </knowl>
     <knowl>
         <content><p>Put your interval into context of the scenario.</p></content>
-        <outtro><p>We can say with {{CL}}% confidence, that the proportion of {{pop_var}} that {{claim1}} is between <m>{{LB_p}}</m>% and <m>{{UB_p}}</m>%.</p></outtro>
+        <outtro><p>We can say with {{CL}}<m>\%</m> confidence, that the proportion of {{pop_var}} that {{claim1}} is between <m>{{LB_p}}</m><m>\%</m> and <m>{{UB_p}}</m><m>\%</m>.</p></outtro>
     </knowl>
     </knowl>
 <knowl>
     <intro>
          <p><em>Part B</em></p>
-           <p> {{set_up_B}} {{p0dec}}% {{pop_var}} {{success}} {{proseB}} {{direction}} {{p0dec}}%</p>
-           <p>Conduct a hypothesis test at a {{CL}}% confidence level (<m>\alpha = {{alpha}}</m>) to test the claim made by {{person}}. You may use an app to do the test, if you wish. Include all work and screenshots of any app used. Use the results of your hypothesis test to answer the following questions.
+           <p> {{set_up_B}} {{p0dec}}<m>\%</m> {{pop_var}} {{success}} {{proseB}} {{direction}} {{p0dec}}<m>\%</m></p>
+           <p>Conduct a hypothesis test at a {{CL}}<m>\%</m> confidence level (<m>\alpha = {{alpha}}</m>) to test the claim made by {{person}}. You may use an app to do the test, if you wish. Include all work and screenshots of any app used. Use the results of your hypothesis test to answer the following questions.
           </p>
     </intro>
       <knowl>

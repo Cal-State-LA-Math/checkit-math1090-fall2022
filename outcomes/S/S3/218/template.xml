@@ -19,10 +19,10 @@
     </knowl>
     <knowl>
         <content><p>Did the researches use any blinding? If so, what was blinded? Explain your answer.</p></content>
-        <outtro><p>{{answer_4}}</p></outtro>
+        <outtro><p>{{answer_4}}. Explanation needed.</p></outtro>
     </knowl>
     <knowl>
         <content><p>Are the results generalizable to all pregnant adults? Explain your answer.</p></content>
-        <outtro><p>No, answers will vary.</p></outtro>
+        <outtro><p>No. Explanation needed. Student explanations will vary.</p></outtro>
     </knowl>
 </knowl>

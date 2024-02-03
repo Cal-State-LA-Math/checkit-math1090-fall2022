@@ -18,10 +18,10 @@
     </knowl>
     <knowl>
         <content><p>Did the researchers use any blinding? What was or was not blinded? Explain your answer.</p></content>
-        <outtro><p>{{answer_4}}</p></outtro>
+        <outtro><p>{{answer_4}}. Explanation needed. </p></outtro>
     </knowl>
     <knowl>
         <content><p>Are the results generalizable to all children with ADHD and emotional dysregulation? Explain your answer.</p></content>
-        <outtro><p>No, student explanations will vary.</p></outtro>
+        <outtro><p>No. Explanation needed, student explanations will vary.</p></outtro>
     </knowl>
 </knowl>

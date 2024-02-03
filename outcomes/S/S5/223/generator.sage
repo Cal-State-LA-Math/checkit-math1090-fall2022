@@ -26,8 +26,8 @@ class Generator(BaseGenerator):
         stdev_3="33.8"
         OC_1=randint(0,3)
         year_1=choice(["2000", "2019"])
-        score_a=[["minimum", "more", "25%", q1_1], ["minimum", "more", "75%", q3_1], ["maximum", "less", "25%", q3_1], ["maximum", "less", "75%", q1_1]]
-        score_b=[["minimum", "more", "25%", q1_2], ["minimum", "more", "75%", q3_2], ["maximum", "less", "25%", q3_2], ["maximum", "less", "75%", q1_2]]
+        score_a=[["minimum", "more", "25", q1_1], ["minimum", "more", "75", q3_1], ["maximum", "less", "25", q3_1], ["maximum", "less", "75", q1_1]]
+        score_b=[["minimum", "more", "25", q1_2], ["minimum", "more", "75", q3_2], ["maximum", "less", "25", q3_2], ["maximum", "less", "75", q1_2]]
         min_max=score_a[OC_1][0]
         dir_1=score_a[OC_1][1]
         percent_1=score_a[OC_1][2]
@@ -39,7 +39,7 @@ class Generator(BaseGenerator):
             answer_1=score_b[OC_1][3]
         OC_2=randint(0,3)
         annual=[["2000", "one", q1_1], ["2000", "three", q3_1], ["2019", "one", q1_2], ["2019", "three", q3_2]]
-        answer2=[[n_1, "25%"], [n_1, "75%"], [n_2, "25%"], [n_2, "75%"]]
+        answer2=[[n_1, "25"], [n_1, "75"], [n_2, "25"], [n_2, "75"]]
         year_2=annual[OC_2][0]
         quar_2=annual[OC_2][1]
         change_2=annual[OC_2][2]

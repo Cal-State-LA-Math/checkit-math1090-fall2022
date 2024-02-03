@@ -19,9 +19,9 @@
     </knowl>
     <knowl>
     <content><p>Did the researchers use any blinding? If so, what was blinded? Explain your answer.</p></content>
-    <outtro><p>{{answer_4}}</p></outtro>
+    <outtro><p>{{answer_4}}. Explanation needed.</p></outtro>
     </knowl>
     <knowl>
     <content><p>Are the results generalizable to all adults with chronic back pain? Explain your answer.</p></content>
-    <outtro><p>No, the results were not statistically significant</p></outtro></knowl>
+    <outtro><p>No. Explanation needed, student explanations will vary.</p></outtro></knowl>
 </knowl>

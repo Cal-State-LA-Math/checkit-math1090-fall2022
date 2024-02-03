@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-        The National Association of Independent Schools (NAIS) wants to get an idea of what Americans think about the upcoming Supreme Court decision that might require states to allow the use of funds from a public student-aid program at religious private schools. In order to get the information, NAIS partnered with a large evangelical church in Tennessee to send a survey to all 3274 of the church’s members. Survey respondents completed the survey online using a code provided in the invitation. The survey was available in English.</p>
+        The National Association of Independent Schools (NAIS) wants to get an idea of what Americans think about the upcoming Supreme Court decision that might require states to allow the use of funds from a public student-aid program at religious private schools. In order to get the information, NAIS partnered with a large evangelical church in Tennessee to send a survey to all 3274 of the church’s members. Survey respondents completed the survey online using a code provided in the invitation.</p>
     <p>
         Survey respondents were asked to decide to what degree they agreed with the following statements. The possible answer were "Strongly Agree", "Agree", "Neither Agree or Disagree", "Disagree", "Strongly Disagree".</p>
     
@@ -29,7 +29,7 @@
     </knowl>
     <knowl>
         <content><p>Identify potential sources of bias other than the sampling method and sampling frame from the information given and explain why they lead to bias (Only use the information given, do not speculate about information not provided).</p></content>
-        <outtro><p>Only one language; the wording of the statements. Explanations needed.</p></outtro></knowl>
+        <outtro><p>The wording of the statements. Explanations needed.</p></outtro></knowl>
     <knowl>
         <content><p>If NAIS did the survey again, would you expect that exactly <m>{{result_1}}</m><m>\%</m> of respondents would {{agree_1}} that it is religious discrimination of the worst kind to prevent parents from using public funds at the school of their choice? Why or why not?</p></content>
         <outtro><p>No, the exact same result would not be expected due to sampling variability, explanation needed</p></outtro>
