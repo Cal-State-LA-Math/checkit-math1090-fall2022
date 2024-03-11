@@ -177,7 +177,7 @@
             <slug>S3-232</slug>
             <path>outcomes/S/S3/232</path>
             <description>I can identify and analyze key elements of experiments.</description>
-        </outcome> -->
+        </outcome>
     <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-211</slug>
@@ -220,7 +220,7 @@
             <path>outcomes/S/S4-A/222</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-      <!--  <outcome>
+        <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-223</slug>
             <path>outcomes/S/S4-A/223</path>
@@ -231,7 +231,7 @@
             <slug>S4-A-224</slug>
             <path>outcomes/S/S4-A/224</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome> 0-->
+        </outcome>
          <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-211P</slug>
@@ -280,7 +280,7 @@
             <path>outcomes/S/S4-B/223</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-      <!--  <outcome>
+       <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-B-224</slug>
             <path>outcomes/S/S4-B/224</path>
@@ -333,7 +333,7 @@
             <slug>S5-224</slug>
             <path>outcomes/S/S5/224</path>
             <description>I can interpret summaries of quantitative data.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-211P</slug>
@@ -376,7 +376,7 @@
             <path>outcomes/S/S6/222</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
-        <outcome>
+     <!--   <outcome>
             <title>Correlation and Regression</title>
             <slug>S6-223</slug>
             <path>outcomes/S/S6/223</path>
@@ -454,7 +454,7 @@
             <path>outcomes/S/S8/213</path>
             <description>I can describe and analyze normal distributions of data.</description>
         </outcome>
-        <outcome>
+       <outcome>
             <title>The Normal Distribution</title>
             <slug>S8-214</slug>
             <path>outcomes/S/S8/214</path>

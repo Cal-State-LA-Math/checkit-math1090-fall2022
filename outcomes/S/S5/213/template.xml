@@ -3,7 +3,7 @@
     <intro>
         <p>Besides graphs, another way we summarize data and compare sets of data is though numerical summaries. Below you will find two tables of numerical summaries of different datasets. Use these tables to answer the questions below. Answer all questions completely and include contextual information in your answers. Show or explain all of your work and include screen shots of any applets you use. </p>
         <p>The scores of 9th grade students on statewide math exams in two different years were collected into datasets. The numerical summaries of both datasets are in the tables below.</p>
-        <p>Year: 2015</p>
+        <p>Year: 2019</p>
         <p><me>\begin{array}{|c|c|c|c|c|c|c|c|}
             \hline
             \text{ N } &amp;\text{ Min } &amp;\text{ Q1 } &amp;\text{ Median } &amp;\text{ Q3 } &amp;\text{ Max } &amp;\text{ Mean } &amp;\text{ St Dev } \\
@@ -12,7 +12,7 @@
             \hline
             \end{array}</me>
         </p>
-        <p>Year: 2017</p>
+        <p>Year: 2021</p>
         <p><me>\begin{array}{|c|c|c|c|c|c|c|c|}
             \hline
             \text{ N } &amp;\text{ Min } &amp;\text{ Q1 } &amp;\text{ Median } &amp;\text{ Q3 } &amp;\text{ Max } &amp;\text{ Mean } &amp;\text{ St Dev } \\
