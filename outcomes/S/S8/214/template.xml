@@ -5,17 +5,17 @@
     <p>Show all your calculations, including anything you plug into a calculator. If you use an app, please include a screenshot and explain how the screenshot answers the question. Answers should be given in complete sentences and in the context of the situation.</p>
     <p><em>Scenario:</em></p>
     <p>
-        In many areas of medicine, there are different measurements used to define “healthy” based on gender, age, and race. One such measurement is bone density. Bone density is important, because as we age, bone density can decrease. If it decreases too much, we become at much higher risk of fractures.
+        In many areas of medicine, there are different measurements used to define “healthy” based on gender, age, and race. One such measurement is bone density. Bone density is important, because as we age, bone density can decrease. If it decreases too much, we become at much higher risk of breaking bones.
        </p>
     <p>
-        For example, for people aged 25, White Women have a mean bone density of 955 mg/cm^2 with a standard deviation of 123 and Black Women have a mean bone density of 1040 mg/cm^2 with a standard deviation of 135. Please use this information to answer the questions below.
+        For example, for people aged 25, White Women have a mean bone density of 955 with a standard deviation of 123 and Black Women have a mean bone density of 1040 with a standard deviation of 135. Please use this information to answer the questions below.
         </p>
      </intro>
     <knowl>
-        <content><p>What is the z-score for a someone whose bone density is <m>{{dep_1}}</m> mg/cm^2 and is a {{ind_1}}?</p></content>
+        <content><p>What is the z-score for a someone whose bone density is <m>{{dep_1}}</m> and is a {{ind_1}}?</p></content>
         <outtro><p><m>{{answer_1}}</m> </p></outtro></knowl>
     <knowl>
-        <content><p>If you randomly choose a someone who is a {{ind_2}}, what is the probability that they have a bone density of <m>{{dep_2}}</m> mg/cm^2 or less?</p></content>
+        <content><p>If you randomly choose a someone who is a {{ind_2}}, what is the probability that they have a bone density of <m>{{dep_2}}</m> or less?</p></content>
         <outtro><p><m>{{answer_2}}</m></p></outtro>
     </knowl>
     <knowl>
@@ -23,7 +23,7 @@
         <outtro><p><m>{{answer_3}}</m> </p></outtro>
     </knowl>
     <knowl>
-        <content><p>What proportion of {{ind_4}} have a bone density between <m>{{dep_3}}</m> and <m>{{dep_4}}</m> mg/cm^2?</p></content>
+        <content><p>What proportion of {{ind_4}} have a bone density between <m>{{dep_3}}</m> and <m>{{dep_4}}</m>?</p></content>
         <outtro><p><m>{{answer_4}}</m></p></outtro>
     </knowl>
     <knowl>

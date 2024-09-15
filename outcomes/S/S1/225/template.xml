@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-       A recent research study was conducted to find out how likely it was that people who had a case of COVID-19 would have a long-term health complication, commonly called Long-COVID. Researchers from the Luxemborg Institute of Health studied <m>{{sample}}</m> patients who had COVID-19 to see whether they had any of 64 common long COVID symptoms 1 year after they tested positive. Of the patients studied, <m>{{result}}</m><m>\%</m> {{outcome}}.</p>
+       A recent research study was conducted to find out how likely it was that people who had a case of COVID-19 would have a long-term health complication, commonly called Long-COVID. Researchers studied <m>{{sample}}</m> patients who had COVID-19 to see whether they had any of 64 common long COVID symptoms 1 year after the patients first tested positive. Of the patients studied, <m>{{result}}</m><m>\%</m> {{outcome}}.</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>

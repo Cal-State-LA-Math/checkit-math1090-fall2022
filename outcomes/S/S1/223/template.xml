@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-         A recent poll by Quinnipiac University asked American adults about what they thought was the most urgent issue facing the country today. The pollsters called <m>{{population}}</m> American adults and spoke to <m>{{sample}}</m> of them from December 1st - 4th, 2023. Of the poll participants, <m>{{result}}</m><m>\%</m> {{outcome}}</p>
+         A recent poll asked American adults about what they thought was the most urgent issue facing the country today. They sent surveys to <m>{{population}}</m> American Adults from December 1st - 4th, 2023, of which <m>{{sample}}</m> were filled out and returned. Of the participants, <m>{{result}}</m><m>\%</m> {{outcome}}</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>

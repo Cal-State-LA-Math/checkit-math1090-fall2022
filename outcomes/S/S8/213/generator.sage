@@ -26,7 +26,7 @@ class Generator(BaseGenerator):
             answer_2=round(ND.cum_distribution_function((dep_2 - mean_2)/SD_2),4)
         ind_3="Mexican-American"
         if ind_2=="Mexican-American":
-            ind_3="non_Hispanic white"
+            ind_3="non-Hispanic white"
         dir_1=choice(["heavier", "lighter"])
         min_max="minimum"
         if dir_1=="lighter":
@@ -41,7 +41,7 @@ class Generator(BaseGenerator):
             answer_3=round((answer_3z*SD_1 + mean_1),0)
         ind_4="Mexican-American"
         if ind_1=="Mexican-American":
-            ind_4="non_Hispanic white"
+            ind_4="non-Hispanic white"
         dep_3=round((zscore_3*SD_2+mean_2),0)
         if ind_1=="Mexican-American":
             dep_3=round((zscore_3*SD_1+mean_1),0)

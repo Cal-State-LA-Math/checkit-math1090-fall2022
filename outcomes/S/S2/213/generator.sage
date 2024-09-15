@@ -1,6 +1,6 @@
 class Generator(BaseGenerator):
     def data(self):
-        sample=randint(100, 200)
+        sample=randint(75, 150)
         result_1=randint(75, 85)
         agree_1=choice(['"Agree" or "Strongly Agree"','"Disagree" or "Strongly Disagree"'])
         if agree_1=='"Disagree" or "Strongly Disagree"':

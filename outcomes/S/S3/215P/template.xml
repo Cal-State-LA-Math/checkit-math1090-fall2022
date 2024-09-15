@@ -3,7 +3,7 @@
    <intro>
         <p><em>Scenario:</em></p>
         <p>
-        A trial of the intravenous medication Remdesivir was conducted in {{age}}. Patients were randomly assigned to receive either Remdesivir or a placebo for up to 10 days. The primary outcome measured was the time to recover. Preliminary results from the {{n}} patients ({{n_e}} randomly assigned to get Remdesivir and {{n_p}} to get the placebo) indicated that those who received Remdesivir had a median recovery time of 11 days as compared with {{diff}} days in those who received the placebo. {{results}}</p>
+        A trial of the medication Remdesivir was conducted in {{age}}. Patients were randomly assigned to receive either Remdesivir or a placebo for up to 10 days. Time to recover was the outcome that was measured. The results from the {{n}} patients ({{n_e}} randomly assigned to get Remdesivir and {{n_p}} to get the placebo) indicated that those who received Remdesivir had a median recovery time of 11 days as compared with {{diff}} days in those who received the placebo. {{results}}</p>
     </intro>
     <knowl>
         <content><p>Describe the control group.</p></content>

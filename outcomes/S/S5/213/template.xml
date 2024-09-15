@@ -31,7 +31,7 @@
         <outtro><p>Of the {{number_2}} students that took the statewide math test, {{percent_2}} scored {{test_2}} or less.</p></outtro>
     </knowl>
     <knowl>
-        <content><p>What would happen to the mean of the dataset for 2017 if an additional point was added at or {{dir_3}}? Why?</p></content>
+        <content><p>What would happen to the mean of the dataset for 2019 if an additional point was added at or {{dir_3}}? Why?</p></content>
         <outtro><p>{{answer_3}}, explanation needed</p></outtro>
     </knowl>
     <knowl>
@@ -43,7 +43,7 @@
     </knowl>
    <!-- <knowl>
         <content><p>Which of these datasets appears to be more skewed? Use evidence from your boxplots above to justify your answer.</p></content>
-        <outtro><p>2017 is more skewed</p></outtro> 
+        <outtro><p>2019 is more skewed</p></outtro> 
     </knowl> -->
 </knowl>
 

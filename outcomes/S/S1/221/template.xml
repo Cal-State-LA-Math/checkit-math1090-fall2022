@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-        A recent poll by Quinnipiac University investigated support amongst American adults regarding stricter gun laws. The pollsters spoke to <m>{{sample}}</m> American adults from October 3rd - 6th, 2023. Of the poll participants, <m>{{result}}</m><m>\%</m> {{outcome}}</p>
+        A recent poll investigated support amongst American adults regarding stricter gun laws. The pollsters spoke to <m>{{sample}}</m> American adults from October 3rd - 6th, 2023. Of the poll participants, <m>{{result}}</m><m>\%</m> {{outcome}}</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>

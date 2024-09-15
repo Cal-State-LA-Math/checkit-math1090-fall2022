@@ -12,7 +12,11 @@
         One area where samples are regularly used is in medicine. Drug companies will test samples of patients to find out the average proportion of the sample who will experience a reduction in symptoms to determine the efficacy of the medication.
         </p>
      <p>
-        Suppose that two drug companies make different versions of Ibuprofen (the active ingredient in Advil, Motrin, etc.). Both companies have done extensive testing on their versions by running medical trials on sample groups of adults. These samples are considered sufficiently large enough that the sampling distribution is normally distributed. Assume that Company A’s version has shown that the proportion of the population who will experience a reduction in symptoms is 0.50 which results in a standard error for the sampling distribution of 0.0745. Assume that Company B’s version has shown that the proportion of the population who will experience a reduction in symptoms is 0.45 which results in a standard error for the sampling distribution of 0.0742. Please use this information to answer the questions below. Please assume that all samples referenced below are the same size as the medical trials and that Company A and Company B used the same size samples.
+        Suppose that two drug companies make different versions of Ibuprofen (the active ingredient in Advil, Motrin, etc.). Both companies have done extensive testing on their versions by running medical trials on sample groups of adults. These samples are considered sufficiently large enough that the sampling distribution is normally distributed. </p>
+         <p>• The mean proportion of the population who will experience a reduction in symptoms from Company A's drug is 0.50 with a standard deviation of 0.0745. </p>
+         <p>• The mean proportion of the population who will experience a reduction in symptoms from Company B's drug is 0.45 with a standard deviation of 0.0742. </p>
+         
+        <p> Please use this information to answer the questions below.
         </p>
      </intro>
     <knowl>

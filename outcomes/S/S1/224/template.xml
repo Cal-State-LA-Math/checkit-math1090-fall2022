@@ -3,15 +3,15 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-         In Fall 2023, Harvard University released their latest Youth Poll where they asked US young adults about their political opinions, voting trends, and views on public service. The Fall 2023 Harvard Youth Poll surveyed <m>{{sample}}</m>, 18 to 29 year old US residents from October 23 through November 6, 2023. Of the poll participants, <m>{{result}}</m><m>\%</m> {{outcome}}</p>
+         In Fall 2023, Harvard University released their latest Youth Poll where they asked young American adults about their political opinions, voting trends, and views on public service. They surveyed <m>{{population }}</m> 18 to 29 year old American adults from October 23 through November 6, 2023, of which <m>{{sample}}</m> responded. Of the poll participants, <m>{{result}}</m><m>\%</m> {{outcome}}</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>
-        <outtro><p>young US adults</p></outtro>
+        <outtro><p>young American adults</p></outtro>
     </knowl>
     <knowl>
         <content><p>What is the sample?</p></content>
-        <outtro><p>The <m>{{sample}}</m> US adults aged 18 to 29 that were polled.</p></outtro></knowl>
+        <outtro><p>The <m>{{sample}}</m> American adults aged 18 to 29 that were polled.</p></outtro></knowl>
     <knowl>
         <content><p>What is the variable used for this study?</p></content>
         <outtro><p>Does the young adult {{outcome}}</p></outtro>
@@ -26,5 +26,5 @@
     </knowl>
     <knowl>
         <content><p>What is the parameter of interest for this study? (the population parameter they are trying to gather information about)</p></content>
-        <outtro><p>The parameter of interest is what percentage of US young adults {{outcome}}</p></outtro></knowl>
+        <outtro><p>The parameter of interest is what percentage of American young adults {{outcome}}</p></outtro></knowl>
 </knowl>

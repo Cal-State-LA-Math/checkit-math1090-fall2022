@@ -5,7 +5,7 @@
     <p>Show all your calculations, including anything you plug into a calculator. If you use an app, please include a screenshot and explain how the screenshot answers the question. Answers should be given in complete sentences and in the context of the situation.</p>
     <p><em>Scenario:</em></p>
     <p>
-        A study published in the American Journal of Epidemiology compared the birth weights of non-Hispanic white babies born in the US in 1994 to birth weights of Mexican-American babies in the US in 1994. Both sets of birth weights were found to be normally distributed. The mean birth weight of non-Hispanic white babies was 3,393 g with a standard deviation of 562 g. The mean birth weight of Mexican-American babies was 3,343 g with a standard deviation of 598 g. Please use this information to answer the questions below.
+        A study compared the birth weights of non-Hispanic white babies born in the US in 1994 to birth weights of Mexican-American babies in the US in 1994. Both sets of birth weights were found to be normally distributed. The mean birth weight of non-Hispanic white babies was 3,393 grams with a standard deviation of 562 grams. The mean birth weight of Mexican-American babies was 3,343 grams with a standard deviation of 598 grams. Please use this information to answer the questions below.
        </p>
      </intro>
     <knowl>
@@ -20,11 +20,11 @@
         <outtro><p><m>{{answer_3}}</m> grams </p></outtro>
     </knowl>
     <knowl>
-        <content><p>What proportion of {{ind_4}} babies are born weighing between <m>{{dep_3}}</m> and <m>{{dep_4}}</m> grams?</p></content>
+        <content><p>What proportion of {{ind_4}} babies are born weighing between <m>{{dep_3}}</m> grams and <m>{{dep_4}}</m> grams?</p></content>
         <outtro><p><m>{{answer_4}}</m></p></outtro>
     </knowl>
     <knowl>
-        <content><p>A woman gives birth to a baby whose weight is heavier than <m>{{percent_2}}</m>% of all babies. For which race would the baby weigh more? Justify your answer using a statistical analysis.</p></content>
+        <content><p>A woman gives birth to a baby whose weight is heavier than <m>{{percent_2}}</m>% of all babies of their race. For which race would the baby weigh more? Justify your answer using a statistical analysis.</p></content>
         <outtro><p>Non-Hispanic white baby's birth weight = <m>{{answer_5a}}</m> | Mexican-American baby's birth weight = <m>{{answer_5b}}</m></p></outtro>
     </knowl>
 </knowl>

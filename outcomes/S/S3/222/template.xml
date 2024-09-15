@@ -3,7 +3,7 @@
     <intro>
         <p><em>Scenario:</em></p>
         <p>
-        A new study published in the Journal of the American Medical Association evaluated the effects of methylprednisolone, a cheap, widely used corticosteroid drug, as a treatment for IgA Nephropathy, an autoimmune disease that often results in the loss of kidney function up to and including kidney failure. Researchers recruited {{n}} patients who had been diagnosed with IgA Nephropathy from centers across Australia, Canada, China, India and Malaysia between May 2012 and November 2019. Patients were randomly enrolled into one of three groups, a group that received a dose of methylprednisolone daily, a group that received a half dose of methylprednisolone daily, or a placebo group. Clinicians who {{blinding}} who was in which of the three groups tracked the kidney function of the patients. {{results}}. </p>
+        A new study evaluated the effects of methylprednisolone, a cheap, widely used drug, as a treatment for IgA Nephropathy, an autoimmune disease that often results in the loss of kidney function up to and including kidney failure. Researchers recruited {{n}} patients who had been diagnosed with IgA Nephropathy from centers across Australia, Canada, China, India and Malaysia between May 2012 and November 2019. Patients were randomly enrolled into one of three groups, a group that received a dose of methylprednisolone daily, a group that received a half dose of methylprednisolone daily, or a placebo group. Clinicians who {{blinding}} who was in which of the three groups tracked the kidney function of the patients. {{results}}. </p>
     </intro>
     <knowl>
         <content><p>Describe the treatment group(s).</p></content>

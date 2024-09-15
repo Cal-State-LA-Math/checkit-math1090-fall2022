@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-       A poll was conducted by The Gallup Organization to find out how American Adults opinions about the U.S. Economy. Researchers randomly sampled <m>1726</m> adults ages 18 and over, living in all 50 states and the District of Columbia from June 1st to June 22nd. <m>{{sample}}</m> of those contacted responded to the poll. Of those that responded <m>{{result}}</m>% {{outcome}}.</p>
+        A poll was conducted to find out what American Adults think about the U.S. Economy. Researchers randomly called <m>{{population}}</m> American adults and  spoke to  <m>{{sample}}</m> American adults from June 1st to June 22nd. Of those polled, <m>{{result}}</m>% {{outcome}}.</p>
     </intro>
     <knowl>
         <content><p>What is the population that this study is trying to get information about?</p></content>
@@ -11,7 +11,7 @@
     </knowl>
     <knowl>
         <content><p>What is the sample?</p></content>
-        <outtro><p>The <m>{{sample}}</m> adults that responded to the poll.</p></outtro></knowl>
+        <outtro><p>The <m>{{sample}}</m> American adults that responded to the poll.</p></outtro></knowl>
     <knowl>
         <content><p>What is the variable used for this study?</p></content>
         <outtro><p>The opinion of an American adult about the U.S. Economy</p></outtro>

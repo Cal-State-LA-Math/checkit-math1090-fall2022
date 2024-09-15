@@ -38,7 +38,12 @@
       </p>
     </intro>
     <knowl>
-        <content><p>Which students should be awarded the scholarship? Be sure to give ALL the students that should be awarded the scholarship. Justify your answer using the results of your statistical analysis. Show all calculations that you use to determine how to compare their scores, including anything you typed into your calculator or put into an app. If you use an app, include complete screenshots.</p></content>
+        <content><p>Which students should be awarded the scholarship? </p>
+            <p>* Be sure to give ALL the students that should be awarded the scholarship. It is LIKELY that more than one student will qualify for the scholarship.</p>
+            <p>* Justify your answer using the results of your statistical analysis. </p>
+            <p>* Show all calculations that you use to determine how to compare their scores, including anything you typed into your calculator or put into an app. </p>
+            <p>* If you use an app, include complete screenshots.</p>
+        </content>
         <outtro><p>
             <me>
         \begin{array}{|c|c|}
