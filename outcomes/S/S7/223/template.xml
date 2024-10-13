@@ -42,7 +42,10 @@
         <outtro><p>{{answer4_1n}} / {{answer4_d}}  = {{answer4}}</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Which is more likely, that a randomly selected permit is to build a {{region_3}} unit given that it is in the {{type4}} or that a randomly selected permit is a NOT in the {{region_4}} region? Show all calculations that you use and provide an explanation as to why your final answer is the correct one.</p></content>
+        <content>
+            <p>Which of the two below is more likely? Show all calculations that you use and provide an explanation as to why your final answer is the correct one.</p>
+            <p>* That a randomly selected permit is to build a {{region_3}} unit given that it is in the {{type4}}.</p> 
+            <p>* That a randomly selected permit is a NOT in the {{region_4}} region.</p></content>
         <outtro><p>P( {{region_3}} | {{type4}} ) = {{answer5_1n}} / {{answer5_1d}} = {{answer5_1}}  ||  P( not {{region_4}} ) = 1 - {{answer5_2n}} / {{answer_c}} = {{answer5_2}}</p></outtro>
     </knowl>
 </knowl>

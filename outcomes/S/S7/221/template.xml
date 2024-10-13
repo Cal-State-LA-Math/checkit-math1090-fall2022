@@ -3,7 +3,7 @@
     <intro>
     <p><em>Scenario:</em></p>
     <p>
-         In reaction to the pandemic, public schools have been required to adapt to a variety of learning modalities. The three main ones are In Person, Online, and Hybrid modalities. Below is a summary of the number of schools in each of four states that offered classes in each of the three modalities for the week of January 9, 2022. Use this table to answer the questions, assuming that one of the schools has been randomly selected.</p>
+         In reaction to the pandemic, public schools have been required to adapt to a variety of learning settings. The three main types of settings are In Person, Online, and Hybrid. Below is a summary of the number of schools in each of four states that offered classes in each of the three settings for the week of January 9, 2022. Use this table to answer the questions, assuming that one of the schools has been randomly selected.</p>
     <p>
         Make sure to show your computations and to give reasons ( in words) about how you came up with your answers. Round your answer to four decimal places. Failure to show all computations or incorrect rounding may result in a score of "not mastered".</p>
     <p>
@@ -41,7 +41,10 @@
         <outtro><p>1 - ( {{answer4_n}} / {{answer_c}} ) = {{answer4}}</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Which is more likely that a randomly selected school in {{state3}} is offering {{class2}} classes or that a randomly selected school offering {{class3}} classes is in {{state4}}? Show all calculations that you use and provide an explanation as to why your final answer is the correct one.</p></content>
+        <content>
+            <p>Which of the two below is more likely? Show all calculations that you use and provide an explanation as to why your final answer is the correct one.</p>
+            <p>* That a randomly selected school in {{state3}} is offering {{class2}} classes.</p>
+            <p>* That a randomly selected school offering {{class3}} classes is in {{state4}}.</p></content>
         <outtro><p>{{answer5_1n}} / {{answer5_1d}} = {{answer5_1}}  ||  {{answer5_2n}} / {{answer5_2d}} = {{answer5_2}}</p></outtro>
     </knowl>
 </knowl>

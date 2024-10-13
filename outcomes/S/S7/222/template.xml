@@ -42,7 +42,9 @@
         <outtro><p>{{answer4_1n}} / {{answer4_d}}  = {{answer4}}</p></outtro>
     </knowl>
     <knowl>
-        <content><p>Which is more likely that a randomly selected student goes to a college in {{state3}} given that they are a {{major3}} major or that a randomly selected student is a {{major4}} major? Show all calculations that you use and provide an explanation as to why your final answer is the correct one.</p></content>
+        <content><p>Which of the two below is more likely? Show all calculations that your use and provide an explanantion as to why your final answer is the correct one.</p>
+            <p>* That a randomly selected student goes to a college in {{state3}} given that they are a {{major3}} major.</p> 
+            <p>* That a randomly selected student is a {{major4}} major.</p></content>
         <outtro><p>P( {{state3}} | {{major3}} ) = {{answer5_1n}} / {{answer5_1d}} = {{answer5_1}}  ||  P( {{major4}} ) = {{answer5_2n}} / {{answer_c}} = {{answer5_2}}</p></outtro>
     </knowl>
 </knowl>

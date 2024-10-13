@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <intro>
+        <p><em>Scenario:</em></p>
+        <p>
+        A new study suggests that "Pink Drinks can help you run faster and further." Researchers investigated the effect of drink color on exercise performance. In this study, 158 active {{age}} were instructed to run for 30 minutes on a treadmill. Half of the participants used a pink drink to rinse their mouths during the run, the other half used a clear drink to rinse their mouths during the run. The drinks were identical except for color. The participants were randomized as to which drink they received. The researchers evaluating the performance of the participants {{blinding}}. Researchers noted the speed each participant selected for their run and asked participants to decide to what degree they agreed with the statement “The drink I was given made me feel very good and like I was capable of running faster and longer.” The possible answer were "Strongly Agree", "Agree", "Neutral", "Disagree", "Strongly Disagree". {{results}}</p>
+        <p>Some of the results are shown in the graphs below</p>
+        <p>
+            <image source="../assets/PR2/241-1.png" description="bar chart"/>
+        </p>
+        <p>
+            <image source="../assets/PR2/241-2.png" description="histogram"/></p>
+    </intro>
+    <knowl>
+        <content><p>Describe the control group.</p></content>
+        <outtro>
+            <p><m>{\large Answer}</m></p>
+            <p>The half of the 158, {{age}} that rinsed with a clear drink</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>What is the explanatory variable?</p></content>
+    <outtro>
+         <p><m>{\large Answer}</m></p>
+        <p>The pink color of the drink</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>What were the response variables?</p></content>
+    <outtro>
+         <p><m>{\large Answer}</m></p>
+        <p>The distance covered and the feeling of pleasure from the drink</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>Did the researchers use any blinding? If so, what was blinded? Explain your answer.</p></content>
+    <outtro>
+         <p><m>{\large Answer}</m></p>
+        <p>{{answer_4}}. Explanation needed.</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>What does the {{color}} bar above the {{bar}} mean in context of the experiment mean?</p></content>
+        <outtro><p>The {{color}} bar above the {{bar}} means that in the {{group}} group, <m>{{percent}}</m><m>\%</m> of them answer {{bar}} to the statement "The drink I was given made me feel very good and like I was capable of running faster and longer"</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>How many of the subjects in the {{group_2}} group rated their agreement with the statement "The drink I was given made me feel very good and like I was capable of running faster and longer." as {{bar_2}}?</p></content>
+    <outtro><p><m>{{answer_bar}}</m></p></outtro></knowl>
+    <knowl>
+    <content><p>What does the bar in the histogram with the <m>{{number_h}}</m> above it represent?</p></content>
+    <outtro>
+        <p><m>{\large Answer}</m></p>
+        <p>Out of the 79 people in the treatment group, {{number_h}} of them ran at a speed between {{answer_h}} mph.</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>What percentage of the subjects in the treatment group ran at a speed between <m>{{speed_1}}</m> and <m>{{speed_2}}</m> mph?</p></content>
+        <outtro><p>(<m>{{answer_3a}}</m> + <m>{{answer_3b}}</m> + <m>{{answer_3c}}</m>) / 79 = <m>{{answer_3}}</m><m>\%</m></p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>Are the results generalizable to all adults? Explain your answer.</p></content>
+    <outtro>
+         <p><m>{\large Answer}</m></p>
+        <p>No. Explanation needed, student explanations will vary.</p></outtro></knowl>
+</knowl>
+
+
+
+
+
+
+
+
