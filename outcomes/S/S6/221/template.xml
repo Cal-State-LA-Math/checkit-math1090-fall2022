@@ -28,7 +28,7 @@
             <outtro><p><m>{{answer_2}}</m> MPH</p></outtro>
         </knowl>
         <knowl>
-            <content><p>Would you use one of the regression models to predict the maximum speed of a roller coaster with a {{var_3}} of <m>{{value_3}}</m> {{unit_3}}? Why or why not?</p></content>
+            <content><p>Would you use {{quest_3}} to predict the maximum speed of a roller coaster with a {{var_3}} of <m>{{value_3}}</m> {{unit_3}}? Why or why not?</p></content>
             <outtro><p>No, {{answer_3}}</p></outtro>
         </knowl>
         <knowl>

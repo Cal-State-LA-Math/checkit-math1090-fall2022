@@ -23,6 +23,9 @@ class Generator(BaseGenerator):
             point_x=drop[OC_4][0]
             point_y=drop[OC_4][1]
             unit_4="feet"
+        quest_3 = "the Speed vs Drop model"
+        if var_3=="duration":
+            quest_3="the Speed vs Duration model"
 
         return {
             "number_2":number_2,
@@ -35,5 +38,6 @@ class Generator(BaseGenerator):
             "unit_4":unit_4,
             "point_x":point_x,
             "point_y":point_y,
+            "quest_3":quest_3,
             
             }

@@ -24,9 +24,9 @@ class Generator(BaseGenerator):
         Min_3=randint(10,12)
         Q1_3=randint(19,21)
         Med_3=Q1_3 + 1
-        Q3_3=Med_2 +2
-        Max_3=Q3_2 
-        Mean_3=random.uniform(Med_2 - 3,Med_2 - 1)
+        Q3_3=Med_3 +2
+        Max_3=Q3_3 +1
+        Mean_3=random.uniform(Med_3 - 3,Med_3 - 1)
         Std_3=random.uniform(2,3)
         OC_1=randint(0,3)
         score_a=[["minimum", "more", "25", Q1_2], ["minimum", "more", "75", Q3_2], ["maximum", "less", "25", Q3_2], ["maximum", "less", "75", Q1_2]]

@@ -29,7 +29,7 @@
             <outtro><p><m>{{answer_2}}</m> kg</p></outtro>
         </knowl>
         <knowl>
-            <content><p>Would you use one of the regression models to predict the mass of someone with a {{size_3}} cm chest? Why or why not?</p></content>
+            <content><p>Would you use the Mass vs Chest size model to predict the mass of someone with a {{size_3}} cm chest? Why or why not?</p></content>
             <outtro><p>No, outside of the data range or extrapolation</p></outtro>
         </knowl>
         <knowl>

@@ -29,7 +29,7 @@
             <outtro><p><m>{{answer_2}}</m></p></outtro>
         </knowl>
         <knowl>
-            <content><p>Would you use one of the regression models to predict the average 2004 SAT verbal score of a state whose population is {{pop_3}}? Why or why not?</p></content>
+            <content><p>Would you use the SAT veral score vs Population model to predict the average 2004 SAT verbal score of a state whose population is {{pop_3}}? Why or why not?</p></content>
             <outtro><p>No, low correlation</p></outtro>
         </knowl>
         <knowl>
