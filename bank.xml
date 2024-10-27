@@ -57,8 +57,8 @@
             <slug>S1-231</slug>
             <path>outcomes/S/S1/231</path>
             <description>I can analyze information about statistical studies</description>
-        </outcome> -->
-        <!-- <outcome>
+        </outcome> 
+         <outcome>
             <title>Samples, Bias, and Variability</title>
             <slug>S2-211P</slug>
             <path>outcomes/S/S2/211P</path>
@@ -183,7 +183,7 @@
             <slug>S4-A-211</slug>
             <path>outcomes/S/S4-A/211</path>
             <description>I can interpret statistical graphs.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-212</slug>
@@ -230,6 +230,12 @@
             <title>Statistical Graphs</title>
             <slug>S4-A-224</slug>
             <path>outcomes/S/S4-A/224</path>
+            <description>I can interpret statistical graphs.</description>
+        </outcome>
+        <outcome>
+            <title>Statistical Graphs</title>
+            <slug>S4-A-241</slug>
+            <path>outcomes/S/S4-A/241</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
          <outcome>
@@ -286,7 +292,7 @@
             <path>outcomes/S/S4-B/224</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+       <!-- <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-211P</slug>
             <path>outcomes/S/S5/211P</path>
@@ -333,7 +339,7 @@
             <slug>S5-224</slug>
             <path>outcomes/S/S5/224</path>
             <description>I can interpret summaries of quantitative data.</description>
-        </outcome> -->
+        </outcome> 
         <outcome> 
             <title>Correlation and Regression</title>
             <slug>S6-211P</slug>
@@ -388,7 +394,7 @@
             <path>outcomes/S/S6/224</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome> 
-      <!-- <outcome>
+       <outcome>
             <title>Probability</title>
             <slug>S7-211P</slug>
             <path>outcomes/S/S7/211P</path>
