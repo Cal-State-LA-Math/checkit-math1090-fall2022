@@ -3,7 +3,7 @@
     <intro>
         <em>The Scenario</em>
           <p>With the recent decision by the US Supreme Court to overturn Roe v. Wade, many states are considering abortion laws, as is the US Congress. The Pew Research Center dedicated much of its July research work into understanding how Americans feel about the decision to overturn Roe v. Wade.</p>
-        <p>In July 2022, the Pew Research Center sent a survey to all the U.S. adult panelists on its research panel. <m>{{s}}</m> panelists responded out of a total panel size of <m>{{n}}</m>. <m>{{x}}</m> panelists believe that abortion should be legal in all or most cases.</p>
+        <p>In July 2022, the Pew Research Center sent a survey to all the U.S. adult panelists on its research panel. <m>{{s}}</m> panelists responded to the survey. <m>{{x}}</m> of the panelists said they believe that abortion should be legal in all or most cases.</p>
         <p> Compute a <m>{{CL}}</m><m>\%</m> confidence interval for the proportion of {{prose}}. You may use an app to do the computations. You must show all your computations and/or a screenshot of any app used. Please use your work answer the following.</p>
     </intro>
     <knowl>

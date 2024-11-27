@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <intro>
+        <em>The Scenario:</em>
+        <p>Every year several different variables are collected from each state. Two of those variables are SAT scores, and proportion of students taking the SAT.</p>
+        <p>Below is a scatterplot showing the relationship between average SAT Verbal scores for the states and proportion of students taking the SAT in that state. </p>
+        <p><image source="../assets/S6/214_A.png" description="Scatter plot and regression line showing states average 2004 SAT verbal vs the proportion of students in the state taking the SAT"/></p>
+        <p>Below is the information about the regression model for the scatter plot above.</p>
+        <list>
+            <item><p>Equation and R^2 value for average SAT Verbal scores vs proportion of students taking the SAT.</p></item>
+            <item><p>SAT Verbal Score = 575.6 - 101.3 * (proportion taking SAT)</p></item>
+            <item><p>The R^2 value for this regression is .790</p></item>
+        </list>
+        <p>Use the scatter plot and the given information about the regression model to answer the questions below.</p>
+        </intro>
+        <knowl>
+            <content><p>What do you predict the average SAT verbal score to be if the proportion of testers were {{number_2}}? Explain why you used the model you did and show all work. Put your final answer into a complete sentence to answer the question.</p></content>
+            <outtro><p><m>{{answer_2}}</m></p></outtro>
+        </knowl>
+        <knowl>
+            <content><p>Would you use the SAT veral score vs Proportion of students taking the SAT model to predict the average 2004 SAT verbal score of a state where the proportion of test takers was <m>{{pop_3}}</m> % ? Why or why not?</p></content>
+            <outtro><p>Yes, there is a good correlation and the point is within the data</p></outtro>
+        </knowl>
+        <knowl>
+            <content><p>There is a dot at ({{point_x}}, {{point_y}}) on the SAT verbal score vs the {{ind_var4}} graph. Explain what this dot represents in context of the study.</p></content>
+            <outtro><p>The dot represents a specific state that in 2004, {{point_y}} was the average SAT verbal score for the state and {{point_x}} was the {{ind_var4}}.</p></outtro>
+        </knowl>
+        
+</knowl>
+

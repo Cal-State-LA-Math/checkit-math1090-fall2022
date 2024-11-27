@@ -19,7 +19,7 @@
         <outtro><p><m>{{answer_2}}</m></p></outtro>
     </knowl>
     <knowl>
-        <content><p>If you randomly choose a sample of {{ind_3}}, what is the {{min_max}} mean diameter the wire can have and still have a {{dir_1}} diameter than <m>{{percent_1}}</m>% of the other {{ind_3}}?</p></content>
+        <content><p>If you randomly choose a sample of {{ind_3}}, what is the {{min_max}} mean diameter the wire can have and still have a {{dir_1}} diameter than <m>{{percent_1}}</m><m>\%</m> of the other {{ind_3}}?</p></content>
         <outtro><p><m>{{answer_3}}</m></p></outtro>
     </knowl>
     <knowl>

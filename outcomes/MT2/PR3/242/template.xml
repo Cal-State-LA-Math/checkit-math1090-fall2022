@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <intro>
+        <p><em>The Scenario</em></p>
+          <p>A new Pew Research Center survey found that large shares of Americans support the United States taking steps to address global climate change and back an energy landscape that prioritizes renewable sources like wind and solar. The Biden-Harris administration announced in May 2023 nearly $11 Billion in grants and loan opportunities that will help rural energy and utility providers bring affordable, reliable clean energy to their communities across the country. The Democratic party is considering making investment in renewable energy a central part of their goals for the 2024 election. The Party committee will highlight renewable energy if more than 65% of the American population supports it.</p>
+        <p>The Pew Research Center surveyed U.S. adults between May 30th and June 4th, 2023. <m>10,000</m> adults responded to the surveyed. <m>{{x}}</m> say that they support prioritizing the development of alternative energy sources such as wind, solar and hydrogen power.</p>
+    </intro>
+    <knowl>
+        <intro><p><em>Part A - S8</em></p>
+        </intro>
+      <knowl>
+          <content><p>What percentage of the sample supports this plan or the <m>\hat{p}</m> ? Please give your answer exact to four decimal places.</p></content>
+          <outtro><p><m>\hat{p} = {{phat}}</m></p></outtro>
+      </knowl>
+      <knowl>
+        <content><p>What is the z-score for this sample if you assume a mean of .65 and a standard deviation of <m> {{stand_dev}}</m></p></content>
+        <outtro><p>The z-score = <m>{{SD}}</m></p></outtro>
+      </knowl>
+      <knowl>
+          <content><p>Suppose they surveyed another random sample of 10,000 people. What is the probability that <m> {{phat_2}}</m> % or less of the new sample would support the plan?</p></content>
+          <outtro><p>The probability would be <m> {{prob}}</m></p></outtro>
+      </knowl>
+    </knowl>
+ <knowl>
+        <intro><p><em>Part B - S9</em></p>
+        <p> Compute the confidence interval from the sample at a {{CL}}% confidence level and provide all your computations. You may use an app to do the computations. Provide a screenshot of any app you use and all computation you do. Use your confidence interval to answer the follow:</p>
+        </intro>
+      <knowl>
+        <content><p>What is the standard error for this interval? Please give your answer exact to four decimal places.</p></content>
+        <outtro><p><m>SE={{SE1}}</m></p></outtro>
+      </knowl>
+      <knowl>
+        <content><p>What is the confidence interval? Please give your answer in proper interval format exact to four decimal places.</p></content>
+        <outtro><p><m>[{{LB}}, {{UB}}]</m></p></outtro>
+      </knowl>
+    <knowl>
+        <content><p>Put your interval into the context of the scenario.</p></content>
+        <outtro><p>We can say with {{CL}}% confidence, that between <m>{{LB_p}}</m>% and <m>{{UB_p}}</m>% of Americans support the Biden-Harris plan</p></outtro>
+    </knowl>
+    </knowl>
+<knowl>
+    <intro>
+         <p><em>Part C - S10</em></p>
+           <p> The Democratic party is considering making investment in renewable energy a central part of their goals for the 2024 election. The Party committee will highlight renewable energy if more than 65% of the American population supports it. Do a hypothesis test using the same sample from part A and confidence level from part B. You may use an app to do the test. If you do so, you must insert a screenshot of your work and also specifically identify the following:</p>
+    </intro>
+      <knowl>
+            <content><p>What are your null and alternative hypotheses? Be sure to use appropriate notation and justify your choice of the alternative hypothesis from the context of the problem.</p></content>
+            <outtro><p><m>H_0: p = 0.65</m>     <m>H_A: p > 0.65</m></p></outtro></knowl>
+      <knowl>
+            <content><p>What is the p-value of your test?</p></content>
+            <outtro><p>p-value = {{pvalue}}</p></outtro>
+      </knowl>
+      <knowl>
+            <content><p>What is the conclusion of your hypothesis test? Include statistical justification for your conclusion.</p></content>
+            <outtro><p>{{conclusion}} the <m>H_0</m></p></outtro>
+      </knowl>
+      <knowl>
+            <content><p>Does the hypothesis test support the Democratic party making investment in renewable energy a center part of their goals for the 2024 election? Why or why not?</p></content>
+            <outtro><p>{{context}}</p></outtro>
+      </knowl>
+</knowl>
+</knowl>

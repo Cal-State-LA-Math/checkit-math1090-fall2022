@@ -19,7 +19,7 @@
         <outtro><p><m>{{answer_2}}</m></p></outtro>
     </knowl>
     <knowl>
-        <content><p>If you randomly choose a someone who is a {{ind_3}}, what is the {{min_max}} bone density they can have and still have a {{dir_1}} bone density than <m>{{percent_1}}</m><m>%</m> of all other {{ind_3a}}.</p></content>
+        <content><p>If you randomly choose a someone who is a {{ind_3}}, what is the {{min_max}} bone density they can have and still have a {{dir_1}} bone density than <m>{{percent_1}}</m><m>\%</m> of all other {{ind_3a}}.</p></content>
         <outtro><p><m>{{answer_3}}</m> </p></outtro>
     </knowl>
     <knowl>

@@ -3,7 +3,7 @@
     <intro>
         <em>The Scenario</em>
           <p>Now that the 2022 Midterm elections are complete, the race for the President of the United States to be chosen in 2024 has already begun. Candidates are starting to jockey for position and gather potential donors and voters.</p>
-          <p>A democratic governor is considering a run for the White House and wants to know if they will get enough support to make a viable campaign. They do a survey of registered Democratic voters nationwide. They send the survey to <m>{{n}}</m> voters, of which <m>{{s}}</m> respond. <m>{{x}}</m> say they would seriously consider this governor if they ran for the white house.</p>
+          <p>A democratic governor is considering a run for the White House and wants to know if they will get enough support to make a viable campaign. They do a survey of registered Democratic voters nationwide. They send a survey to likely Democratic voters. They received <m>{{s}}</m> responds back and <m>{{x}}</m> say they would seriously consider this governor if they ran for the white house.</p>
         <p> Compute a <m>{{CL}}</m><m>\%</m> confidence interval for the proportion of {{prose}}. You may use an app to do the computations. You must show all your computations and/or a screenshot of any app used. Please use your work answer the following.</p>
     </intro>
     <knowl>
