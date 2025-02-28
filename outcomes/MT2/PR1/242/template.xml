@@ -18,7 +18,7 @@
             <outtro><p><m>{{answer_2}}</m></p></outtro>
         </knowl>
         <knowl>
-            <content><p>Would you use the SAT veral score vs Proportion of students taking the SAT model to predict the average 2004 SAT verbal score of a state where the proportion of test takers was <m>{{pop_3}}</m> % ? Why or why not?</p></content>
+            <content><p>Would you use the SAT verbal score vs Proportion of students taking the SAT model to predict the average 2004 SAT verbal score of a state where the proportion of test takers was <m>{{pop_3}}</m> % ? Why or why not?</p></content>
             <outtro><p>Yes, there is a good correlation and the point is within the data</p></outtro>
         </knowl>
         <knowl>

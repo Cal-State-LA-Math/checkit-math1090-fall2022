@@ -23,7 +23,7 @@
     </knowl>
  <knowl>
         <intro><p><em>Part B - S9</em></p>
-        <p> Compute the confidence interval for the sample at a {{CL}}% confidence level and provide all your computations. You may use an app to do the computations. Provide a screenshot of any app you use and all computation you do. Use your confidence interval to answer the follow:</p>
+        <p> Compute the confidence interval for the sample at a {{CL}}<m>\%</m> confidence level and provide all your computations. You may use an app to do the computations. Provide a screenshot of any app you use and all computation you do. Use your confidence interval to answer the follow:</p>
         </intro>
       <knowl>
         <content><p>What is the standard error for this interval? Please give your answer exact to four decimal places.</p></content>
@@ -35,13 +35,13 @@
       </knowl>
     <knowl>
         <content><p>Put your interval into the context of the scenario.</p></content>
-        <outtro><p>We can say with {{CL}}% confidence, that the return rate for third party sellers on Amazon is between <m>{{LB_p}}</m>% and <m>{{UB_p}}</m>%.</p></outtro>
+        <outtro><p>We can say with {{CL}}<m>\%</m> confidence that the return rate for third party sellers on Amazon is between <m>{{LB_p}}</m><m>\%</m> and <m>{{UB_p}}</m><m>\%</m>.</p></outtro>
     </knowl>
     </knowl>
 <knowl>
     <intro>
          <p><em>Part C - S10</em></p>
-           <p> The CFO of Robert’s Dad Joke Gifts claims that Amazon’s return rate for third party sellers is NOT <m>16</m>%. Do a hypothesis test using the same sample from part A and confidence level from part B. You may use an app to do the test. If you do so, you must insert a screenshot of your work and also specifically identify the following:</p>
+           <p> The CFO of Robert’s Dad Joke Gifts claims that Amazon’s return rate for third party sellers is NOT <m>16</m><m>\%</m>. Do a hypothesis test using the same sample from part A and confidence level from part B. You may use an app to do the test. If you do so, you must insert a screenshot of your work and also specifically identify the following:</p>
     </intro>
       <knowl>
             <content><p>What are your null and alternative hypotheses? Be sure to use appropriate notation and justify your choice of the alternative hypothesis from the context of the problem.</p></content>

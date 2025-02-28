@@ -4,7 +4,7 @@
     <slug>ma-1090</slug>
     <url>#</url>
     <outcomes>
-          <outcome>
+        <!--  <outcome>
           <title>Statistical Studies</title>
             <slug>S1-211P</slug>
             <path>outcomes/S/S1/211P</path>
@@ -177,7 +177,7 @@
             <slug>S3-232</slug>
             <path>outcomes/S/S3/232</path>
             <description>I can identify and analyze key elements of experiments.</description>
-        </outcome>
+        </outcome> -->
         <outcome>
             <title>Statistical Graphs</title>
             <slug>S4-A-211</slug>
@@ -292,7 +292,7 @@
             <path>outcomes/S/S4-B/224</path>
             <description>I can interpret statistical graphs.</description>
         </outcome>
-        <outcome>
+      <!--  <outcome>
             <title>Summaries of Quantitative Data</title>
             <slug>S5-211P</slug>
             <path>outcomes/S/S5/211P</path>
@@ -339,7 +339,13 @@
             <slug>S5-224</slug>
             <path>outcomes/S/S5/224</path>
             <description>I can interpret summaries of quantitative data.</description>
-        </outcome> 
+        </outcome>
+         <outcome>
+            <title>Summaries of Quantitative Data</title>
+            <slug>S5-241</slug>
+            <path>outcomes/S/S5/241</path>
+            <description>I can interpret summaries of quantitative data.</description>
+        </outcome> -->
         <outcome> 
             <title>Correlation and Regression</title>
             <slug>S6-211P</slug>
@@ -394,7 +400,7 @@
             <path>outcomes/S/S6/224</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome> 
-       <outcome>
+     <!--  <outcome>
             <title>Probability</title>
             <slug>S7-211P</slug>
             <path>outcomes/S/S7/211P</path>
@@ -723,67 +729,80 @@
             <slug>MP2-224</slug>
             <path>outcomes/MP/MP2/224</path>
             <description>I can make a viable argument and justify it using statistical analysis in words and communicate that justification.</description>
-        </outcome> 
+        </outcome>
          <outcome>
             <title>Statistical Studies</title>
-            <slug>PR1-241</slug>
+            <slug>MT1-PR1-241</slug>
             <path>outcomes/MT1/PR1/241</path>
             <description>I can analyze information about statistical studies</description>
         </outcome>
          <outcome>
             <title>Experiment and Graph</title>
-            <slug>PR2-241</slug>
+            <slug>MT1-PR2-241</slug>
             <path>outcomes/MT1/PR2/241</path>
             <description>I can identify and analyze key elements of experiments</description>
         </outcome>
          <outcome>
             <title>Numeric Summaries</title>
-            <slug>PR3-241</slug>
+            <slug>MT1-PR3-241</slug>
             <path>outcomes/MT1/PR3/241</path>
             <description>I can use numerical summaries</description>
         </outcome> 
         <outcome>
             <title>Correlation and Regression</title>
-            <slug>PR1-241</slug>
+            <slug>MT2-PR1-241</slug>
             <path>outcomes/MT2/PR1/241</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
          <outcome>
             <title>Probability</title>
-            <slug>PR2-241</slug>
+            <slug>MT2-PR2-241</slug>
             <path>outcomes/MT2/PR2/241</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
          <outcome>
             <title>Normal Dist, Conf Int, and Hyp Tests</title>
-            <slug>PR3-241</slug>
+            <slug>MT2-PR3-241</slug>
             <path>outcomes/MT2/PR3/241</path>
             <description>I can compute confidence intervals and hypothesis tests, interpret their results in the context of the problem, and compare the results of the two tests.</description>
         </outcome>
         <outcome>
             <title>Statistical Studies</title>
-            <slug>PR1-242</slug>
+            <slug>MT1-PR1-242</slug>
             <path>outcomes/MT1/PR1/242</path>
             <description>I can analyze information about statistical studies.</description>
-        </outcome> 
+        </outcome>
+         <outcome>
+            <title>Experiment and Graph</title>
+            <slug>MT1-PR2-242</slug>
+            <path>outcomes/MT1/PR2/242</path>
+            <description>I can identify and analyze key elements of experiments</description>
+        </outcome>
+        <outcome>
+            <title>Numeric Summaries</title>
+            <slug>MT1-PR3-242</slug>
+            <path>outcomes/MT1/PR3/242</path>
+            <description>I can use numerical summaries</description>
+        </outcome>
         <outcome>
             <title>Correlation and Regression</title>
-            <slug>PR1-242</slug>
+            <slug>MT2-PR1-242</slug>
             <path>outcomes/MT2/PR1/242</path>
             <description>I can use correlation and regression to describe relationships between two variables in a set of data.</description>
         </outcome>
         <outcome>
             <title>Probability</title>
-            <slug>PR2-242</slug>
+            <slug>MT2-PR2-242</slug>
             <path>outcomes/MT2/PR2/242</path>
             <description>I can use basic probability rules to analyze a given situation, set of data, or provided probabilities.</description>
         </outcome>
         <outcome>
             <title>Normal Dist, Conf Int, and Hyp Tests</title>
-            <slug>PR3-242</slug>
+            <slug>MT2-PR3-242</slug>
             <path>outcomes/MT2/PR3/242</path>
             <description>I can compute confidence intervals and hypothesis tests, interpret their results in the context of the problem, and compare the results of the two tests.</description>
-        </outcome>
+        </outcome> -->
+       
     </outcomes>
     
 </bank>

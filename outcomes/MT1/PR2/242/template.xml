@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <intro>
+        <p><em>Scenario:</em></p>
+        <p>
+        A new study examined the effect of taking micronutrients for children with ADHD. Researchers enrolled 576 children ages {{age}} years who had been diagnosed with ADHD. The children were randomly enrolled into one of two groups, a group that received a micronutrient supplement (taken as 9 to 12 capsules per day with food) and a placebo group. Clinicians, who did {{blinding}} who was receiving the supplement and who was receiving the placebo, rated the children on a range of behavioral scales both through direct observation and through interviews with parents. Additionally, the amount of time the children could spend on a task requiring focus was measured before and after receiving the treatment or the placebo. The Clinicians rated the children on a scale of “No Improvement”, “Mild Improvement”, “Moderate Improvement”, “Substantial Improvement”, “Very Substantial Improvement”. The group receiving the supplement showed a statistically significant improvement in behavior on the direct observation reports as compared to the placebo group.</p>
+        <p>Some of the results are shown in the graphs below</p>
+        <p>
+            <image source="../assets/PR2-242/242-A.png" description="bar chart"/>
+        </p>
+        <p>
+            <image source="../assets/PR2-242/242-B.png" description="histogram"/></p>
+    </intro>
+    <knowl>
+        <content><p>Describe the control group.</p></content>
+        <outtro>
+            <p><m>{\large Answer}</m></p>
+            <p>The half of the 576, {{age}} year olds that were given the placebo</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>What is the explanatory variable?</p></content>
+    <outtro>
+         <p><m>{\large Answer}</m></p>
+        <p>The micronutrients supplements</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>What were the response variables?</p></content>
+    <outtro>
+         <p><m>{\large Answer}</m></p>
+        <p>The children's behavior and the amount of time the children could spend on a task requiring focus</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>Did the researchers use any blinding? If so, what was blinded? Explain your answer.</p></content>
+    <outtro>
+         <p><m>{\large Answer}</m></p>
+        <p>{{answer_4}}. Explanation needed.</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>What does the {{color}} bar above the {{bar}} mean in context of the experiment mean?</p></content>
+        <outtro><p>The {{color}} bar above the {{bar}} means that in the {{group}} group, <m>{{percent}}</m><m>\%</m> of them showed {{bar}} in their behavior scores</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>How many of the subjects in the {{group_2}} group showed {{bar_2}} in their behavior?</p></content>
+    <outtro><p><m>{{answer_bar}}</m></p></outtro></knowl>
+    <knowl>
+    <content><p>What does the bar in the histogram with the <m>{{number_h}}</m> above it represent?</p></content>
+    <outtro>
+        <p><m>{\large Answer}</m></p>
+        <p>Out of the 288 children in the treatment group, {{number_h}} of them improved by between {{answer_h}} minutes focused on their task.</p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>What percentage of the subjects in the treatment group increased their time on task by between <m>{{speed_1}}</m> and <m>{{speed_2}}</m> minutes?</p></content>
+        <outtro><p>(<m>{{answer_3a}}</m> + <m>{{answer_3b}}</m> + <m>{{answer_3c}}</m>) / 288 = <m>{{answer_3}}</m><m>\%</m></p></outtro>
+    </knowl>
+    <knowl>
+    <content><p>Are the results generalizable to all children with ADHD? Explain your answer.</p></content>
+    <outtro>
+         <p><m>{\large Answer}</m></p>
+        <p>No. Explanation needed, student explanations will vary.</p></outtro></knowl>
+</knowl>
+
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <intro>
+        <p><em>Scenario:</em></p>
+        <p>A reporter for a newspaper is doing an article about the cost of attending college. She collects the total annual cost for an in-state student (including tuition, fees, housing, and meals) from 4-year institutions in {{name_1}}, {{name_2}}, {{name_3}}. The three data sets are summarized below:</p>
+        <p><m>{\textsf{\textbf {{name_1}} }} </m></p>
+        <p>
+            <me>\begin{array}{|c|c|c|c|c|c|c|c|}
+                \hline
+                \text{N} &amp;\text{Min} &amp;\text{Q1} &amp;\text{Median} &amp;\text{Q3} &amp;\text{Max} &amp;\text{Mean} &amp;\text{Std Dev}\\
+                \hline
+                \ {{N_1}} &amp; {{Min_1}} &amp; {{Q1_1}} &amp;\text{ {{Med_1}} } &amp;\text{ {{Q3_1}} } &amp;\text{ {{Max_1}} } &amp;\text{ {{Mean_1}} } &amp;\text{ {{Std_1}} }\\
+                \hline
+                \end{array}
+            </me>
+        </p>
+        <p><m>{\textsf{\textbf {{name_2}} }} </m></p>
+        <p>
+            <me>\begin{array}{|c|c|c|c|c|c|c|c|}
+                \hline
+                \text{N} &amp;\text{Min} &amp;\text{Q1} &amp;\text{Median} &amp;\text{Q3} &amp;\text{Max} &amp;\text{Mean} &amp;\text{Std Dev}\\
+                \hline
+                \ {{N_2}} &amp; {{Min_2}} &amp; {{Q1_2}} &amp;\text{ {{Med_2}} } &amp;\text{ {{Q3_2}} } &amp;\text{ {{Max_2}} } &amp;\text{ {{Mean_2}} } &amp;\text{ {{Std_2}} }\\
+                \hline
+                \end{array}
+            </me>
+        </p>
+        <p><m>{\textsf{\textbf {{name_3}} }} </m></p>
+        <p>
+            <me>\begin{array}{|c|c|c|c|c|c|c|c|}
+                \hline
+                \text{N} &amp;\text{Min} &amp;\text{Q1} &amp;\text{Median} &amp;\text{Q3} &amp;\text{Max} &amp;\text{Mean} &amp;\text{Std Dev}\\
+                \hline
+                \ {{N_3}} &amp; {{Min_3}} &amp; {{Q1_3}} &amp;\text{ {{Med_3}} } &amp;\text{ {{Q3_3}} } &amp;\text{ {{Max_3}} } &amp;\text{ {{Mean_3}} } &amp;\text{ {{Std_3}} }\\
+                \hline
+                \end{array}
+            </me>
+        </p>
+        
+    </intro>
+    <knowl>
+        <content><p>What is the {{min_max}} average annual cost a school in {{name_2}} could have and still be {{dir_1}} than <m>{{percent_1}}</m><m>\%</m> of other schools in that dataset?</p></content>
+        <outtro>
+            <p><m>{\large Answer}</m></p>
+            <p><m>{{answer_1}}</m> dollars</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>{{name_3}}'s dataset has a quartile {{quar_2}} of <m>{{time_2}}</m>. Explain what this means in terms of the average annual cost of attending a college in that state.</p></content>
+        <outtro>
+            <p><m>{\large Answer}</m></p>
+            <p><m>{{answer_2}}</m><m>\%</m> of {{name_3}}'s 4-year colleges have an average annual cost of <m>{{time_2}}</m> dollars or less.</p></outtro>
+    </knowl>
+    <knowl>
+        <content><p>Describe the shape of the distribution of  that average annual cost of attending a 4-year college in {{name_1}}. Use evidence from the summary table. </p></content>
+        <outtro>
+            <p><m>{\large Answer}</m></p>
+            <p>Skewed right, needs to be justified</p>
+        </outtro>
+    </knowl>
+    <knowl>
+        <content><p>Afer looking at her data, the reporter realized that the most expensive college in {{name_3}} was a "for profit" college and did not want to include it in her report. If that data point was taken out of {{name_3}}'s' data, what would happen to the {{stat}} of it's dataset? Explain your answer.</p></content>
+        <outtro>
+            <p><m>{\large Answer}</m></p>
+            <p>It would go down, explanation needed</p>
+        </outtro>
+    </knowl>
+</knowl>
+
+
+
+
+
